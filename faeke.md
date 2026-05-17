@@ -67,8 +67,8 @@ Some expressions:
 - ola (alive / hello)
 - pai-kai (good-eat / enjoy your meal)
 - malie-moe (calm-sleep / good night)
-- haele tenei-sahi ma tenei-tami (go this-place and this-time / be here now)
-- tenei-tami etalefo ao-li ma emu mahina-li ma elekehifofo la-li muli eno . (this-time, 124 years, 5 months, 27.44 days after 0)
+- haele nei-sahi ma nei-tami (go this-place and this-time / be here now)
+- nei-tami etalefo ao-li ma emu mahina-li ma elekehifofo la-li muli eno . (this-time, 124 years, 5 months, 27.44 days after 0)
 
 A longer example:
 
@@ -256,7 +256,7 @@ Fractional numbers use "i" (on) between the numerator and the denominator as in
 | sacred     | tapu     | tapu        | tapu       | kapu       | sa        |
 | power      | mana     | mana        | mana       | mana       | mana      |
 | alive      | ola      | ora         | ora        | ola        | ola       |
-| this       | tenei  ? | tenei       | teie       | keia       | lenei     |
+| this       | nei      | tenei       | teie       | keia/nei   | lenei     |
 | that       | tela     | tera        | tera       | kela       | lela      |
 | time       | tami   ? | taima/wa    | taime      | manawa     | taimi     |
 | place      | sahi     | wahi        | vahi       | wahi       | nofoaga   |
@@ -330,6 +330,8 @@ name of a god which is interesting.
 
 The word for "bird" can mean any winged creature and the one for "dog" can mean
 any quadruped.
+
+The word for "this" could also be used for "here".
 
 ### Reduplication
 
