@@ -373,6 +373,7 @@ The word for "this" could also be used for "here".
 - day: sun-turn (Maori and Hawaiian uses "ra" and "la" for "day" whereas Samoan and Tahitian uses "ao")
 - month: moon-turn
 - year: world-turn
+- computer: brain-lightning
 
 [1]: https://en.m.wikipedia.org/wiki/Polynesian_languages
 [2]: https://en.wikipedia.org/wiki/Proto-Polynesian_language
