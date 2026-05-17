@@ -68,7 +68,7 @@ Some expressions:
 - pai-kai (good-eat / enjoy your meal)
 - malie-moe (calm-sleep / good night)
 - tenei-sahi ma tenei-tami (this-place and this-time)
-- tenei-tami etalefo ao-li ma emu mahina-li ma elekehifofo la-li muli eno . (this-time 124 years, 5 months, 27.44 days after 0)
+- tenei-tami etalefo ao-li ma emu mahina-li ma elekehifofo la-li muli eno . (this-time, 124 years, 5 months, 27.44 days after 0)
 
 A longer example:
 
