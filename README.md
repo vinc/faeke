@@ -1,17 +1,18 @@
 # Faeke
 
 [Faeke][1] is a constructed language inspired by [Lojban][2], [Toki Pona][3],
-and Polynesian languages ([Proto-Polynesian][4], [Samoan][5], [Hawaiian][6],
-[Tahitian][7], and [Maori][8]).
+and Polynesian languages ([Proto][4]-[Polynesian][5], [Samoan][6],
+[Hawaiian][7], [Tahitian][8], and [Maori][9]).
 
 [1]: faeke.md
 [2]: https://la-lojban.github.io/sutysisku/lojban/
 [3]: https://lipu-sona.pona.la/en/dictionary/
 [4]: https://ids.clld.org/contributions/234
-[5]: https://www2.hawaii.edu/~leighj/SAMOAN/dictionary/
-[6]: https://wehewehe.org/gsdl2.85/cgi-bin/hdict?l=en
-[7]: https://www.farevanaa.pf/fra/dictionnaire
-[8]: https://maoridictionary.co.nz/
+[5]: https://pollex.eva.mpg.de/level/PN/
+[6]: https://www2.hawaii.edu/~leighj/SAMOAN/dictionary/
+[7]: https://wehewehe.org/gsdl2.85/cgi-bin/hdict?l=en
+[8]: https://www.farevanaa.pf/fra/dictionnaire
+[9]: https://maoridictionary.co.nz/
 
 This project include a script to translate it from English and optionally
 display it in Katakana, Hiragana, Hangul, Devanagari, or Elder Futhark.
