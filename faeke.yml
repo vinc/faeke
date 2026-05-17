@@ -100,7 +100,7 @@ birth: fanau
 land: fenua
 water: sai
 coast: tai
-heaven: laxi # ?
+sky: laxi # ?
 sun: la
 moon: mahina
 world: ao
@@ -154,6 +154,13 @@ bed: moexa
 # Compound words
 dream: <sleep-sleep>
 watery: <water-water>
+
+yellow: <sun-color>
+green: <leaf-color>
+blue: <sky-color>
+orange: <red-yellow>
+pink: <light-red>
+
 few: <not-many>
 every: <each-and-all>
 always: <each-and-all-time>
@@ -161,9 +168,8 @@ never: <not-some-time>
 now: <this-time>
 here: <this-place>
 there: <that-place>
-orange: <red-yellow>
 aircraft: <air-boat>
-spacecraft: <heaven-boat>
+spacecraft: <sky-boat>
 saltwater: <water-coast>
 learn: <take-know>
 teach: <give-know>

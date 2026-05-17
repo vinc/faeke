@@ -165,56 +165,56 @@ negative connotations in their respective languages.
 
 ### Particles
 
-| English    | Faeke    | Maori       | Tahitian   | Hawaiian   | Samoan    |
-| ---------- | -------- | ----------- | ---------- | ---------- | --------- |
-| of         | o        | o           | o          | o          | o         |
-| on         | i        | i           | i          | i          | i         |
-| to         |          | i           | i          | i          | i         |
-| from       | mai      | mai         | mai        | mai        | mai       |
-| with       | me     ? | me          | ma         | me         | ma        |
-| for        | mo       | mo          | no         | no         | mo        |
-| the        | te     ? | te          |            |            |           |
+| English    | Faeke    | Maori    | Tahitian   | Hawaiian   | Samoan    |
+| ---------- | -------- | -------- | ---------- | ---------- | --------- |
+| of         | o        | o        | o          | o          | o         |
+| on         | i        | i        | i          | i          | i         |
+| to         |          | i        | i          | i          | i         |
+| from       | mai      | mai      | mai        | mai        | mai       |
+| with       | me     ? | me       | ma         | me         | ma        |
+| for        | mo       | mo       | no         | no         | mo        |
+| the        | te     ? | te       |            |            |           |
 
 ### Logical Operators
 
-| English    | Faeke    | Maori       | Tahitian   | Hawaiian   | Samoan    |
-| ---------- | -------- | ----------- | ---------- | ---------- | --------- |
-| not        | kole     | kore        | 'ore       | 'ole       | leai      |
-| and        | ma       | ma          | ma         | a          | ma        |
-| xor        |          |             |            |            |           |
-| or         |          |             |            |            | po        |
+| English    | Faeke    | Maori    | Tahitian   | Hawaiian   | Samoan    |
+| ---------- | -------- | -------- | ---------- | ---------- | --------- |
+| not        | kole     | kore     | 'ore       | 'ole       | leai      |
+| and        | ma       | ma       | ma         | a          | ma        |
+| xor        |          |          |            |            |           |
+| or         |          |          |            |            | po        |
 
 ### Quantifiers
 
-| English    | Faeke    | Maori       | Tahitian   | Hawaiian   | Samoan    |
-| ---------- | -------- | ----------- | ---------- | ---------- | --------- |
-| any        |          |             |            |            |           |
-| all        | katoa  ? | katoa       | ato'a      | apau       | atoa      |
-| each       |          | ia          |            |            | ta'itasi  |
-| some       |          | wetahi      | fanu       | kekahi     |           |
-| many       | mano   ? | maha        | mano       | mano       | tele      |
+| English    | Faeke    | Maori    | Tahitian   | Hawaiian   | Samoan    |
+| ---------- | -------- | -------- | ---------- | ---------- | --------- |
+| any        |          |          |            |            |           |
+| all        | katoa  ? | katoa    | ato'a      | apau       | atoa      |
+| each       |          | ia       |            |            | ta'itasi  |
+| some       |          | wetahi   | fanu       | kekahi     |           |
+| many       | mano   ? | maha     | mano       | mano       | tele      |
 
 ### Numbers
 
 The numbers have a strong influence from the Lojban language and zero was
 already loaned from English or French in post-contact Polynesia.
 
-| English    | Faeke    | Maori       | Tahitian   | Hawaiian   | Samoan    | Lojban |
-| ---------- | -------- | ----------- | ---------- | ---------- | --------- | ------ |
-| number     | e      ? | e           |            |            |           |        |
-| zero       | no     ? | kore        | ero        | 'ole       | sero      | no     |
-| one        | ta     ? | tahi        | tahi       | kahi       | tasi      | pa     |
-| two        | le     ? | rua         | piti       | lua        | lua       | re     |
-| three      | ti     ? | toru        | toru       | kolu       | tolu      | ci     |
-| four       | fo     ? | wha         | maha       | ha         | fa        | vo     |
-| five       | mu     ? | rima        | pae        | lima       | lima      | mu     |
-| six        | xa     ? | ono         | ono        | ono        | ono       | xa     |
-| seven      | ke     ? | whitu       | hitu       | hiku       | fitu      | ze     |
-| eight      | pi     ? | waru        | va'u       | walu       | valu      | bi     |
-| nine       | so     ? | iwa         | iva        | iwa        | iva       | so     |
-| point      | hi     ? | ira         |            | kiko       | i'a       | pi     |
-| ord        |          | tua         |            | tua/hapa   |           | moi    |
-| fract      |          | hau         |            |            |           | fi'u   |
+| English    | Faeke   | Maori   | Tahitian   | Hawaiian   | Samoan   | Lojban |
+| ---------- | ------- | ------- | ---------- | ---------- | -------- | ------ |
+| number     | e     ? | e       |            |            |          |        |
+| zero       | no    ? | kore    | ero        | 'ole       | sero     | no     |
+| one        | ta    ? | tahi    | tahi       | kahi       | tasi     | pa     |
+| two        | le    ? | rua     | piti       | lua        | lua      | re     |
+| three      | ti    ? | toru    | toru       | kolu       | tolu     | ci     |
+| four       | fo    ? | wha     | maha       | ha         | fa       | vo     |
+| five       | mu    ? | rima    | pae        | lima       | lima     | mu     |
+| six        | xa    ? | ono     | ono        | ono        | ono      | xa     |
+| seven      | ke    ? | whitu   | hitu       | hiku       | fitu     | ze     |
+| eight      | pi    ? | waru    | va'u       | walu       | valu     | bi     |
+| nine       | so    ? | iwa     | iva        | iwa        | iva      | so     |
+| point      | hi    ? | ira     |            | kiko       | i'a      | pi     |
+| ord        |         | tua     |            | tua/hapa   |          | moi    |
+| fract      |         | hau     |            |            |          | fi'u   |
 
 Numbers are prefixed with "e", for example 42 is "efole" and 1337 is
 "etatitike".
@@ -227,110 +227,115 @@ Fractional numbers use "i" (on) between the numerator and the denominator as in
 
 ### Colors
 
-| English    | Faeke    | Maori       | Tahitian   | Hawaiian   | Samoan    |
-| ---------- | -------- | ----------- | ---------- | ---------- | --------- |
-| color      | tae      | tae/kanu    | peni       | kala       | lanu      |
-| light      | tea      | tea         | tea        | kea        |           |
-| white      |          | ma          | 'uo'uo     | ke'oke'o   | pa'epa'e  |
-| red        | kula     | whero/kura  | 'ura/'ute  | 'ula'ula   | mumu/ula  |
-| yellow     |          | kowhai      | re'are'a   | melemele   | samasama  |
-| green      |          | kakariki    | matie      | 'oma'oma'o |           |
-| cyan       |          |             |            |            |           |
-| blue       |          | kikorangi   | ninamu     | uliuli     |           |
-| magenta    |          | waiporoporo | vare'au    | poni       |           |
-| black      |          | pango/mangu | 'ere'ere   | 'ele'ele   | uliuli    |
-| dark       | uli      | uri         |            | uli        |           |
+| English    | Faeke    | Maori        | Tahitian   | Hawaiian   | Samoan    |
+| ---------- | -------- | ------------ | ---------- | ---------- | --------- |
+| color      | tae      | tae/kanu     | peni       | kala       | lanu      |
+| light      | tea      | tea          | tea        | kea        |           |
+| white      |          | ma           | 'uo'uo     | ke'oke'o   | pa'epa'e  |
+| red        | kula     | whero/kura   | 'ura/'ute  | 'ula'ula   | mumu/ula  |
+| yellow     |          | kowhai       | re'are'a   | melemele   | samasama  |
+| green      |          | kakariki     | matie      | 'oma'oma'o |           |
+| cyan       |          | karikiorangi |            |            |           |
+| blue       |          | kikorangi    | ninamu     | uliuli     |           |
+| magenta    |          | waiporoporo  | vare'au    | poni       |           |
+| black      |          | pango/mangu  | 'ere'ere   | 'ele'ele   | uliuli    |
+| dark       | uli      | uri          |            | uli        |           |
 
+Faeke has 3 terms to describe basic colors: light, red, and dark.
+
+The other colors can be obtained by compounding like sun-color, leaf-color,
+sky-color, light-red, and red-yellow for yellow, green, blue, pink, and orange
+respectively.
 
 ### Directions
 
-| English    | Faeke    | Maori       | Tahitian   | Hawaiian   | Samoan    |
-| ---------- | -------- | ----------- | ---------- | ---------- | --------- |
-| north      |          | raki        | apato'erau | 'akau      | matu      |
-| east       |          | rawhiti     |            | hikina     | sasa'e    |
-| south      |          | tonga       | apato'a    | hema       | saute     |
-| west       |          | uru         |            | komohana   | sisifo    |
-| up         | luxa   ? | runga       | ni'a       | luna       | luga      |
-| down       | lalo     | raro        | raro       | lalo       | lalo      |
+| English    | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan    |
+| ---------- | -------- | --------- | ---------- | ---------- | --------- |
+| north      |          | raki      | apato'erau | 'akau      | matu      |
+| east       |          | rawhiti   |            | hikina     | sasa'e    |
+| south      |          | tonga     | apato'a    | hema       | saute     |
+| west       |          | uru       |            | komohana   | sisifo    |
+| up         | luxa   ? | runga     | ni'a       | luna       | luga      |
+| down       | lalo     | raro      | raro       | lalo       | lalo      |
 
 ### WIP
 
-| English    | Faeke    | Maori       | Tahitian   | Hawaiian   | Samoan    |
-| ---------- | -------- | ----------- | ---------- | ---------- | --------- |
-| sacred     | tapu     | tapu        | tapu       | kapu       | sa        |
-| power      | mana     | mana        | mana       | mana       | mana      |
-| alive      | ola      | ora         | ora        | ola        | ola       |
-| this       | nei      | tenei       | teie       | keia/nei   | lenei     |
-| that       | tela     | tera        | tera       | kela       | lela      |
-| time       | tami   ? | taima/wa    | taime      | manawa     | taimi     |
-| place      | sahi     | wahi        | vahi       | wahi       | nofoaga   |
-| thing      | mea      | mea         | mea        | mea        | mea       |
-| person     | tane     | tane        | tane       | kane       | tane      |
-| inside     | loto     | roto        | roto       | loko       | totonu    |
-| outside    | saho     | waho        | vaho       | waho       | fafo      |
-| birth      | fanau    | whanau      | fanau      | hanau      | fanau     |
-| land       | fenua    | whenua      | fenua      | honua      | fanua     |
-| air        | ea       | hau         | mata'i     | ea         | ea        |
-| fire       | ahi      | ahi         | ahi        | ahi        | afi       |
-| water      | sai      | wai         | vai        | wai        | vai       |
-| coast      | tai      | tai         | tai        | kai        | tai       |
-| heaven     | laxi   ? | rangi       | ra'i       | lani       | lagi      |
-| star       | fetu     | whetu       | feti'a     | hoku       | fetu      |
-| sun        | la       | ra          | ra         | la         | la        |
-| moon       | mahina   | mahina      | mahina     | mahina     | masina    |
-| world      | ao       | ao          | ao         | ao         | lalolagi  |
-| stone      |          | pohatu      | 'ofa'i     | pohaku     | ma'a      |
-| swamp      | lepo   ? | repo        |            | lepo       |           |
-| sand       | one      | one         | one'one    | one        | oneone    |
-| animal     |          | kararehe    |            |            |           |
-| mountain   | mauxa    | maunga      | mou'a      | mauna      | mauga     |
-| wilderness | sao      | wao         | vao        | wao        | vao       |
-| plant      | tupu   ? | tupu        | tupu       | la'au      | la'au     |
-| tree       | lakau    | rakau       | ra'au      | la'au      | la'au     |
-| root       |          | paiaka      |            |            |           |
-| trunk      | tumu   ? | tiwai       | tumu       | kumu       |           |
-| branch     | lala   ? | peka        | 'ama'a     | lala       | lala      |
-| leaf       | lau      | rau         | rau        | lau        | lau       |
-| flower     | tiale    | tiare       | tiare      | kiele      | tiale     |
-| fruit      | hua      | hua         | hotu       | hua        | fua       |
-| seed       | kano   ? | kano        | hua        | 'ano'ano   |           |
-| eye        | mata   ? | karu        | mata       | maka       | mata      |
-| ear        | talixa   | taringa     | tari'a     | pepeiao    | taliga    |
-| nose       | ihu      | ihu         | ihu        | ihu        | isu       |
-| mouth      | saha     | waha        | vaha       | waha       | gutu      |
-| blood      | toto     | toto        | toto       | koko       | toto      |
-| meat       | kiko     | kiko        | 'i'o       | 'i'o       | 'i'o      |
-| bone       | isi      | iwi         | ivi        | iwi        | ivi       |
-| fat        | hinu     | hinu        | hinu       |            |           |
-| skin       | kili     | kiri        | 'iri       | 'ili       | pa'u      |
-| hair       | hulu     | huru        | huruhuru   | hulu       | ulu       |
-| brain      | lolo     | roro        | roro       | lolo       |           |
-| before     | mua      | mua         | mua        | mua        | mua       |
-| after      | muli     | muri        | muri       | muli       | muli      |
-| how        |          |             |            |            |           |
-| house      | fale     | whare       | fare       | hale       | fale      |
-| refuge     | malu     | maru        | maru       | malu       | malu      |
-| pole       | toko     | toko        | to'o       | ko'o       | toko      |
-| boat       | saka     | waka        | va'a       | wa'a       | vaa       |
-| ocean      | moana    | moana       | moana      | moana      | moana     |
-| wave       | xalu     | ngaru       | 'aru       | nalu       | galu      |
-| island     | motu     | motu        | motu       | moku       | motu      |
-| child      | tama     | tama        | tama       | kama       | tama      |
-| parent     | matua    | matua       | metua      | makua      | matua     |
-| chief      | aliki    | ariki       | ari'i      | ali'i      | ali'i     |
-| fish       | ika      | ika         | i'a        | i'a        | i'a       |
-| bird       | manu     | manu        | manu       | manu       | manu      |
-| fowl       | moa      | moa         | moa        | moa        | moa       |
-| pig        | puaka    | poaka       | pua'a      | pua'a      | pua'a     |
-| dog        | kuli     | kuri        | 'uri       | 'ilio      | maile     |
-| crab       | paka     | papaka      | pa'a       | papa'i     | pa'a      |
-| rain       | ua       | ua          | ua         | ua         | ua        |
-| wind       | mataxi   | matangi     | mata'i     | makani     | matagi    |
-| lightning  | uila     | uira        | uira       | uila       | uila      |
-| bitter     | kasa     | kawa        | 'ava       | 'awa       | 'ava      |
-| happy      | koa      | koakoa      | 'oa'oa     | 'oli       | 'oli'oli  |
-| sick       | maki     | maki        | ma'i       | ma'i       | ma'i      |
-| bed        | moexa    | moenga      | moea       | moena      | moega     |
+| English    | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan    |
+| ---------- | -------- | --------- | ---------- | ---------- | --------- |
+| sacred     | tapu     | tapu      | tapu       | kapu       | sa        |
+| power      | mana     | mana      | mana       | mana       | mana      |
+| alive      | ola      | ora       | ora        | ola        | ola       |
+| this       | nei      | tenei     | teie       | keia/nei   | lenei     |
+| that       | tela     | tera      | tera       | kela       | lela      |
+| time       | tami   ? | taima/wa  | taime      | manawa     | taimi     |
+| place      | sahi     | wahi      | vahi       | wahi       | nofoaga   |
+| thing      | mea      | mea       | mea        | mea        | mea       |
+| person     | tane     | tane      | tane       | kane       | tane      |
+| inside     | loto     | roto      | roto       | loko       | totonu    |
+| outside    | saho     | waho      | vaho       | waho       | fafo      |
+| birth      | fanau    | whanau    | fanau      | hanau      | fanau     |
+| land       | fenua    | whenua    | fenua      | honua      | fanua     |
+| air        | ea       | hau       | mata'i     | ea         | ea        |
+| fire       | ahi      | ahi       | ahi        | ahi        | afi       |
+| water      | sai      | wai       | vai        | wai        | vai       |
+| coast      | tai      | tai       | tai        | kai        | tai       |
+| sky        | laxi   ? | rangi     | ra'i       | lani       | lagi      |
+| star       | fetu     | whetu     | feti'a     | hoku       | fetu      |
+| sun        | la       | ra        | ra         | la         | la        |
+| moon       | mahina   | mahina    | mahina     | mahina     | masina    |
+| world      | ao       | ao        | ao         | ao         | lalolagi  |
+| stone      |          | pohatu    | 'ofa'i     | pohaku     | ma'a      |
+| swamp      | lepo   ? | repo      |            | lepo       |           |
+| sand       | one      | one       | one'one    | one        | oneone    |
+| animal     |          | kararehe  |            |            |           |
+| mountain   | mauxa    | maunga    | mou'a      | mauna      | mauga     |
+| wilderness | sao      | wao       | vao        | wao        | vao       |
+| plant      | tupu   ? | tupu      | tupu       | la'au      | la'au     |
+| tree       | lakau    | rakau     | ra'au      | la'au      | la'au     |
+| root       |          | paiaka    |            |            |           |
+| trunk      | tumu   ? | tiwai     | tumu       | kumu       |           |
+| branch     | lala   ? | peka      | 'ama'a     | lala       | lala      |
+| leaf       | lau      | rau       | rau        | lau        | lau       |
+| flower     | tiale    | tiare     | tiare      | kiele      | tiale     |
+| fruit      | hua      | hua       | hotu       | hua        | fua       |
+| seed       | kano   ? | kano      | hua        | 'ano'ano   |           |
+| eye        | mata   ? | karu      | mata       | maka       | mata      |
+| ear        | talixa   | taringa   | tari'a     | pepeiao    | taliga    |
+| nose       | ihu      | ihu       | ihu        | ihu        | isu       |
+| mouth      | saha     | waha      | vaha       | waha       | gutu      |
+| blood      | toto     | toto      | toto       | koko       | toto      |
+| meat       | kiko     | kiko      | 'i'o       | 'i'o       | 'i'o      |
+| bone       | isi      | iwi       | ivi        | iwi        | ivi       |
+| fat        | hinu     | hinu      | hinu       |            |           |
+| skin       | kili     | kiri      | 'iri       | 'ili       | pa'u      |
+| hair       | hulu     | huru      | huruhuru   | hulu       | ulu       |
+| brain      | lolo     | roro      | roro       | lolo       |           |
+| before     | mua      | mua       | mua        | mua        | mua       |
+| after      | muli     | muri      | muri       | muli       | muli      |
+| how        |          |           |            |            |           |
+| house      | fale     | whare     | fare       | hale       | fale      |
+| refuge     | malu     | maru      | maru       | malu       | malu      |
+| pole       | toko     | toko      | to'o       | ko'o       | toko      |
+| boat       | saka     | waka      | va'a       | wa'a       | vaa       |
+| ocean      | moana    | moana     | moana      | moana      | moana     |
+| wave       | xalu     | ngaru     | 'aru       | nalu       | galu      |
+| island     | motu     | motu      | motu       | moku       | motu      |
+| child      | tama     | tama      | tama       | kama       | tama      |
+| parent     | matua    | matua     | metua      | makua      | matua     |
+| chief      | aliki    | ariki     | ari'i      | ali'i      | ali'i     |
+| fish       | ika      | ika       | i'a        | i'a        | i'a       |
+| bird       | manu     | manu      | manu       | manu       | manu      |
+| fowl       | moa      | moa       | moa        | moa        | moa       |
+| pig        | puaka    | poaka     | pua'a      | pua'a      | pua'a     |
+| dog        | kuli     | kuri      | 'uri       | 'ilio      | maile     |
+| crab       | paka     | papaka    | pa'a       | papa'i     | pa'a      |
+| rain       | ua       | ua        | ua         | ua         | ua        |
+| wind       | mataxi   | matangi   | mata'i     | makani     | matagi    |
+| lightning  | uila     | uira      | uira       | uila       | uila      |
+| bitter     | kasa     | kawa      | 'ava       | 'awa       | 'ava      |
+| happy      | koa      | koakoa    | 'oa'oa     | 'oli       | 'oli'oli  |
+| sick       | maki     | maki      | ma'i       | ma'i       | ma'i      |
+| bed        | moexa    | moenga    | moea       | moena      | moega     |
 
 The words for "person" above mean "man" or "male" and not a genderless person.
 There is a specific word for that, but those are shorter and they also mean the
@@ -348,6 +353,12 @@ The word for "this" could also be used for "here".
 
 ### Compound Words
 
+- yellow: sun-color
+- green: leaf-color
+- blue: sky-color
+- orange: red-yellow
+- pink: light-red
+
 - sixteen: one-six
 - forty: four-zero
 - few: not-many
@@ -357,9 +368,8 @@ The word for "this" could also be used for "here".
 - now: this-time
 - here: this-place
 - there: that-place
-- orange: red-yellow
 - aircraft: air-boat
-- spacecraft: heaven-boat
+- spacecraft: sky-boat
 - saltwater: water-coast
 - learn: take-know
 - teach: give-know
