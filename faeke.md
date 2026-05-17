@@ -67,8 +67,8 @@ Some expressions:
 - ola (alive / hello)
 - pai-kai (good-eat / enjoy your meal)
 - malie-moe (calm-sleep / good night)
-- ua tenei-sahi ma tenei-tami (be this-place and this-time)
-- tenei-tami ua etalefo ao-li ma emu mahina-li ma elekehifofo la-li muli eno . (this-time be 124 years, 5 months, 27.44 days after 0)
+- tenei-sahi ma tenei-tami (this-place and this-time)
+- tenei-tami etalefo ao-li ma emu mahina-li ma elekehifofo la-li muli eno . (this-time 124 years, 5 months, 27.44 days after 0)
 
 A longer example:
 
@@ -112,7 +112,6 @@ following tables, and the bilabial fricative `/ɸ/` by "wh" in Maori.
 
 | English    | Faeke    | Maori       | Tahitian   | Hawaiian   | Samoan    |
 | ---------- | -------- | ----------- | ---------- | ---------- | --------- |
-| be         | ua     ? |             | ua         |            | ua        |
 | go         | haele    | haere       | haere      | hele       | alu       |
 | do         |          | mahi        | fa'a/ha'a  | hana       | fai       |
 | use        |          | whakamahi   | fa'a'ohipa | ho'ohana   |           |

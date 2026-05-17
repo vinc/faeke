@@ -22,6 +22,10 @@ end
 output = ARGV.shift || "faeke"
 dictionary = Psych::Pure.load(File.read("faeke.yml"))
 syllabary = Psych::Pure.load(File.read("#{output}.yml"))
+
+duplicates = dictionary.values.select { |v| dictionary.values.count(v) > 1 }.uniq
+raise "Duplicate definitions found: #{duplicates.join(', ')}" if duplicates.any?
+
 ARGF.each_line do |line|
   line.split.each do |compound|
     lookup(dictionary, compound).flatten.each do |word|
