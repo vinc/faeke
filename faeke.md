@@ -131,7 +131,7 @@ following tables, and the bilabial fricative `/ɸ/` by "wh" in Maori.
 | talk       | lelo   ? | korero      | parau      | 'olelo     | tala      |
 | think      | faka   ? | whakaaro    | fa'aho'a   | mana'o     | manatu    |
 | sleep      | moe      | moe         | moe        | moe        | moe       |
-| love       | alofa    | aroha       | aroha      | aloha      | alofa     |
+| love       | aloha    | aroha       | aroha      | aloha      | alofa     |
 | die        | mate     | mate        | mate       | make       | mate      |
 
 ### Modifiers
