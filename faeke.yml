@@ -136,6 +136,7 @@ fish: ika
 bird: manu
 rain: ua
 wind: mataxi
+lightning: uila
 star: fetu
 chief: aliki
 wave: xalu
@@ -176,3 +177,4 @@ awareness: <brain-feel>
 day: <sun-turn>
 month: <moon-turn>
 year: <world-turn>
+computer: <brain-lightning>

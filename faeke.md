@@ -326,6 +326,7 @@ Fractional numbers use "i" (on) between the numerator and the denominator as in
 | crab       | paka     | papaka      | pa'a       | papa'i     | pa'a      |
 | rain       | ua       | ua          | ua         | ua         | ua        |
 | wind       | mataxi   | matangi     | mata'i     | makani     | matagi    |
+| lightning  | uila     | uira        | uira       | uila       | uila      |
 | bitter     | kasa     | kawa        | 'ava       | 'awa       | 'ava      |
 | happy      | koa      | koakoa      | 'oa'oa     | 'oli       | 'oli'oli  |
 | sick       | maki     | maki        | ma'i       | ma'i       | ma'i      |
