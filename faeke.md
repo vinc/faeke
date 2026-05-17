@@ -313,6 +313,7 @@ Fractional numbers use "i" (on) between the numerator and the denominator as in
 | bird       | manu     | manu        | manu       | manu       | manu      |
 | fowl       | moa      | moa         | moa        | moa        | moa       |
 | pig        | puaka    | poaka       | pua'a      | pua'a      | pua'a     |
+| dog        | kuli     | kuri        | 'uri       | 'ilio      | maile     |
 | crab       | paka     | papaka      | pa'a       | papa'i     | pa'a      |
 | rain       | ua       | ua          | ua         | ua         | ua        |
 | wind       | mataxi   | matangi     | mata'i     | makani     | matagi    |
