@@ -1,85 +1,85 @@
-# --- Pronouns ---
+# Pronouns
 me: au
 you: koe
-they: koia  # ?
+they: koia # ?
 
-# --- Verbs ---
-be: ua  # ?
+# Verbs
+be: ua # ?
 go: haele
 sit: noho
 eat: kai
 turn: huli
-move: neke  # ?
-give: foaki  # ?
-take: lase  # ?
-know: mohio  # ?
-like: fia  # ?
+move: neke # ?
+give: foaki # ?
+take: lase # ?
+know: mohio # ?
+like: fia # ?
 feel: kite
-talk: lelo  # ?
-think: faka  # ?
+talk: lelo # ?
+think: faka # ?
 sleep: moe
 love: alofa
 die: mate
 
-# --- Modifiers ---
+# --- Modifiers
 small: iti
 short: poto
 big: nui
 long: loa
-good: pai  # ?
-calm: malie  # ?
-hot: sela  # ?
+good: pai # ?
+calm: malie # ?
+hot: sela # ?
 old: tahito
 wet: maku
 fast: sase
 
-# --- Particles ---
+# Particles
 of: o
 on: i
 from: mai
-with: me  # ?
+with: me # ?
 for: mo
-the: te  # ?
+the: te # ?
 
-# --- Logical operators ---
+# Logical operators
 not: kole
 and: ma
 
-# --- Quantifiers ---
-all: katoa  # ?
-many: mano  # ?
+# Quantifiers
+all: katoa # ?
+many: mano # ?
 
-# --- Numbers ---
-number: e  # ?
-zero: no  # ?
-one: ta  # ?
-two: le  # ? (note: example sentence uses "lua")
-three: ti  # ?
-four: fo  # ?
-five: mu  # ?
-six: xa  # ?
-seven: ke  # ?
-eight: pi  # ?
-nine: so  # ?
-point: hi  # ?
+# Numbers
+number: e # ?
+zero: no # ?
+one: ta # ?
+two: le # ?
+three: ti # ?
+four: fo # ?
+five: mu # ?
+six: xa # ?
+seven: ke # ?
+eight: pi # ?
+nine: so # ?
+point: hi # ?
 
-# --- Colors ---
+# Colors
 color: tae
 light: tea
 red: kula
 dark: uli
 
-# --- Directions ---
-up: luxa  # ?
+# Directions
+up: luxa # ?
 down: lalo
 
-# --- WIP / core nouns and concepts ---
+# WIP
 sacred: tapu
 power: mana
 alive: ola
-this: tenei  # ?
+this: tenei # ?
 that: tela
-time: tami  # ?
+time: tami # ?
 place: sahi
 thing: mea
 person: tane
@@ -91,22 +91,22 @@ birth: fanau
 land: fenua
 water: sai
 coast: tai
-heaven: laxi  # ?
+heaven: laxi # ?
 sun: la
 moon: mahina
 world: ao
-swamp: lepo  # ?
+swamp: lepo # ?
 sand: one
-plant: tupu  # ?
+plant: tupu # ?
 tree: lakau
-trunk: tumu  # ?
-branch: lala  # ?
+trunk: tumu # ?
+branch: lala # ?
 leaf: lau
 flower: tiale
 fruit: hua
-seed: kano  # ?
-eye: mata  # ?
-ear: tali  # ?
+seed: kano # ?
+eye: mata # ?
+ear: tali # ?
 nose: ihu
 mouth: saha
 blood: toto
