@@ -67,7 +67,7 @@ Some expressions:
 - ola (alive / hello)
 - pai-kai (good-eat / enjoy your meal)
 - malie-moe (calm-sleep / good night)
-- tenei-sahi ma tenei-tami (this-place and this-time)
+- haele tenei-sahi ma tenei-tami (go this-place and this-time / be here now)
 - tenei-tami etalefo ao-li ma emu mahina-li ma elekehifofo la-li muli eno . (this-time, 124 years, 5 months, 27.44 days after 0)
 
 A longer example:
@@ -132,6 +132,11 @@ following tables, and the bilabial fricative `/ɸ/` by "wh" in Maori.
 | sleep      | moe      | moe         | moe        | moe        | moe       |
 | love       | aloha    | aroha       | aroha      | aloha      | alofa     |
 | die        | mate     | mate        | mate       | make       | mate      |
+| search     | kimi     | kimi        | 'imi       | 'imi       |           |
+| wait       | tali     | taritari    | tatari     | kali       | tali      |
+| trade      | hoko     | hoko        | ho'o       | kalepa     |           |
+| cut        | koti     | koti        | 'oti       | 'oki       | 'oti      |
+| break      | fati     | whati       | fati       | wahi       |           |
 
 ### Modifiers
 
@@ -259,10 +264,10 @@ Fractional numbers use "i" (on) between the numerator and the denominator as in
 | person     | tane     | tane        | tane       | kane       | tane      |
 | inside     | loto     | roto        | roto       | loko       | totonu    |
 | outside    | saho     | waho        | vaho       | waho       | fafo      |
-| air        | ea       | hau         | mata'i     | ea         | ea        |
-| fire       | ahi      | ahi         | ahi        | ahi        | afi       |
 | birth      | fanau    | whanau      | fanau      | hanau      | fanau     |
 | land       | fenua    | whenua      | fenua      | honua      | fanua     |
+| air        | ea       | hau         | mata'i     | ea         | ea        |
+| fire       | ahi      | ahi         | ahi        | ahi        | afi       |
 | water      | sai      | wai         | pape       | wai        | vai       |
 | coast      | tai      | tai         | tai        | kai        | tai       |
 | heaven     | laxi   ? | rangi       | ra'i       | lani       | lagi      |
@@ -286,7 +291,7 @@ Fractional numbers use "i" (on) between the numerator and the denominator as in
 | fruit      | hua      | hua         | hotu       | hua        | fua       |
 | seed       | kano   ? | kano        | hua        | 'ano'ano   |           |
 | eye        | mata   ? | karu        | mata       | maka       | mata      |
-| ear        | tali   ? | taringa     | tari'a     | pepeiao    | taliga    |
+| ear        | talixa   | taringa     | tari'a     | pepeiao    | taliga    |
 | nose       | ihu      | ihu         | ihu        | ihu        | isu       |
 | mouth      | saha     | waha        | vaha       | waha       | gutu      |
 | blood      | toto     | toto        | toto       | koko       | toto      |
@@ -322,6 +327,9 @@ Fractional numbers use "i" (on) between the numerator and the denominator as in
 The words for "person" above mean "man" or "male" and not a genderless person.
 There is a specific word for that, but those are shorter and they also mean the
 name of a god which is interesting.
+
+The word for "bird" can mean any winged creature and the one for "dog" can mean
+any quadruped.
 
 ### Reduplication
 
