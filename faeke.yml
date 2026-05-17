@@ -21,7 +21,7 @@ sleep: moe
 love: aloha
 die: mate
 
-# --- Modifiers
+# Modifiers
 small: iti
 short: poto
 big: nui
@@ -137,7 +137,7 @@ crab: paka
 pig: puaka
 child: tama
 
-# Compound words (recursive)
+# Compound words
 dream: <sleep-sleep>
 few: <not-many>
 every: <each-and-all>
