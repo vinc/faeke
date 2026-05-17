@@ -123,7 +123,7 @@ following tables, and the bilabial fricative `/ɸ/` by "wh" in Maori.
 | give       | foaki  ? | hoatu       | horo'a     | ha'awi     | foa'i     |
 | take       | lase   ? | tango       | rave       | lawe       | 'ave      |
 | know       | mohio  ? | mohio       | 'ite       | 'ike       | iloa      |
-| have       |          | whai        |            |            |           |
+| have       | fai      | whai        |            |            | fai       |
 | want       |          | hiahia      | hina'aro   | makemake   | mana'o    |
 | like       | fia    ? | pai         | au         | makemake   | fiafia    |
 | feel       | kite     | kite        | 'ite       | 'ike       |           |
@@ -137,6 +137,9 @@ following tables, and the bilabial fricative `/ɸ/` by "wh" in Maori.
 | trade      | hoko     | hoko        | ho'o       | kalepa     |           |
 | cut        | koti     | koti        | 'oti       | 'oki       | 'oti      |
 | break      | fati     | whati       | fati       | wahi       |           |
+| ingest     | holo     | horo        | horo       | ale        | folo      |
+| drift      | pae      | pae         | pae        | pae        |           |
+| scrape     | salu     | waru        | varu       | walu       | valu      |
 
 ### Modifiers
 
@@ -147,6 +150,7 @@ following tables, and the bilabial fricative `/ɸ/` by "wh" in Maori.
 | big        | nui      | nui         | rahi/nui   | nui        | tele      |
 | long       | loa      | roa         | roa        | loa        |           |
 | good       | pai    ? | pai         | maita'i    | maika'i    | lelei     |
+| bad        | kino     | kino        | 'ino       | 'ino       | 'ino      |
 | calm       | malie  ? | marie       | hau        | malie      | malu      |
 | hot        | sela   ? | wera        | ahuahu     | wela       | vevela    |
 | old        | tahito   | tahito      | tahito     | kahiko     | matua     |
@@ -268,7 +272,7 @@ Fractional numbers use "i" (on) between the numerator and the denominator as in
 | land       | fenua    | whenua      | fenua      | honua      | fanua     |
 | air        | ea       | hau         | mata'i     | ea         | ea        |
 | fire       | ahi      | ahi         | ahi        | ahi        | afi       |
-| water      | sai      | wai         | pape       | wai        | vai       |
+| water      | sai      | wai         | vai        | wai        | vai       |
 | coast      | tai      | tai         | tai        | kai        | tai       |
 | heaven     | laxi   ? | rangi       | ra'i       | lani       | lagi      |
 | star       | fetu     | whetu       | feti'a     | hoku       | fetu      |
@@ -323,6 +327,9 @@ Fractional numbers use "i" (on) between the numerator and the denominator as in
 | rain       | ua       | ua          | ua         | ua         | ua        |
 | wind       | mataxi   | matangi     | mata'i     | makani     | matagi    |
 | bitter     | kasa     | kawa        | 'ava       | 'awa       | 'ava      |
+| happy      | koa      | koakoa      | 'oa'oa     | 'oli       | 'oli'oli  |
+| sick       | maki     | maki        | ma'i       | ma'i       | ma'i      |
+| bed        | moexa    | moenga      | moea       | moena      | moega     |
 
 The words for "person" above mean "man" or "male" and not a genderless person.
 There is a specific word for that, but those are shorter and they also mean the
@@ -336,6 +343,7 @@ The word for "this" could also be used for "here".
 ### Reduplication
 
 - dream: sleep-sleep ("moemoea" is "dream" in Tahitian, Hawaiian, and Maori)
+- watery: water-water
 
 ### Compound Words
 

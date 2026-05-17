@@ -24,6 +24,10 @@ wait: tali
 trade: hoko
 cut: koti
 break: fati
+have: fai
+ingest: holo
+drift: pae
+scrape: salu
 
 # Modifiers
 small: iti
@@ -31,6 +35,7 @@ short: poto
 big: nui
 long: loa
 good: pai # ?
+bad: kino
 calm: malie # ?
 hot: sela # ?
 old: tahito
@@ -141,9 +146,13 @@ crab: paka
 pig: puaka
 dog: kuli
 child: tama
+happy: koa
+sick: maki
+bed: moexa
 
 # Compound words
 dream: <sleep-sleep>
+watery: <water-water>
 few: <not-many>
 every: <each-and-all>
 always: <each-and-all-time>
