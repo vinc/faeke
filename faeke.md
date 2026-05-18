@@ -38,11 +38,11 @@ Tahitian is an alveolar fricative `/s/` in Faeke.
 
 | Proto-Polynesian | p |  t  | k | ʔ | m | n | ŋ |  w  |   f   | s | h | l | r |
 | ---------------- | - | --- | - | - | - | - | - | --- | ----- | - | - | - | - |
-| Faeke            | p |  t  | k | Ø | m | n | x |  s  |   f   | h | Ø | l | l |
 | Samoan           | p | t~k | ʔ | Ø | m | n | ŋ |  v  |   f   | s | Ø | l | l |
+| Hawaiian         | p |  k  | ʔ | Ø | m | n | n | v/w |  w/h  | h | Ø | l | l |
+| Tahitian         | p |  t  | ʔ | Ø | m | n | ʔ |  v  | v/f/h | h | Ø | r | r |
 | Maori            | p |  t  | k | Ø | m | n | ŋ |  w  |  ɸ/h  | h | Ø | r | r |
-| Tahitian         | p |  t  | ʔ | Ø | m | n | ʔ |  v  | f/v/h | h | Ø | r | r |
-| Hawaiian         | p |  k  | ʔ | Ø | m | n | n | v/w |  h/w  | h | Ø | l | l |
+| Faeke            | p |  t  | k | Ø | m | n | x |  s  |  f/h  | h | Ø | l | l |
 
 ## Morphology
 
@@ -217,7 +217,7 @@ Cardinal numbers are converted to ordinal numbers by adding "te" (the) in front
 of them.
 
 Fractional numbers use "i" (on) between the numerator and the denominator as in
-"eta i efo" (one on four).
+"tau-ta i tau-fo" (one on four).
 
 ### Colors
 
@@ -256,7 +256,7 @@ respectively.
 
 | English    | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan    |
 | ---------- | -------- | --------- | ---------- | ---------- | --------- |
-| period     | sa       | wa/tau    | va/tau     | wa         | sa        |
+| period     | sa       | wa/tau    | va/tau     | wa         | va        |
 | sacred     | tapu     | tapu      | tapu       | kapu       | sa        |
 | power      | mana     | mana      | mana       | mana       | mana      |
 | alive      | ola      | ora       | ora        | ola        | ola       |
@@ -376,7 +376,7 @@ The word for "this" could also be used for "here".
 - there: that-place
 - aircraft: air-boat
 - spacecraft: sky-boat
-- saltwater: water-coast
+- saltwater: coast-water
 - learn: take-know
 - teach: give-know
 - see: eye-feel
