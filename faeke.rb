@@ -1,4 +1,4 @@
-require "psych/pure"
+require "yaml"
 
 def red(str)
   "\e[1;31m#{str}\e[0m"
@@ -20,8 +20,8 @@ def lookup(dictionary, compound)
 end
 
 output = ARGV.shift || "faeke"
-dictionary = Psych::Pure.load(File.read("faeke.yml"))
-syllabary = Psych::Pure.load(File.read("#{output}.yml"))
+dictionary = YAML.load(File.read("faeke.yml"))
+syllabary = YAML.load(File.read("#{output}.yml"))
 
 duplicates = dictionary.values.select { |v| dictionary.values.count(v) > 1 }.uniq
 raise "Duplicate definitions found: #{duplicates.join(', ')}" if duplicates.any?
