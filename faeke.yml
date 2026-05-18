@@ -160,6 +160,7 @@
 # Reduplication
 "dream": "<sleep-sleep>"
 "watery": "<water-water>"
+"count": "<number-number>"
 
 # Compound
 "yellow": "<sun-color>"

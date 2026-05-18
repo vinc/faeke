@@ -195,25 +195,25 @@ negative connotations in their respective languages.
 The numbers have a strong influence from the Lojban language and zero was
 already loaned from English or French in post-contact Polynesia.
 
-| English    | Faeke   | Maori   | Tahitian   | Hawaiian   | Samoan   | Lojban |
-| ---------- | ------- | ------- | ---------- | ---------- | -------- | ------ |
-| number     | tau     | tau     |            |            |          |        |
-| zero       | no    ? | kore    | ero        | 'ole       | sero     | no     |
-| one        | ta    ? | tahi    | tahi       | kahi       | tasi     | pa     |
-| two        | le    ? | rua     | piti       | lua        | lua      | re     |
-| three      | ti    ? | toru    | toru       | kolu       | tolu     | ci     |
-| four       | fo    ? | wha     | maha       | ha         | fa       | vo     |
-| five       | mu    ? | rima    | pae        | lima       | lima     | mu     |
-| six        | xa    ? | ono     | ono        | ono        | ono      | xa     |
-| seven      | ke    ? | whitu   | hitu       | hiku       | fitu     | ze     |
-| eight      | pi    ? | waru    | va'u       | walu       | valu     | bi     |
-| nine       | so    ? | iwa     | iva        | iwa        | iva      | so     |
-| point      | hi    ? | ira     |            | kiko       | i'a      | pi     |
-| ord        |         | tua     |            | tua/hapa   |          | moi    |
-| fract      |         | hau     |            |            |          | fi'u   |
+| English  | Faeke   | Maori    | Tahitian     | Hawaiian   | Samoan        | Lojban |
+| -------- | ------- | -------- | ------------ | ---------- | ------------- | ------ |
+| number   | tau     | nama/tau | numera/ta'u  | helu       | numera/faitau |        |
+| zero     | no    ? | kore     | ero          | 'ole       | sero          | no     |
+| one      | ta    ? | tahi     | tahi         | kahi       | tasi          | pa     |
+| two      | le    ? | rua      | piti         | lua        | lua           | re     |
+| three    | ti    ? | toru     | toru         | kolu       | tolu          | ci     |
+| four     | fo    ? | wha      | maha         | ha         | fa            | vo     |
+| five     | mu    ? | rima     | pae          | lima       | lima          | mu     |
+| six      | xa    ? | ono      | ono          | ono        | ono           | xa     |
+| seven    | ke    ? | whitu    | hitu         | hiku       | fitu          | ze     |
+| eight    | pi    ? | waru     | va'u         | walu       | valu          | bi     |
+| nine     | so    ? | iwa      | iva          | iwa        | iva           | so     |
+| point    | hi    ? | ira      |              | kiko       | i'a           | pi     |
+| ord      |         | tua      |              | tua/hapa   |               | moi    |
+| fract    |         | hau      |              |            |               | fi'u   |
 
-Numbers are prefixed with "e", for example 42 is "efole" and 1337 is
-"etatitike".
+Numbers are prefixed with "tau", for example 42 is "tau-fole" and 1337 is
+"tau-tatitike".
 
 Cardinal numbers are converted to ordinal numbers by adding "te" (the) in front
 of them.
@@ -258,7 +258,7 @@ respectively.
 
 | English    | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan    |
 | ---------- | -------- | --------- | ---------- | ---------- | --------- |
-| period     | sa       | wa        | va         | wa         | sa        |
+| period     | sa       | wa/tau    | va/tau     | wa         | sa        |
 | sacred     | tapu     | tapu      | tapu       | kapu       | sa        |
 | power      | mana     | mana      | mana       | mana       | mana      |
 | alive      | ola      | ora       | ora        | ola        | ola       |
@@ -347,6 +347,7 @@ The word for "this" could also be used for "here".
 
 - dream: sleep-sleep ("moemoea" is "dream" in Tahitian, Hawaiian, and Maori)
 - watery: water-water
+- count: number-number ("tatau" is "count" in Maori while "tautau" is something else)
 
 ### Compound Words
 
