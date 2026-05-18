@@ -9,7 +9,7 @@
 "go": "haele"
 "sit": "noho"
 "eat": "kai"
-"turn": "li"
+"turn": "huli"
 "move": "neke" # ?
 "give": "foaki" # ?
 "take": "lase" # ?
@@ -61,7 +61,7 @@
 "many": "mano" # ?
 
 # Numbers
-"number": "e" # ?
+"number": "tau"
 "zero": "no" # ?
 "one": "ta" # ?
 "two": "le" # ?
@@ -85,6 +85,7 @@
 "down": "lalo"
 
 # WIP
+"period": "sa"
 "sacred": "tapu"
 "power": "mana"
 "alive": "ola"
@@ -164,7 +165,7 @@
 "yellow": "<sun-color>"
 "green": "<leaf-color>"
 "blue": "<sky-color>"
-"orange": "<red-yellow>"
+"orange": "<yellow-red>"
 "pink": "<light-red>"
 "sixteen": "<number-one-six>"
 "forty": "<number-four-zero>"
@@ -187,7 +188,7 @@
 "touch": "<skin-feel>"
 "balance": "<in-ear-feel>"
 "awareness": "<brain-feel>"
-"day": "<sun-turn>"
-"month": "<moon-turn>"
-"year": "<world-turn>"
-"computer": "<brain-lightning>"
+"day": "<sun-period>"
+"month": "<moon-period>"
+"year": "<world-period>"
+"computer": "<lightning-brain>"

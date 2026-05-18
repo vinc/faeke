@@ -19,8 +19,7 @@ def lookup(dictionary, compound)
   end
 end
 
-unless File.exist?("faeke.yml")
-  f = File.open("faeke.yml", "w")
+File.open("faeke.yml", "w") do |f|
   f.write("# Faeke Lexicon\n")
   lexicon = false
   File.read("faeke.md").each_line do |line|
@@ -56,7 +55,6 @@ unless File.exist?("faeke.yml")
       f.write("\"#{english}\": \"<#{compound}>\"\n")
     end
   end
-  f.close
 end
 
 output = ARGV.shift || "faeke"
@@ -66,14 +64,12 @@ syllabary = YAML.load(File.read("#{output}.yml"))
 duplicates = dictionary.values.select { |v| dictionary.values.count(v) > 1 }.uniq
 raise "Duplicate definitions found: #{duplicates.join(', ')}" if duplicates.any?
 
-unless File.exist?("english.yml")
-  f = File.open("english.yml", "w")
+File.open("english.yml", "w") do |f|
   dictionary.each do |english, faeke|
     next if faeke[0] == "<"
 
     f.write("#{faeke}: #{english}\n")
   end
-  f.close
 end
 
 ARGF.each_line do |line|

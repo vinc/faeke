@@ -68,17 +68,15 @@ Some expressions:
 - pai-kai (good-eat / enjoy your meal)
 - malie-moe (calm-sleep / good night)
 - haele nei-sahi ma nei-tami (go this-place and this-time / be here now)
-- nei-tami etalefo ao-li ma emu mahina-li ma elekehifofo la-li muli eno . (this-time, 124 years, 5 months, 27.44 days after 0)
+- nei-tami tau-talefo ao-sa ma tau-mu mahina-sa ma tau-lekehifofo la-sa muli tau-no (this-time, 124 years, 5 months, 27.44 days after 0)
 
 A longer example:
 
 - koe mata-kite tela lakau me mano kula hua ?
 - au fia saha-kite kula hua .
 - au tahito-tane ma koe kole-tahito-tane .
-- koe haele luxa tela lakau .
-- koe lase lua kula hua .
-- koe kai tahi kula hua .
-- koe foaki au tahi kula hua .
+- koe haele luxa tela lakau ma koe lase tau-le kula hua .
+- koe kai tau-ta kula hua ma koe foaki au tau-ta kula hua .
 - koe pai !
 
 Which directly translates to:
@@ -86,10 +84,8 @@ Which directly translates to:
 - you eye-feel that tree with many red fruit ?
 - me like mouth-feel red fruit .
 - me old-person and you not-old-person .
-- you go up that tree .
-- you take two red fruit .
-- you eat one red fruit .
-- you give me one red fruit .
+- you go up that tree and you take number-two red fruit .
+- you eat number-one red fruit and you give me number-one red fruit .
 - you good !
 
 ## Lexicon
@@ -118,7 +114,7 @@ following tables, and the bilabial fricative `/ɸ/` by "wh" in Maori.
 | try        |          | whakamatau  | fa'aau     |            |           |
 | sit        | noho     | noho        | noho       | noho       | nofo      |
 | eat        | kai      | kai         | 'ai/'amu   | 'ai        | 'ai       |
-| turn       | li       | huri        | huri       | huli       | liliu     |
+| turn       | huli     | huri        | huri       | huli       | liliu     |
 | move       | neke   ? | neke        | ne'e       | ne'e       | lue       |
 | give       | foaki  ? | hoatu       | horo'a     | ha'awi     | foa'i     |
 | take       | lase   ? | tango       | rave       | lawe       | 'ave      |
@@ -201,7 +197,7 @@ already loaned from English or French in post-contact Polynesia.
 
 | English    | Faeke   | Maori   | Tahitian   | Hawaiian   | Samoan   | Lojban |
 | ---------- | ------- | ------- | ---------- | ---------- | -------- | ------ |
-| number     | e     ? | e       |            |            |          |        |
+| number     | tau     | tau     |            |            |          |        |
 | zero       | no    ? | kore    | ero        | 'ole       | sero     | no     |
 | one        | ta    ? | tahi    | tahi       | kahi       | tasi     | pa     |
 | two        | le    ? | rua     | piti       | lua        | lua      | re     |
@@ -262,6 +258,7 @@ respectively.
 
 | English    | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan    |
 | ---------- | -------- | --------- | ---------- | ---------- | --------- |
+| period     | sa       | wa        | va         | wa         | sa        |
 | sacred     | tapu     | tapu      | tapu       | kapu       | sa        |
 | power      | mana     | mana      | mana       | mana       | mana      |
 | alive      | ola      | ora       | ora        | ola        | ola       |
@@ -356,7 +353,7 @@ The word for "this" could also be used for "here".
 - yellow: sun-color
 - green: leaf-color
 - blue: sky-color
-- orange: red-yellow
+- orange: yellow-red
 - pink: light-red
 
 - sixteen: number-one-six
@@ -381,10 +378,10 @@ The word for "this" could also be used for "here".
 - touch: skin-feel
 - balance: in-ear-feel
 - awareness: brain-feel
-- day: sun-turn (Maori and Hawaiian uses "ra" and "la" for "day" whereas Samoan and Tahitian uses "ao")
-- month: moon-turn
-- year: world-turn
-- computer: brain-lightning
+- day: sun-period (Maori and Hawaiian uses "ra" and "la" for "day" whereas Samoan and Tahitian uses "ao")
+- month: moon-period
+- year: world-period
+- computer: lightning-brain
 
 [1]: https://en.m.wikipedia.org/wiki/Polynesian_languages
 [2]: https://en.wikipedia.org/wiki/Proto-Polynesian_language
