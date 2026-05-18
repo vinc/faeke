@@ -47,7 +47,6 @@
 # Particles
 "of": "o"
 "on": "i"
-"from": "mai"
 "with": "me" # ?
 "for": "mo"
 "the": "te" # ?
@@ -58,7 +57,6 @@
 
 # Quantifiers
 "all": "katoa" # ?
-"many": "mano" # ?
 
 # Numbers
 "number": "tau"
@@ -156,6 +154,15 @@
 "happy": "koa"
 "sick": "maki"
 "bed": "moexa"
+"what": "aha"
+"who": "ai"
+"where": "hea"
+"new": "hou"
+"also": "hoki"
+"name": "ixoa"
+"way": "ala"
+"friend": "hoa"
+"toward": "mai"
 
 # Reduplication
 "dream": "<sleep-sleep>"
@@ -170,7 +177,8 @@
 "pink": "<light-red>"
 "sixteen": "<number-one-six>"
 "forty": "<number-four-zero>"
-"few": "<not-many>"
+"many": "<big-number>"
+"few": "<small-number>"
 "every": "<each-and-all>"
 "always": "<each-and-all-time>"
 "never": "<not-some-time>"
@@ -193,3 +201,4 @@
 "month": "<moon-period>"
 "year": "<world-period>"
 "computer": "<lightning-brain>"
+"come": "<go-toward>"

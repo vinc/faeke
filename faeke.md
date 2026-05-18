@@ -72,7 +72,7 @@ Some expressions:
 
 A longer example:
 
-- koe mata-kite tela lakau me mano kula hua ?
+- koe mata-kite tela lakau me nui-tau kula hua ?
 - au fia saha-kite kula hua .
 - au tahito-tane ma koe kole-tahito-tane .
 - koe haele luxa tela lakau ma koe lase tau-le kula hua .
@@ -81,7 +81,7 @@ A longer example:
 
 Which directly translates to:
 
-- you eye-feel that tree with many red fruit ?
+- you eye-feel that tree with big-number red fruit ?
 - me like mouth-feel red fruit .
 - me old-person and you not-old-person .
 - you go up that tree and you take number-two red fruit .
@@ -166,7 +166,6 @@ negative connotations in their respective languages.
 | of         | o        | o        | o          | o          | o         |
 | on         | i        | i        | i          | i          | i         |
 | to         |          | i        | i          | i          | i         |
-| from       | mai      | mai      | mai        | mai        | mai       |
 | with       | me     ? | me       | ma         | me         | ma        |
 | for        | mo       | mo       | no         | no         | mo        |
 | the        | te     ? | te       |            |            |           |
@@ -188,7 +187,6 @@ negative connotations in their respective languages.
 | all        | katoa  ? | katoa    | ato'a      | apau       | atoa      |
 | each       |          | ia       |            |            | ta'itasi  |
 | some       |          | wetahi   | fanu       | kekahi     |           |
-| many       | mano   ? | maha     | mano       | mano       | tele      |
 
 ### Numbers
 
@@ -309,7 +307,6 @@ respectively.
 | brain      | lolo     | roro      | roro       | lolo       |           |
 | before     | mua      | mua       | mua        | mua        | mua       |
 | after      | muli     | muri      | muri       | muli       | muli      |
-| how        |          |           |            |            |           |
 | house      | fale     | whare     | fare       | hale       | fale      |
 | refuge     | malu     | maru      | maru       | malu       | malu      |
 | pole       | toko     | toko      | to'o       | ko'o       | toko      |
@@ -333,6 +330,15 @@ respectively.
 | happy      | koa      | koakoa    | 'oa'oa     | 'oli       | 'oli'oli  |
 | sick       | maki     | maki      | ma'i       | ma'i       | ma'i      |
 | bed        | moexa    | moenga    | moea       | moena      | moega     |
+| what       | aha      | aha       | aha        | aha        | a         |
+| who        | ai       | wai       | vai        | wai        | ai        |
+| where      | hea      | hea       | hea        | hea        | fea       |
+| new        | hou      | hou       | hou        | hou        | fou       |
+| also       | hoki     | hoki      | ho'i       | ho'i       | fo'i      |
+| name       | ixoa     | ingoa     | i'oa       | inoa       | igoa      |
+| way        | ala      | ara       | ara        | ala        | ala       |
+| friend     | hoa      | hoa       | hoa        | hoa        | uo        |
+| toward     | mai      | mai       | mai        | mai        | mai       |
 
 The words for "person" above mean "man" or "male" and not a genderless person.
 There is a specific word for that, but those are shorter and they also mean the
@@ -359,8 +365,9 @@ The word for "this" could also be used for "here".
 
 - sixteen: number-one-six
 - forty: number-four-zero
+- many: big-number
+- few: small-number
 
-- few: not-many
 - every: each-and-all
 - always: each-and-all-time
 - never: not-some-time
@@ -383,6 +390,7 @@ The word for "this" could also be used for "here".
 - month: moon-period
 - year: world-period
 - computer: lightning-brain
+- come: go-toward
 
 [1]: https://en.m.wikipedia.org/wiki/Polynesian_languages
 [2]: https://en.wikipedia.org/wiki/Proto-Polynesian_language
