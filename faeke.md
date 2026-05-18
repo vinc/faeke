@@ -359,8 +359,9 @@ The word for "this" could also be used for "here".
 - orange: red-yellow
 - pink: light-red
 
-- sixteen: one-six
-- forty: four-zero
+- sixteen: number-one-six
+- forty: number-four-zero
+
 - few: not-many
 - every: each-and-all
 - always: each-and-all-time

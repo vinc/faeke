@@ -1,186 +1,193 @@
+# Faeke Lexicon
+
 # Pronouns
-me: au
-you: koe
-they: koia # ?
+"me": "au"
+"you": "koe"
+"they": "koia" # ?
 
 # Verbs
-go: haele
-sit: noho
-eat: kai
-turn: li
-move: neke # ?
-give: foaki # ?
-take: lase # ?
-know: mohio # ?
-like: fia # ?
-feel: kite
-talk: lelo # ?
-think: faka # ?
-sleep: moe
-love: aloha
-die: mate
-search: kimi
-wait: tali
-trade: hoko
-cut: koti
-break: fati
-have: fai
-ingest: holo
-drift: pae
-scrape: salu
+"go": "haele"
+"sit": "noho"
+"eat": "kai"
+"turn": "li"
+"move": "neke" # ?
+"give": "foaki" # ?
+"take": "lase" # ?
+"know": "mohio" # ?
+"have": "fai"
+"like": "fia" # ?
+"feel": "kite"
+"talk": "lelo" # ?
+"think": "faka" # ?
+"sleep": "moe"
+"love": "aloha"
+"die": "mate"
+"search": "kimi"
+"wait": "tali"
+"trade": "hoko"
+"cut": "koti"
+"break": "fati"
+"ingest": "holo"
+"drift": "pae"
+"scrape": "salu"
 
 # Modifiers
-small: iti
-short: poto
-big: nui
-long: loa
-good: pai # ?
-bad: kino
-calm: malie # ?
-hot: sela # ?
-old: tahito
-wet: maku
-fast: sase
+"small": "iti"
+"short": "poto"
+"big": "nui"
+"long": "loa"
+"good": "pai" # ?
+"bad": "kino"
+"calm": "malie" # ?
+"hot": "sela" # ?
+"old": "tahito"
+"wet": "maku"
+"fast": "sase"
 
 # Particles
-of: o
-on: i
-from: mai
-with: me # ?
-for: mo
-the: te # ?
+"of": "o"
+"on": "i"
+"from": "mai"
+"with": "me" # ?
+"for": "mo"
+"the": "te" # ?
 
-# Logical operators
-not: kole
-and: ma
+# Logical
+"not": "kole"
+"and": "ma"
 
 # Quantifiers
-all: katoa # ?
-many: mano # ?
+"all": "katoa" # ?
+"many": "mano" # ?
 
 # Numbers
-number: e # ?
-zero: no # ?
-one: ta # ?
-two: le # ?
-three: ti # ?
-four: fo # ?
-five: mu # ?
-six: xa # ?
-seven: ke # ?
-eight: pi # ?
-nine: so # ?
-point: hi # ?
+"number": "e" # ?
+"zero": "no" # ?
+"one": "ta" # ?
+"two": "le" # ?
+"three": "ti" # ?
+"four": "fo" # ?
+"five": "mu" # ?
+"six": "xa" # ?
+"seven": "ke" # ?
+"eight": "pi" # ?
+"nine": "so" # ?
+"point": "hi" # ?
 
 # Colors
-color: tae
-light: tea
-red: kula
-dark: uli
+"color": "tae"
+"light": "tea"
+"red": "kula"
+"dark": "uli"
 
 # Directions
-up: luxa # ?
-down: lalo
+"up": "luxa" # ?
+"down": "lalo"
 
 # WIP
-sacred: tapu
-power: mana
-alive: ola
-this: nei
-that: tela
-time: tami # ?
-place: sahi
-thing: mea
-person: tane
-inside: loto
-outside: saho
-air: ea
-fire: ahi
-birth: fanau
-land: fenua
-water: sai
-coast: tai
-sky: laxi # ?
-sun: la
-moon: mahina
-world: ao
-swamp: lepo # ?
-sand: one
-plant: tupu # ?
-tree: lakau
-trunk: tumu # ?
-branch: lala # ?
-leaf: lau
-flower: tiale
-fruit: hua
-seed: kano # ?
-eye: mata # ?
-ear: talixa
-nose: ihu
-mouth: saha
-blood: toto
-meat: kiko
-bone: isi
-fat: hinu
-skin: kili
-hair: hulu
-brain: lolo
-before: mua
-after: muli
-house: fale
-boat: saka
-ocean: moana
-island: motu
-parent: matua
-fish: ika
-bird: manu
-rain: ua
-wind: mataxi
-lightning: uila
-star: fetu
-chief: aliki
-wave: xalu
-refuge: malu
-mountain: mauxa
-fowl: moa
-crab: paka
-pig: puaka
-dog: kuli
-child: tama
-happy: koa
-sick: maki
-bed: moexa
+"sacred": "tapu"
+"power": "mana"
+"alive": "ola"
+"this": "nei"
+"that": "tela"
+"time": "tami" # ?
+"place": "sahi"
+"thing": "mea"
+"person": "tane"
+"inside": "loto"
+"outside": "saho"
+"birth": "fanau"
+"land": "fenua"
+"air": "ea"
+"fire": "ahi"
+"water": "sai"
+"coast": "tai"
+"sky": "laxi" # ?
+"star": "fetu"
+"sun": "la"
+"moon": "mahina"
+"world": "ao"
+"swamp": "lepo" # ?
+"sand": "one"
+"mountain": "mauxa"
+"wilderness": "sao"
+"plant": "tupu" # ?
+"tree": "lakau"
+"trunk": "tumu" # ?
+"branch": "lala" # ?
+"leaf": "lau"
+"flower": "tiale"
+"fruit": "hua"
+"seed": "kano" # ?
+"eye": "mata" # ?
+"ear": "talixa"
+"nose": "ihu"
+"mouth": "saha"
+"blood": "toto"
+"meat": "kiko"
+"bone": "isi"
+"fat": "hinu"
+"skin": "kili"
+"hair": "hulu"
+"brain": "lolo"
+"before": "mua"
+"after": "muli"
+"house": "fale"
+"refuge": "malu"
+"pole": "toko"
+"boat": "saka"
+"ocean": "moana"
+"wave": "xalu"
+"island": "motu"
+"child": "tama"
+"parent": "matua"
+"chief": "aliki"
+"fish": "ika"
+"bird": "manu"
+"fowl": "moa"
+"pig": "puaka"
+"dog": "kuli"
+"crab": "paka"
+"rain": "ua"
+"wind": "mataxi"
+"lightning": "uila"
+"bitter": "kasa"
+"happy": "koa"
+"sick": "maki"
+"bed": "moexa"
 
-# Compound words
-dream: <sleep-sleep>
-watery: <water-water>
+# Reduplication
+"dream": "<sleep-sleep>"
+"watery": "<water-water>"
 
-yellow: <sun-color>
-green: <leaf-color>
-blue: <sky-color>
-orange: <red-yellow>
-pink: <light-red>
-
-few: <not-many>
-every: <each-and-all>
-always: <each-and-all-time>
-never: <not-some-time>
-now: <this-time>
-here: <this-place>
-there: <that-place>
-aircraft: <air-boat>
-spacecraft: <sky-boat>
-saltwater: <water-coast>
-learn: <take-know>
-teach: <give-know>
-see: <eye-feel>
-hear: <ear-feel>
-smell: <nose-feel>
-taste: <mouth-feel>
-touch: <skin-feel>
-balance: <in-ear-feel>
-awareness: <brain-feel>
-day: <sun-turn>
-month: <moon-turn>
-year: <world-turn>
-computer: <brain-lightning>
+# Compound
+"yellow": "<sun-color>"
+"green": "<leaf-color>"
+"blue": "<sky-color>"
+"orange": "<red-yellow>"
+"pink": "<light-red>"
+"sixteen": "<number-one-six>"
+"forty": "<number-four-zero>"
+"few": "<not-many>"
+"every": "<each-and-all>"
+"always": "<each-and-all-time>"
+"never": "<not-some-time>"
+"now": "<this-time>"
+"here": "<this-place>"
+"there": "<that-place>"
+"aircraft": "<air-boat>"
+"spacecraft": "<sky-boat>"
+"saltwater": "<water-coast>"
+"learn": "<take-know>"
+"teach": "<give-know>"
+"see": "<eye-feel>"
+"hear": "<ear-feel>"
+"smell": "<nose-feel>"
+"taste": "<mouth-feel>"
+"touch": "<skin-feel>"
+"balance": "<in-ear-feel>"
+"awareness": "<brain-feel>"
+"day": "<sun-turn>"
+"month": "<moon-turn>"
+"year": "<world-turn>"
+"computer": "<brain-lightning>"

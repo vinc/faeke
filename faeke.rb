@@ -19,6 +19,46 @@ def lookup(dictionary, compound)
   end
 end
 
+unless File.exist?("faeke.yml")
+  f = File.open("faeke.yml", "w")
+  f.write("# Faeke Lexicon\n")
+  lexicon = false
+  File.read("faeke.md").each_line do |line|
+    case line[0]
+    when "#"
+      row = line.split.map(&:strip)
+      section = row[1]
+      if section == "Lexicon"
+        lexicon = true
+        next
+      end
+      next unless lexicon
+
+      f.write("\n# #{row[1]}\n")
+    when "|"
+      row = line.split("|").map(&:strip)
+      english = row[1]
+      next if english.empty? || english[0] == "-" || english != english.downcase
+
+      faeke, comment = row[2].split.compact
+      next if faeke.nil?
+
+      comment = " # #{comment}" unless comment.nil?
+
+      f.write("\"#{english}\": \"#{faeke}\"#{comment}\n")
+    when "-"
+      next unless lexicon
+
+      row = line.split.map(&:strip)
+      english = row[1][0..-2]
+      compound = row[2]
+
+      f.write("\"#{english}\": \"<#{compound}>\"\n")
+    end
+  end
+  f.close
+end
+
 output = ARGV.shift || "faeke"
 dictionary = YAML.load(File.read("faeke.yml"))
 syllabary = YAML.load(File.read("#{output}.yml"))
