@@ -124,9 +124,7 @@ following tables, and the bilabial fricative `/ɸ/` by "wh" in Maori.
 | like       | fia    ? | pai         | au         | makemake   | fiafia    |
 | feel       | kite     | kite        | 'ite       | 'ike       |           |
 | talk       | lelo   ? | korero      | parau      | 'olelo     | tala      |
-| think      | faka   ? | whakaaro    | fa'aho'a   | mana'o     | manatu    |
 | sleep      | moe      | moe         | moe        | moe        | moe       |
-| love       | aloha    | aroha       | aroha      | aloha      | alofa     |
 | die        | mate     | mate        | mate       | make       | mate      |
 | search     | kimi     | kimi        | 'imi       | 'imi       |           |
 | wait       | tali     | taritari    | tatari     | kali       | tali      |
@@ -141,6 +139,7 @@ following tables, and the bilabial fricative `/ɸ/` by "wh" in Maori.
 
 | English    | Faeke    | Maori       | Tahitian   | Hawaiian   | Samoan    |
 | ---------- | -------- | ----------- | ---------- | ---------- | --------- |
+| cause      | faka     | whaka       | fa'a       | ho'o/ha'a  | fa'a      |
 | small      | iti      | iti         | iti        | iki        | laiti     |
 | short      | poto     | poto        | poto       | poko       | poto      |
 | big        | nui      | nui         | rahi/nui   | nui        | tele      |
@@ -275,8 +274,11 @@ respectively.
 | English    | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan    |
 | ---------- | -------- | --------- | ---------- | ---------- | --------- |
 | period     | sa       | wa/tau    | va/tau     | wa         | va        |
+| breath     | ha       | ha        | ha         | ha         |           |
 | sacred     | tapu     | tapu      | tapu       | kapu       | sa        |
+| free       | noa      | noa       | noa        | noa        | noa       |
 | power      | mana     | mana      | mana       | mana       | mana      |
+| reserve    | lahui    | rahui     | rahui      | lahui      |           |
 | alive      | ola      | ora       | ora        | ola        | ola       |
 | this       | tei      | tenei     | teie       | keia/nei   | lenei     |
 | that       | tela     | tera      | tera       | kela       | lela      |
@@ -323,6 +325,7 @@ respectively.
 | skin       | kili     | kiri      | 'iri       | 'ili       | pa'u      |
 | hair       | hulu     | huru      | huruhuru   | hulu       | ulu       |
 | brain      | lolo     | roro      | roro       | lolo       |           |
+| attention  | alo      | aro       | aro        | alo        |           |
 | before     | mua      | mua       | mua        | mua        | mua       |
 | after      | muli     | muri      | muri       | muli       | muli      |
 | house      | fale     | whare     | fare       | hale       | fale      |

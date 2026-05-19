@@ -18,9 +18,7 @@
 "like": "fia" # ?
 "feel": "kite"
 "talk": "lelo" # ?
-"think": "faka" # ?
 "sleep": "moe"
-"love": "aloha"
 "die": "mate"
 "search": "kimi"
 "wait": "tali"
@@ -32,6 +30,7 @@
 "scrape": "salu"
 
 # Modifiers
+"cause": "faka"
 "small": "iti"
 "short": "poto"
 "big": "nui"
@@ -92,8 +91,11 @@
 
 # WIP
 "period": "sa"
+"breath": "ha"
 "sacred": "tapu"
+"free": "noa"
 "power": "mana"
+"reserve": "lahui"
 "alive": "ola"
 "this": "tei"
 "that": "tela"
@@ -137,6 +139,7 @@
 "skin": "kili"
 "hair": "hulu"
 "brain": "lolo"
+"attention": "alo"
 "before": "mua"
 "after": "muli"
 "house": "fale"
@@ -205,8 +208,31 @@
 "touch": "<skin-feel>"
 "balance": "<in-ear-feel>"
 "awareness": "<brain-feel>"
+"consciousness": "<inside-feel>"
+"mindfulness": "<long-attention>"
+"meditate": "<cause-long-attention>"
+"metacognition": "<cause-attention-attention>"
+"think": "<cause-attention>"
+"show": "<cause-feel>"
+"shrink": "<cause-small>"
+"expand": "<cause-big>"
+"improve": "<cause-good>"
 "day": "<sun-period>"
 "month": "<moon-period>"
 "year": "<world-period>"
 "computer": "<lightning-brain>"
 "come": "<go-toward>"
+
+# Synonyms
+"hello": "<alive>"
+"num": "<number>"
+"0": "<zero>"
+"1": "<one>"
+"2": "<two>"
+"3": "<three>"
+"4": "<four>"
+"5": "<five>"
+"6": "<six>"
+"7": "<seven>"
+"8": "<eight>"
+"9": "<nine>"
