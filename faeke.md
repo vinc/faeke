@@ -67,8 +67,8 @@ Some expressions:
 - ola (alive / hello)
 - pai-kai (good-eat / enjoy your meal)
 - malie-moe (calm-sleep / good night)
-- haele nei-sahi ma nei-tami (go this-place and this-time / be here now)
-- nei-tami tau-talefo ao-sa ma tau-mu mahina-sa ma tau-lekehifofo la-sa muli tau-no (this-time, 124 years, 5 months, 27.44 days after 0)
+- haele tei-sahi ma tei-tami (go this-place and this-time / be here now)
+- tei-tami tau-taleko ao-sa ma tau-mu mahina-sa ma tau-lepehikoko la-sa muli tau-xu (this-time, 124 years, 5 months, 27.44 days after 0)
 
 A longer example:
 
