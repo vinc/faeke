@@ -17,12 +17,12 @@ English and Polynesian languages ([Proto][4]-[Polynesian][5], [Samoan][6],
 [8]: https://www.farevanaa.pf/fra/dictionnaire
 [9]: https://maoridictionary.co.nz/
 
-It is a small experimental creole designed for worldbuilding and storytelling
-around a solarpunk future where humanity lives across the solar system in
-deliberate balance with technology and nature. Inspired by Polynesian
-wayfinding, island ecology, and traditional concepts like rāhui and mana, the
-language tries to encode the values of simplicity, sustainability, stewardship,
-and coexistence with the living world.
+It is an experimental creole designed for worldbuilding and storytelling around
+a solarpunk future where humanity lives across the solar system in deliberate
+balance with technology and nature. Inspired by Polynesian wayfinding, island
+ecology, and traditional concepts like rāhui and mana, the language tries to
+encode the values of simplicity, sustainability, stewardship, and coexistence
+with the living world.
 
 Faeke is intentionally minimal, compositional, and open to outside influences,
 imagining how future spacefaring cultures might evolve practical shared
