@@ -193,22 +193,20 @@ negative connotations in their respective languages.
 The numbers have a strong influence from the Lojban language and zero was
 already loaned from English or French in post-contact Polynesia.
 
-| English  | Faeke   | Maori    | Tahitian     | Hawaiian   | Samoan        | Lojban |
-| -------- | ------- | -------- | ------------ | ---------- | ------------- | ------ |
-| number   | tau     | nama/tau | numera/ta'u  | helu       | numera/faitau |        |
-| zero     | no    ? | kore     | ero          | 'ole       | sero          | no     |
-| one      | ta    ? | tahi     | tahi         | kahi       | tasi          | pa     |
-| two      | le    ? | rua      | piti         | lua        | lua           | re     |
-| three    | ti    ? | toru     | toru         | kolu       | tolu          | ci     |
-| four     | fo    ? | wha      | maha         | ha         | fa            | vo     |
-| five     | mu    ? | rima     | pae          | lima       | lima          | mu     |
-| six      | xa    ? | ono      | ono          | ono        | ono           | xa     |
-| seven    | ke    ? | whitu    | hitu         | hiku       | fitu          | ze     |
-| eight    | pi    ? | waru     | va'u         | walu       | valu          | bi     |
-| nine     | so    ? | iwa      | iva          | iwa        | iva           | so     |
-| point    | hi    ? | ira      |              | kiko       | i'a           | pi     |
-| ord      |         | tua      |              | tua/hapa   |               | moi    |
-| fract    |         | hau      |              |            |               | fi'u   |
+| English | Faeke | Maori    | Tahitian    | Hawaiian | Samoan        | Lojban |
+| ------- | ----- | -------- | ----------- | -------- | ------------- | ------ |
+| number  | tau   | nama/tau | numera/ta'u | helu     | numera/faitau |        |
+| zero    | xu  ? | kore     | ero         | 'ole     | sero          | no     |
+| one     | ta  ? | tahi     | tahi        | kahi     | tasi          | pa     |
+| two     | le  ? | rua      | piti        | lua      | lua           | re     |
+| three   | ti  ? | toru     | toru        | kolu     | tolu          | ci     |
+| four    | ko  ? | wha      | maha        | ha       | fa            | vo     |
+| five    | mu  ? | rima     | pae         | lima     | lima          | mu     |
+| six     | na  ? | ono      | ono         | ono      | ono           | xa     |
+| seven   | pe  ? | whitu    | hitu        | hiku     | fitu          | ze     |
+| eight   | fi  ? | waru     | va'u        | walu     | valu          | bi     |
+| nine    | so  ? | iwa      | iva         | iwa      | iva           | so     |
+| point   | hi  ? | ira      |             | kiko     | i'a           | pi     |
 
 Numbers are prefixed with "tau", for example 42 is "tau-fole" and 1337 is
 "tau-tatitike".
@@ -386,11 +384,35 @@ The word for "this" could also be used for "here".
 - touch: skin-feel
 - balance: in-ear-feel
 - awareness: brain-feel
+- consciousness: inside-feel
+- mindfulness: long-attention
+- meditate: cause-long-attention
+- metacognition: cause-attention-attention
+- think: cause-attention
+- show: cause-feel
+- shrink: cause-small
+- expand: cause-big
+- improve: cause-good
 - day: sun-period (Maori and Hawaiian uses "ra" and "la" for "day" whereas Samoan and Tahitian uses "ao")
 - month: moon-period
 - year: world-period
 - computer: lightning-brain
 - come: go-toward
+
+### Synonyms
+
+- hello: alive
+- num: number
+- 0: zero
+- 1: one
+- 2: two
+- 3: three
+- 4: four
+- 5: five
+- 6: six
+- 7: seven
+- 8: eight
+- 9: nine
 
 [1]: https://en.m.wikipedia.org/wiki/Polynesian_languages
 [2]: https://en.wikipedia.org/wiki/Proto-Polynesian_language
