@@ -159,6 +159,26 @@ following tables, and the bilabial fricative `/ɸ/` by "wh" in Maori.
 The words for "old" above should not be used for people due to their
 negative connotations in their respective languages.
 
+### Tense-Aspect-Mood
+
+| English     | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan   |
+| ----------- | -------- | --------- | ---------- | ---------- | -------- |
+| ed          | ni       | i         | i          | i          | na/sa    |
+| ing         | nei      | e ... ana | te ... nei | ke ... nei | 'o lo'o  |
+| will        | ka       | ka        | e          | e          | 'o le 'a |
+| has         | kua      | kua       | 'ua        | ua         | 'ua      |
+| may         | kia      | kia       | 'ia        | e ... 'ana | 'ia      |
+| must        | e        | e         | a          | e          |          |
+
+Past: "you eat-ed fruit" is "koe kai-ni hua"
+Progressive: "you eat-ing fruit" is "koe kai-nei hua"
+Habitual: "you eat fruit" is "koe kai hua"
+Future: "you will eat fruit" is "koe ka kai hua"
+Perfective: "you has eat fruit" is "koe kua kai hua"
+Permissive: "you may eat fruit" is "koe kia kai hua"
+Imperative: "you must eat fruit" is "koe e kai hua"
+Prohibitive: "you must not eat fruit" is "koe e kole kai hua"
+
 ### Particles
 
 | English    | Faeke    | Maori    | Tahitian   | Hawaiian   | Samoan    |
@@ -258,7 +278,7 @@ respectively.
 | sacred     | tapu     | tapu      | tapu       | kapu       | sa        |
 | power      | mana     | mana      | mana       | mana       | mana      |
 | alive      | ola      | ora       | ora        | ola        | ola       |
-| this       | nei      | tenei     | teie       | keia/nei   | lenei     |
+| this       | tei      | tenei     | teie       | keia/nei   | lenei     |
 | that       | tela     | tera      | tera       | kela       | lela      |
 | time       | tami   ? | taima/wa  | taime      | manawa     | taimi     |
 | place      | sahi     | wahi      | vahi       | wahi       | nofoaga   |

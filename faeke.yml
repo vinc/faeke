@@ -44,6 +44,14 @@
 "wet": "maku"
 "fast": "sase"
 
+# Tense-Aspect-Mood
+"ed": "ni"
+"ing": "nei"
+"will": "ka"
+"has": "kua"
+"may": "kia"
+"must": "e"
+
 # Particles
 "of": "o"
 "on": "i"
@@ -87,7 +95,7 @@
 "sacred": "tapu"
 "power": "mana"
 "alive": "ola"
-"this": "nei"
+"this": "tei"
 "that": "tela"
 "time": "tami" # ?
 "place": "sahi"
