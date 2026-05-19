@@ -37,7 +37,7 @@ approximant `/w/` that became a labiodental fricative `/v/` in Samoan and
 Tahitian is an alveolar fricative `/s/` in Faeke.
 
 | Proto-Polynesian | p |  t  | k | ʔ | m | n | ŋ |  w  |   f   | s | h | l | r |
-| ---------------- | - | --- | - | - | - | - | - | --- | ----- | - | - | - | - |
+| ---------------- | - | :-: | - | - | - | - | - | :-: | :---: | - | - | - | - |
 | Samoan           | p | t~k | ʔ | Ø | m | n | ŋ |  v  |   f   | s | Ø | l | l |
 | Hawaiian         | p |  k  | ʔ | Ø | m | n | n | v/w |  w/h  | h | Ø | l | l |
 | Tahitian         | p |  t  | ʔ | Ø | m | n | ʔ |  v  | v/f/h | h | Ø | r | r |
