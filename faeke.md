@@ -182,12 +182,21 @@ Prohibitive: "you must not eat fruit" is "koe e kole kai hua"
 
 | English    | Faeke    | Maori    | Tahitian   | Hawaiian   | Samoan    |
 | ---------- | -------- | -------- | ---------- | ---------- | --------- |
+| by         | a        | a        | a          | a          | a         |
 | of         | o        | o        | o          | o          | o         |
 | on         | i        | i        | i          | i          | i         |
-| to         |          | i        | i          | i          | i         |
 | with       | me     ? | me       | ma         | me         | ma        |
 | for        | mo       | mo       | no         | no         | mo        |
 | the        | te     ? | te       |            |            |           |
+
+Faeke has two types of possessions, alienable "a" and inalienable "o", they
+are roughly mapped to "by" and "of" in English. For example "parent of you"
+is "matua o koe" which is inalienable because you didn't chose them, but
+"boat by you" is "saka a koe" because you chose or built it.
+
+Chosing one form over the other add meaning to a sentence, for example "house
+of me", the house where I live, is not the same as "house by me", the house
+that I built.
 
 ### Logical Operators
 
