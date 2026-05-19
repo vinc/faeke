@@ -185,14 +185,14 @@ negative connotations in their respective languages.
 | may         | kia      | kia       | 'ia        | e ... 'ana | 'ia      |
 | must        | e        | e         | a          | e          |          |
 
-Past: "you eat-ed fruit" is "koe kai-ni hua"
-Progressive: "you eat-ing fruit" is "koe kai-nei hua"
-Habitual: "you eat fruit" is "koe kai hua"
-Future: "you will eat fruit" is "koe ka kai hua"
-Perfective: "you has eat fruit" is "koe kua kai hua"
-Permissive: "you may eat fruit" is "koe kia kai hua"
-Imperative: "you must eat fruit" is "koe e kai hua"
-Prohibitive: "you must not eat fruit" is "koe e kole kai hua"
+- Past: "you eat-ed fruit" is "koe kai-ni hua"
+- Progressive: "you eat-ing fruit" is "koe kai-nei hua"
+- Habitual: "you eat fruit" is "koe kai hua"
+- Future: "you will eat fruit" is "koe ka kai hua"
+- Perfective: "you has eat fruit" is "koe kua kai hua"
+- Permissive: "you may eat fruit" is "koe kia kai hua"
+- Imperative: "you must eat fruit" is "koe e kai hua"
+- Prohibitive: "you must not eat fruit" is "koe e kole kai hua"
 
 ### Particles
 

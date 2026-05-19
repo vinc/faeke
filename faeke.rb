@@ -51,6 +51,7 @@ File.open("faeke.yml", "w") do |f|
       row = line.split.map(&:strip)
       english = row[1][0..-2]
       compound = row[2]
+      next if english != english.downcase
 
       f.write("\"#{english}\": \"<#{compound}>\"\n")
     end
