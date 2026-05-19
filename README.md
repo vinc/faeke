@@ -1,7 +1,7 @@
 # Faeke
 
 [Faeke][1] is a constructed language inspired by [Lojban][2], [Toki Pona][3],
-and Polynesian languages ([Proto][4]-[Polynesian][5], [Samoan][6],
+English and Polynesian languages ([Proto][4]-[Polynesian][5], [Samoan][6],
 [Hawaiian][7], [Tahitian][8], and [Maori][9]).
 
 [1]: faeke.md
@@ -13,6 +13,18 @@ and Polynesian languages ([Proto][4]-[Polynesian][5], [Samoan][6],
 [7]: https://wehewehe.org/gsdl2.85/cgi-bin/hdict?l=en
 [8]: https://www.farevanaa.pf/fra/dictionnaire
 [9]: https://maoridictionary.co.nz/
+
+It is a small experimental creole designed for worldbuilding and storytelling
+around a solarpunk future where humanity lives across the solar system in
+deliberate balance with technology and nature. Inspired by Polynesian
+wayfinding, island ecology, and traditional concepts like rāhui and mana, the
+language tries to encode the values of simplicity, sustainability, stewardship,
+and coexistence with the living world.
+
+Faeke is intentionally minimal, compositional, and open to outside influences,
+imagining how future spacefaring cultures might evolve practical shared
+languages shaped by migration, multicultural contact, ecological limits, and
+ubiquitous technology. Not to be taken too seriously.
 
 This project include a script to translate it from English and optionally
 display it in Katakana, Hiragana, Hangul, Devanagari, or Elder Futhark.

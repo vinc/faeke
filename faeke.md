@@ -4,9 +4,30 @@ title: Faeke
 
 # Faeke
 
-Faeke is a constructed language inspired by [Polynesian languages][1].
+Faeke is a constructed language inspired by [Lojban][2], [Toki Pona][3],
+English and Polynesian languages ([Proto][4]-[Polynesian][5], [Samoan][6],
+[Hawaiian][7], [Tahitian][8], and [Maori][9]).
 
-It is a work in progress.
+[2]: https://la-lojban.github.io/sutysisku/lojban/
+[3]: https://lipu-sona.pona.la/en/dictionary/
+[4]: https://ids.clld.org/contributions/234
+[5]: https://pollex.eva.mpg.de/level/PN/
+[6]: https://www2.hawaii.edu/~leighj/SAMOAN/dictionary/
+[7]: https://wehewehe.org/gsdl2.85/cgi-bin/hdict?l=en
+[8]: https://www.farevanaa.pf/fra/dictionnaire
+[9]: https://maoridictionary.co.nz/
+
+It is a small experimental creole designed for worldbuilding and storytelling
+around a solarpunk future where humanity lives across the solar system in
+deliberate balance with technology and nature. Inspired by Polynesian
+wayfinding, island ecology, and traditional concepts like rāhui and mana, the
+language tries to encode the values of simplicity, sustainability, stewardship,
+and coexistence with the living world.
+
+Faeke is intentionally minimal, compositional, and open to outside influences,
+imagining how future spacefaring cultures might evolve practical shared
+languages shaped by migration, multicultural contact, ecological limits, and
+ubiquitous technology. Not to be taken too seriously.
 
 ## Phonology
 
@@ -50,15 +71,10 @@ In this language, words are formed by compounding root words.
 
 ## Syntax
 
-I wanted to have a VSO (verb-subject-object) word order for this language given
-its strong Polynesian influence but I'm starting with a more common SVO
-(subject-verb-object) for simplicity given my background in French, English,
-and Spanish. The Celtic language of my ancestors, Breton, is also a VSO so I
-might revisit this decision later, although recent generations of Polynesians
-are also influenced by English and French SVO word order.
-
-I also decided that noun-phrases and verb-phrases would always have a
-modifiers-noun and modifier-verb order.
+Polynesian languages have a VSO (verb-subject-object) word order but the
+influence of English resulted in the more common SVO (subject-verb-object)
+with modifiers-noun and modifier-verb order for noun-phrases and verb-phrases
+to simplify learning and automatic machine translation.
 
 ## Examples
 
