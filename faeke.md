@@ -179,14 +179,14 @@ negative connotations in their respective languages.
 | English     | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan   |
 | ----------- | -------- | --------- | ---------- | ---------- | -------- |
 | ed          | ni       | i         | i          | i          | na/sa    |
-| ing         | nei      | e ... ana | te ... nei | ke ... nei | 'o lo'o  |
+| ing         | ne       | e ... ana | te ... nei | ke ... nei | 'o lo'o  |
 | will        | ka       | ka        | e          | e          | 'o le 'a |
 | has         | kua      | kua       | 'ua        | ua         | 'ua      |
 | may         | kia      | kia       | 'ia        | e ... 'ana | 'ia      |
 | must        | e        | e         | a          | e          |          |
 
 - Past: "you eat-ed fruit" is "koe kai-ni hua"
-- Progressive: "you eat-ing fruit" is "koe kai-nei hua"
+- Progressive: "you eat-ing fruit" is "koe kai-ne hua"
 - Habitual: "you eat fruit" is "koe kai hua"
 - Future: "you will eat fruit" is "koe ka kai hua"
 - Perfective: "you has eat fruit" is "koe kua kai hua"
@@ -227,10 +227,12 @@ that I built.
 
 | English    | Faeke    | Maori    | Tahitian   | Hawaiian   | Samoan    |
 | ---------- | -------- | -------- | ---------- | ---------- | --------- |
-| any        |          |          |            |            |           |
-| all        | katoa  ? | katoa    | ato'a      | apau       | atoa      |
-| each       |          | ia       |            |            | ta'itasi  |
+| all        | atoa   ? | katoa    | ato'a      | apau       | atoa      |
 | some       |          | wetahi   | fanu       | kekahi     |           |
+| any        |          |          |            |            |           |
+| none       |          |          |            |            |           |
+| every      |          |          |            |            |           |
+| each       |          | ia       |            |            | ta'itasi  |
 
 ### Numbers
 
@@ -298,19 +300,27 @@ respectively.
 
 | English    | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan    |
 | ---------- | -------- | --------- | ---------- | ---------- | --------- |
-| period     | sa       | wa/tau    | va/tau     | wa         | va        |
-| breath     | ha       | ha        | ha         | ha         |           |
+| name       | ixoa     | ingoa     | i'oa       | inoa       | igoa      |
 | sacred     | tapu     | tapu      | tapu       | kapu       | sa        |
 | free       | noa      | noa       | noa        | noa        | noa       |
 | power      | mana     | mana      | mana       | mana       | mana      |
 | reserve    | lahui    | rahui     | rahui      | lahui      |           |
 | alive      | ola      | ora       | ora        | ola        | ola       |
-| this       | tei      | tenei     | teie       | keia/nei   | lenei     |
-| that       | tela     | tera      | tera       | kela       | lela      |
+| new        | hou      | hou       | hou        | hou        | fou       |
+| also       | hoki     | hoki      | ho'i       | ho'i       | fo'i      |
+| this       | ke     ? | tenei     | teie       | keia/nei   | lenei     |
+| that       | ki     ? | tera      | tera       | kela       | lela      |
+| what       | fa       | aha       | aha        | aha        | a         |
+| who        |          | wai       | vai        | wai        | ai        |
+| where      |          | hea       | hea        | hea        | fea       |
+| period     | sa       | wa/tau    | va/tau     | wa         | va        |
+| breath     | ha       | ha        | ha         | ha         |           |
 | time       | tami   ? | taima/wa  | taime      | manawa     | taimi     |
 | place      | sahi     | wahi      | vahi       | wahi       | nofoaga   |
-| thing      | mea      | mea       | mea        | mea        | mea       |
 | person     | tane     | tane      | tane       | kane       | tane      |
+| thing      | mea      | mea       | mea        | mea        | mea       |
+| reason     | take   ? | take      |            |            |           |
+| way        | ala      | ara       | ara        | ala        | ala       |
 | inside     | loto     | roto      | roto       | loko       | totonu    |
 | outside    | saho     | waho      | vaho       | waho       | fafo      |
 | birth      | fanau    | whanau    | fanau      | hanau      | fanau     |
@@ -332,13 +342,18 @@ respectively.
 | wilderness | sao      | wao       | vao        | wao        | vao       |
 | plant      | tupu   ? | tupu      | tupu       | la'au      | la'au     |
 | tree       | lakau    | rakau     | ra'au      | la'au      | la'au     |
-| root       |          | paiaka    |            |            |           |
+| root       | aka      | aka       | a'a        | a'a        | a'a       |
 | trunk      | tumu   ? | tiwai     | tumu       | kumu       |           |
 | branch     | lala   ? | peka      | 'ama'a     | lala       | lala      |
 | leaf       | lau      | rau       | rau        | lau        | lau       |
 | flower     | tiale    | tiare     | tiare      | kiele      | tiale     |
 | fruit      | hua      | hua       | hotu       | hua        | fua       |
-| seed       | kano   ? | kano      | hua        | 'ano'ano   |           |
+| seed       | kano     | kano      | 'ano'ano   | 'ano'ano   | fatu      |
+| bread      | palaoa   | paraoa    | faraoa     | palaoa     | falaoa    |
+| mushroom   |          | harore    |            |            |           |
+| seaweed    |          | rimu      |            |            |           |
+| yam        |          | uhi       |            |            |           |
+| taro       |          | taro      | taro       | talo       | talo      |
 | eye        | mata   ? | karu      | mata       | maka       | mata      |
 | ear        | talixa   | taringa   | tari'a     | pepeiao    | taliga    |
 | nose       | ihu      | ihu       | ihu        | ihu        | isu       |
@@ -376,13 +391,6 @@ respectively.
 | happy      | koa      | koakoa    | 'oa'oa     | 'oli       | 'oli'oli  |
 | sick       | maki     | maki      | ma'i       | ma'i       | ma'i      |
 | bed        | moexa    | moenga    | moea       | moena      | moega     |
-| what       | aha      | aha       | aha        | aha        | a         |
-| who        | ai       | wai       | vai        | wai        | ai        |
-| where      | hea      | hea       | hea        | hea        | fea       |
-| new        | hou      | hou       | hou        | hou        | fou       |
-| also       | hoki     | hoki      | ho'i       | ho'i       | fo'i      |
-| name       | ixoa     | ingoa     | i'oa       | inoa       | igoa      |
-| way        | ala      | ara       | ara        | ala        | ala       |
 | friend     | hoa      | hoa       | hoa        | hoa        | uo        |
 | toward     | mai      | mai       | mai        | mai        | mai       |
 
@@ -414,12 +422,15 @@ The word for "this" could also be used for "here".
 - many: big-number
 - few: small-number
 
-- every: each-and-all
-- always: each-and-all-time
-- never: not-some-time
-- now: this-time
+- now: this-period
+- then: that-period
 - here: this-place
 - there: that-place
+- when: what-period
+- where: what-place
+- who: what-person
+- why: what-reason
+- how: what-way
 - aircraft: air-boat
 - spacecraft: sky-boat
 - saltwater: coast-water
@@ -450,6 +461,7 @@ The word for "this" could also be used for "here".
 ### Synonyms
 
 - hello: alive
+- food: eat
 - num: number
 - 0: zero
 - 1: one

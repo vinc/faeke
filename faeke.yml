@@ -45,7 +45,7 @@
 
 # Tense-Aspect-Mood
 "ed": "ni"
-"ing": "nei"
+"ing": "ne"
 "will": "ka"
 "has": "kua"
 "may": "kia"
@@ -64,7 +64,7 @@
 "and": "ma"
 
 # Quantifiers
-"all": "katoa" # ?
+"all": "atoa" # ?
 
 # Numbers
 "number": "tau"
@@ -91,19 +91,25 @@
 "down": "lalo"
 
 # WIP
-"period": "sa"
-"breath": "ha"
+"name": "ixoa"
 "sacred": "tapu"
 "free": "noa"
 "power": "mana"
 "reserve": "lahui"
 "alive": "ola"
-"this": "tei"
-"that": "tela"
+"new": "hou"
+"also": "hoki"
+"this": "ke" # ?
+"that": "ki" # ?
+"what": "fa"
+"period": "sa"
+"breath": "ha"
 "time": "tami" # ?
 "place": "sahi"
-"thing": "mea"
 "person": "tane"
+"thing": "mea"
+"reason": "take" # ?
+"way": "ala"
 "inside": "loto"
 "outside": "saho"
 "birth": "fanau"
@@ -123,12 +129,14 @@
 "wilderness": "sao"
 "plant": "tupu" # ?
 "tree": "lakau"
+"root": "aka"
 "trunk": "tumu" # ?
 "branch": "lala" # ?
 "leaf": "lau"
 "flower": "tiale"
 "fruit": "hua"
-"seed": "kano" # ?
+"seed": "kano"
+"bread": "palaoa"
 "eye": "mata" # ?
 "ear": "talixa"
 "nose": "ihu"
@@ -166,13 +174,6 @@
 "happy": "koa"
 "sick": "maki"
 "bed": "moexa"
-"what": "aha"
-"who": "ai"
-"where": "hea"
-"new": "hou"
-"also": "hoki"
-"name": "ixoa"
-"way": "ala"
 "friend": "hoa"
 "toward": "mai"
 
@@ -191,12 +192,15 @@
 "forty": "<number-four-zero>"
 "many": "<big-number>"
 "few": "<small-number>"
-"every": "<each-and-all>"
-"always": "<each-and-all-time>"
-"never": "<not-some-time>"
-"now": "<this-time>"
+"now": "<this-period>"
+"then": "<that-period>"
 "here": "<this-place>"
 "there": "<that-place>"
+"when": "<what-period>"
+"where": "<what-place>"
+"who": "<what-person>"
+"why": "<what-reason>"
+"how": "<what-way>"
 "aircraft": "<air-boat>"
 "spacecraft": "<sky-boat>"
 "saltwater": "<coast-water>"
@@ -226,6 +230,7 @@
 
 # Synonyms
 "hello": "<alive>"
+"food": "<eat>"
 "num": "<number>"
 "0": "<zero>"
 "1": "<one>"
