@@ -76,34 +76,6 @@ influence of English resulted in the more common SVO (subject-verb-object)
 with modifiers-noun and modifier-verb order for noun-phrases and verb-phrases
 to simplify learning and automatic machine translation.
 
-## Examples
-
-Some expressions:
-
-- ola (alive / hello)
-- pai-kai (good-eat / enjoy your meal)
-- malie-moe (calm-sleep / good night)
-- haele tei-sahi ma tei-tami (go this-place and this-time / be here now)
-- tei-tami tau-taleko ao-sa ma tau-mu mahina-sa ma tau-lepehikoko la-sa muli tau-xu (this-time, 124 years, 5 months, 27.44 days after 0)
-
-A longer example:
-
-- koe mata-kite tela lakau me nui-tau kula hua ?
-- au fia saha-kite kula hua .
-- au tahito-tane ma koe kole-tahito-tane .
-- koe haele luxa tela lakau ma koe lase tau-le kula hua .
-- koe kai tau-ta kula hua ma koe foaki au tau-ta kula hua .
-- koe pai !
-
-Which directly translates to:
-
-- you eye-feel that tree with big-number red fruit ?
-- me like mouth-feel red fruit .
-- me old-person and you not-old-person .
-- you go up that tree and you take number-two red fruit .
-- you eat number-one red fruit and you give me number-one red fruit .
-- you good !
-
 ## Lexicon
 
 The lexicon is small and roughly based on the [Swadesh list][3] translated with
@@ -210,9 +182,9 @@ are roughly mapped to "by" and "of" in English. For example "parent of you"
 is "matua o koe" which is inalienable because you didn't chose them, but
 "boat by you" is "saka a koe" because you chose or built it.
 
-Chosing one form over the other add meaning to a sentence, for example "house
-of me", the house where I live, is not the same as "house by me", the house
-that I built.
+Chosing one possession form over the other add meaning to a sentence, for
+example "house of me" would be "the house where I live" while "house by me"
+would be "the house that I built".
 
 ### Logical Operators
 
