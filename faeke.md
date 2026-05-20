@@ -366,9 +366,8 @@ respectively.
 | friend     | hoa      | hoa       | hoa        | hoa        | uo        |
 | toward     | mai      | mai       | mai        | mai        | mai       |
 
-The words for "person" above mean "man" or "male" and not a genderless person.
-There is a specific word for that, but those are shorter and they also mean the
-name of a god which is interesting.
+The word for "person" is genderless in Faeke even if it means "man" or "male"
+in Polynesian. The default gender is neutral.
 
 The word for "bird" can mean any winged creature and the one for "dog" can mean
 any quadruped.
