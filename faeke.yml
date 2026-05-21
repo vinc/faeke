@@ -26,7 +26,9 @@
 "talk": "lelo" # ?
 "sleep": "moe"
 "die": "mate"
+"fear": "mataku"
 "search": "kimi"
+"fly": "lele"
 "wait": "tali"
 "stay": "mau"
 "become": "lilo"
@@ -95,7 +97,7 @@
 
 # Colors
 "color": "tae"
-"light": "tea"
+"clear": "tea"
 "red": "kula"
 "dark": "uli"
 
@@ -143,6 +145,12 @@
 "sun": "la"
 "moon": "mahina"
 "world": "ao"
+"rain": "ua"
+"smoke": "pua"
+"cloud": "kapua"
+"wind": "mataxi"
+"light": "lama"
+"lightning": "uila"
 "swamp": "lepo" # ?
 "sand": "one"
 "mountain": "mauxa"
@@ -158,6 +166,7 @@
 "seed": "kano"
 "bread": "palaoa"
 "body": "tino"
+"foot": "sae"
 "eye": "mata" # ?
 "ear": "talixa"
 "nose": "ihu"
@@ -191,9 +200,6 @@
 "pig": "puaka"
 "dog": "kuli"
 "crab": "paka"
-"rain": "ua"
-"wind": "mataxi"
-"lightning": "uila"
 "bitter": "kasa"
 "happy": "koa"
 "sick": "maki"
@@ -209,7 +215,7 @@
 "green": "<leaf-color>"
 "blue": "<sky-color>"
 "orange": "<yellow-red>"
-"pink": "<light-red>"
+"pink": "<clear-red>"
 "sixteen": "<number-one-six>"
 "forty": "<number-four-zero>"
 "many": "<big-number>"

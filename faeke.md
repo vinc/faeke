@@ -122,7 +122,9 @@ Plural pronouns are formed by adding "-all" to the singular form.
 | talk       | lelo   ? | korero      | parau      | 'olelo     | tala      |
 | sleep      | moe      | moe         | moe        | moe        | moe       |
 | die        | mate     | mate        | mate       | make       | mate      |
+| fear       | mataku   | mataku      | mata'u     | maka'u     | mata'u    |
 | search     | kimi     | kimi        | 'imi       | 'imi       |           |
+| fly        | lele     | rere        | rere       | lele       | lele      |
 | wait       | tali     | taritari    | tatari     | kali       | tali      |
 | stay       | mau      | mau         | mau        | mau        | mau       |
 | become     | lilo     | riro        | riro       | lilo       | liu       |
@@ -151,10 +153,11 @@ Plural pronouns are formed by adding "-all" to the singular form.
 | fast       | sase     | tere/wawe   | hiuao/vave | wiki/wawe  | tope/vave |
 | high       |          | teitei      | teitei     | ki'eki'e   | maualuga  |
 | heavy      |          | taumaha     | teimaha    | kaumaha    | mamafa    |
-| very       |          | tino        | hope       |            | matua     |
 
-The words for "old" above should not be used for people due to their
-negative connotations in their respective languages.
+The words for "old" have negative connotations in their respective languages
+when associated with "person" but not in Faeke.
+
+The new moon is "new-moon" but the full moon is "fruit-moon".
 
 ### Tense-Aspect-Mood
 
@@ -251,7 +254,7 @@ Fractional numbers use "i" (on) between the numerator and the denominator as in
 | English    | Faeke    | Maori        | Tahitian   | Hawaiian   | Samoan    |
 | ---------- | -------- | ------------ | ---------- | ---------- | --------- |
 | color      | tae      | tae/kanu     | peni       | kala       | lanu      |
-| light      | tea      | tea          | tea        | kea        |           |
+| clear      | tea      | tea          | tea        | kea        |           |
 | white      |          | ma           | 'uo'uo     | ke'oke'o   | pa'epa'e  |
 | red        | kula     | whero/kura   | 'ura/'ute  | 'ula'ula   | mumu/ula  |
 | yellow     |          | kowhai       | re'are'a   | melemele   | samasama  |
@@ -262,10 +265,10 @@ Fractional numbers use "i" (on) between the numerator and the denominator as in
 | black      |          | pango/mangu  | 'ere'ere   | 'ele'ele   | uliuli    |
 | dark       | uli      | uri          |            | uli        |           |
 
-Faeke has 3 terms to describe basic colors: light, red, and dark.
+Faeke has 3 terms to describe basic colors: clear, red, and dark.
 
 The other colors can be obtained by compounding like sun-color, leaf-color,
-sky-color, light-red, and red-yellow for yellow, green, blue, pink, and orange
+sky-color, clear-red, and red-yellow for yellow, green, blue, pink, and orange
 respectively.
 
 ### Directions
@@ -325,6 +328,12 @@ respectively.
 | sun        | la       | ra        | ra         | la         | la        |
 | moon       | mahina   | mahina    | mahina     | mahina     | masina    |
 | world      | ao       | ao        | ao         | ao         | lalolagi  |
+| rain       | ua       | ua        | ua         | ua         | ua        |
+| smoke      | pua      | pua       | au         | pua        | ulaula    |
+| cloud      | kapua    | kapua     | ata        | ao         | ao        |
+| wind       | mataxi   | matangi   | mata'i     | makani     | matagi    |
+| light      | lama     | rama      | rama       | lama       |           |
+| lightning  | uila     | uira      | uira       | uila       | uila      |
 | stone      |          | pohatu    | 'ofa'i     | pohaku     | ma'a      |
 | swamp      | lepo   ? | repo      |            | lepo       |           |
 | sand       | one      | one       | one'one    | one        | oneone    |
@@ -346,6 +355,7 @@ respectively.
 | yam        |          | uhi       |            |            |           |
 | taro       |          | taro      | taro       | talo       | talo      |
 | body       | tino     | tinana    | tino       | kino       | tino      |
+| foot       | sae      | wae       | 'avae      | wawae      | vae       |
 | eye        | mata   ? | karu      | mata       | maka       | mata      |
 | ear        | talixa   | taringa   | tari'a     | pepeiao    | taliga    |
 | nose       | ihu      | ihu       | ihu        | ihu        | isu       |
@@ -379,9 +389,6 @@ respectively.
 | pig        | puaka    | poaka     | pua'a      | pua'a      | pua'a     |
 | dog        | kuli     | kuri      | 'uri       | 'ilio      | maile     |
 | crab       | paka     | papaka    | pa'a       | papa'i     | pa'a      |
-| rain       | ua       | ua        | ua         | ua         | ua        |
-| wind       | mataxi   | matangi   | mata'i     | makani     | matagi    |
-| lightning  | uila     | uira      | uira       | uila       | uila      |
 | bitter     | kasa     | kawa      | 'ava       | 'awa       | 'ava      |
 | happy      | koa      | koakoa    | 'oa'oa     | 'oli       | 'oli'oli  |
 | sick       | maki     | maki      | ma'i       | ma'i       | ma'i      |
@@ -395,6 +402,10 @@ any quadruped.
 
 The word for "this" could also be used for "here".
 
+The word for "light" is for electromagnetic radiation in the visible spectrum,
+it can be used in the compounds "sun-light", "fire-light", and
+"lightning-light" (electric light).
+
 ### Reduplication
 
 - dream: sleep-sleep ("moemoea" is "dream" in Tahitian, Hawaiian, and Maori)
@@ -407,7 +418,7 @@ The word for "this" could also be used for "here".
 - green: leaf-color
 - blue: sky-color
 - orange: yellow-red
-- pink: light-red
+- pink: clear-red
 
 - sixteen: number-one-six
 - forty: number-four-zero
