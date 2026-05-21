@@ -90,7 +90,13 @@ following tables, and the bilabial fricative `/ɸ/` by "wh" in Maori.
 | ---------- | -------- | ----------- | ---------- | ---------- | --------- |
 | me         | au       | au          | au         | au         | a'u       |
 | you        | koe      | koe         | 'oe        | 'oe        | 'oe       |
-| they       | koia   ? | ia          | 'oia       | 'o ia      | ia        |
+| they       | ia       | ia          | 'oia       | 'o ia      | ia        |
+| all        | tou      | -tou        | -tou       | -kou       | -tou      |
+
+Plural pronouns are formed by adding "-all" to the singular form.
+
+- we: me-all (exclusive)
+- we+: you-me-all (inclusive)
 
 ### Verbs
 
@@ -101,21 +107,25 @@ following tables, and the bilabial fricative `/ɸ/` by "wh" in Maori.
 | use        |          | whakamahi   | fa'a'ohipa | ho'ohana   |           |
 | try        |          | whakamatau  | fa'aau     |            |           |
 | sit        | noho     | noho        | noho       | noho       | nofo      |
+| stand      | tu       | tu          | tu         | ku         | tu        |
 | eat        | kai      | kai         | 'ai/'amu   | 'ai        | 'ai       |
+| work       | mahi     | mahi        | 'ohipa     | hana       | galue     |
 | turn       | huli     | huri        | huri       | huli       | liliu     |
 | move       | neke   ? | neke        | ne'e       | ne'e       | lue       |
 | give       | foaki  ? | hoatu       | horo'a     | ha'awi     | foa'i     |
 | take       | lase   ? | tango       | rave       | lawe       | 'ave      |
 | know       | mohio  ? | mohio       | 'ite       | 'ike       | iloa      |
 | have       | fai      | whai        |            |            | fai       |
-| want       |          | hiahia      | hina'aro   | makemake   | mana'o    |
 | like       | fia    ? | pai         | au         | makemake   | fiafia    |
+| want       | hia    ? | hiahia      | hina'aro   | makemake   | mana'o    |
 | feel       | kite     | kite        | 'ite       | 'ike       |           |
 | talk       | lelo   ? | korero      | parau      | 'olelo     | tala      |
 | sleep      | moe      | moe         | moe        | moe        | moe       |
 | die        | mate     | mate        | mate       | make       | mate      |
 | search     | kimi     | kimi        | 'imi       | 'imi       |           |
 | wait       | tali     | taritari    | tatari     | kali       | tali      |
+| stay       | mau      | mau         | mau        | mau        | mau       |
+| become     | lilo     | riro        | riro       | lilo       | liu       |
 | trade      | hoko     | hoko        | ho'o       | kalepa     |           |
 | cut        | koti     | koti        | 'oti       | 'oki       | 'oti      |
 | break      | fati     | whati       | fati       | wahi       |           |
@@ -170,11 +180,12 @@ negative connotations in their respective languages.
 
 | English    | Faeke    | Maori    | Tahitian   | Hawaiian   | Samoan    |
 | ---------- | -------- | -------- | ---------- | ---------- | --------- |
+| on         | i        | i        | i          | i          | i         |
 | by         | a        | a        | a          | a          | a         |
 | of         | o        | o        | o          | o          | o         |
-| on         | i        | i        | i          | i          | i         |
-| with       | me     ? | me       | ma         | me         | ma        |
+| from       | no       | no       | no         | no         | no        |
 | for        | mo       | mo       | no         | no         | mo        |
+| with       | me     ? | me       | ma         | me         | ma        |
 | the        | te     ? | te       |            |            |           |
 
 Faeke has two types of possessions, alienable "a" and inalienable "o", they
@@ -186,24 +197,24 @@ Chosing one possession form over the other add meaning to a sentence, for
 example "house of me" would be "the house where I live" while "house by me"
 would be "the house that I built".
 
-### Logical Operators
+### Conjunction
 
 | English    | Faeke    | Maori    | Tahitian   | Hawaiian   | Samoan    |
 | ---------- | -------- | -------- | ---------- | ---------- | --------- |
 | not        | kole     | kore     | 'ore       | 'ole       | leai      |
 | and        | ma       | ma       | ma         | a          | ma        |
-| xor        |          |          |            |            |           |
-| or         |          |          |            |            | po        |
+| or         | po       |          |            |            | po        |
+| if         | ina      | ina      |            |            |           |
+| only       | anake    | anake    | ana'e      | 'anake     | na'o      |
 
 ### Quantifiers
 
 | English    | Faeke    | Maori    | Tahitian   | Hawaiian   | Samoan    |
 | ---------- | -------- | -------- | ---------- | ---------- | --------- |
-| all        | atoa   ? | katoa    | ato'a      | apau       | atoa      |
-| some       |          | wetahi   | fanu       | kekahi     |           |
+| every      | atoa   ? | katoa    | ato'a      | apau       | atoa      |
+| some       | ai       | wetahi   | fanu       | kekahi     |           |
 | any        |          |          |            |            |           |
 | none       |          |          |            |            |           |
-| every      |          |          |            |            |           |
 | each       |          | ia       |            |            | ta'itasi  |
 
 ### Numbers
@@ -215,7 +226,7 @@ already loaned from English or French in post-contact Polynesia.
 | ------- | ----- | -------- | ----------- | -------- | ------------- | ------ |
 | number  | tau   | nama/tau | numera/ta'u | helu     | numera/faitau |        |
 | zero    | xu  ? | kore     | ero         | 'ole     | sero          | no     |
-| one     | ta  ? | tahi     | tahi        | kahi     | tasi          | pa     |
+| one     | ta    | tahi     | tahi        | kahi     | tasi          | pa     |
 | two     | le  ? | rua      | piti        | lua      | lua           | re     |
 | three   | ti  ? | toru     | toru        | kolu     | tolu          | ci     |
 | four    | ko  ? | wha      | maha        | ha       | fa            | vo     |
@@ -273,6 +284,9 @@ respectively.
 | English    | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan    |
 | ---------- | -------- | --------- | ---------- | ---------- | --------- |
 | name       | ixoa     | ingoa     | i'oa       | inoa       | igoa      |
+| voice      | leo      | reo       | reo        | leo        | leo       |
+| sound      | taxi     | tangi     | ta'i       | kani       | tagi      |
+| correct    | pono     | pono      | pono       | pono       |           |
 | sacred     | tapu     | tapu      | tapu       | kapu       | sa        |
 | free       | noa      | noa       | noa        | noa        | noa       |
 | power      | mana     | mana      | mana       | mana       | mana      |
@@ -295,6 +309,11 @@ respectively.
 | way        | ala      | ara       | ara        | ala        | ala       |
 | inside     | loto     | roto      | roto       | loko       | totonu    |
 | outside    | saho     | waho      | vaho       | waho       | fafo      |
+| toward     | mai      | mai       | mai        | mai        | mai       |
+| begin      |          | amata     | timata     | ha'amata   | amata     |
+| end        | pau      | pau       | pau        | pau        | pau       |
+| same       | lite     | rite      | rite       | like       | tutusa    |
+| other      | kehe     | ke        | 'e         | 'e         | ese       |
 | birth      | fanau    | whanau    | fanau      | hanau      | fanau     |
 | land       | fenua    | whenua    | fenua      | honua      | fanua     |
 | air        | ea       | hau       | mata'i     | ea         | ea        |
@@ -326,6 +345,7 @@ respectively.
 | seaweed    |          | rimu      |            |            |           |
 | yam        |          | uhi       |            |            |           |
 | taro       |          | taro      | taro       | talo       | talo      |
+| body       | tino     | tinana    | tino       | kino       | tino      |
 | eye        | mata   ? | karu      | mata       | maka       | mata      |
 | ear        | talixa   | taringa   | tari'a     | pepeiao    | taliga    |
 | nose       | ihu      | ihu       | ihu        | ihu        | isu       |
@@ -334,9 +354,11 @@ respectively.
 | meat       | kiko     | kiko      | 'i'o       | 'i'o       | 'i'o      |
 | bone       | isi      | iwi       | ivi        | iwi        | ivi       |
 | fat        | hinu     | hinu      | hinu       |            |           |
-| skin       | kili     | kiri      | 'iri       | 'ili       | pa'u      |
-| hair       | hulu     | huru      | huruhuru   | hulu       | ulu       |
 | brain      | lolo     | roro      | roro       | lolo       |           |
+| head       | poko     | upoko     | upo'o      | po'o       |           |
+| hair       | hulu     | huru      | huruhuru   | hulu       | ulu       |
+| skin       | kili     | kiri      | 'iri       | 'ili       | pa'u      |
+| cloth      | kahu     | kahu      | ahu        | 'ahu       | ofu       |
 | attention  | alo      | aro       | aro        | alo        |           |
 | before     | mua      | mua       | mua        | mua        | mua       |
 | after      | muli     | muri      | muri       | muli       | muli      |
@@ -349,6 +371,7 @@ respectively.
 | island     | motu     | motu      | motu       | moku       | motu      |
 | child      | tama     | tama      | tama       | kama       | tama      |
 | parent     | matua    | matua     | metua      | makua      | matua     |
+| friend     | hoa      | hoa       | hoa        | hoa        | uo        |
 | chief      | aliki    | ariki     | ari'i      | ali'i      | ali'i     |
 | fish       | ika      | ika       | i'a        | i'a        | i'a       |
 | bird       | manu     | manu      | manu       | manu       | manu      |
@@ -363,8 +386,6 @@ respectively.
 | happy      | koa      | koakoa    | 'oa'oa     | 'oli       | 'oli'oli  |
 | sick       | maki     | maki      | ma'i       | ma'i       | ma'i      |
 | bed        | moexa    | moenga    | moea       | moena      | moega     |
-| friend     | hoa      | hoa       | hoa        | hoa        | uo        |
-| toward     | mai      | mai       | mai        | mai        | mai       |
 
 The word for "person" is genderless in Faeke even if it means "man" or "male"
 in Polynesian. The default gender is neutral.
@@ -402,6 +423,11 @@ The word for "this" could also be used for "here".
 - who: what-person
 - why: what-reason
 - how: what-way
+- sometime: some-period
+- somewhere: some-place
+- someone: some-person
+- something: some-thing
+
 - aircraft: air-boat
 - spacecraft: sky-boat
 - saltwater: coast-water
@@ -428,11 +454,15 @@ The word for "this" could also be used for "here".
 - year: world-period
 - computer: lightning-brain
 - come: go-toward
+- tool: work-thing
+- because: from-the-thing
 
 ### Synonyms
 
 - hello: alive
 - food: eat
+- language: voice
+- tribe: bone
 - num: number
 - 0: zero
 - 1: one

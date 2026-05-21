@@ -3,12 +3,17 @@
 # Pronouns
 "me": "au"
 "you": "koe"
-"they": "koia" # ?
+"they": "ia"
+"all": "tou"
+"we": "<me-all>"
+"we+": "<you-me-all>"
 
 # Verbs
 "go": "haele"
 "sit": "noho"
+"stand": "tu"
 "eat": "kai"
+"work": "mahi"
 "turn": "huli"
 "move": "neke" # ?
 "give": "foaki" # ?
@@ -16,12 +21,15 @@
 "know": "mohio" # ?
 "have": "fai"
 "like": "fia" # ?
+"want": "hia" # ?
 "feel": "kite"
 "talk": "lelo" # ?
 "sleep": "moe"
 "die": "mate"
 "search": "kimi"
 "wait": "tali"
+"stay": "mau"
+"become": "lilo"
 "trade": "hoko"
 "cut": "koti"
 "break": "fati"
@@ -52,24 +60,29 @@
 "must": "e"
 
 # Particles
+"on": "i"
 "by": "a"
 "of": "o"
-"on": "i"
-"with": "me" # ?
+"from": "no"
 "for": "mo"
+"with": "me" # ?
 "the": "te" # ?
 
-# Logical
+# Conjunction
 "not": "kole"
 "and": "ma"
+"or": "po"
+"if": "ina"
+"only": "anake"
 
 # Quantifiers
-"all": "atoa" # ?
+"every": "atoa" # ?
+"some": "ai"
 
 # Numbers
 "number": "tau"
 "zero": "xu" # ?
-"one": "ta" # ?
+"one": "ta"
 "two": "le" # ?
 "three": "ti" # ?
 "four": "ko" # ?
@@ -92,6 +105,9 @@
 
 # WIP
 "name": "ixoa"
+"voice": "leo"
+"sound": "taxi"
+"correct": "pono"
 "sacred": "tapu"
 "free": "noa"
 "power": "mana"
@@ -112,6 +128,10 @@
 "way": "ala"
 "inside": "loto"
 "outside": "saho"
+"toward": "mai"
+"end": "pau"
+"same": "lite"
+"other": "kehe"
 "birth": "fanau"
 "land": "fenua"
 "air": "ea"
@@ -137,6 +157,7 @@
 "fruit": "hua"
 "seed": "kano"
 "bread": "palaoa"
+"body": "tino"
 "eye": "mata" # ?
 "ear": "talixa"
 "nose": "ihu"
@@ -145,9 +166,11 @@
 "meat": "kiko"
 "bone": "isi"
 "fat": "hinu"
-"skin": "kili"
-"hair": "hulu"
 "brain": "lolo"
+"head": "poko"
+"hair": "hulu"
+"skin": "kili"
+"cloth": "kahu"
 "attention": "alo"
 "before": "mua"
 "after": "muli"
@@ -160,6 +183,7 @@
 "island": "motu"
 "child": "tama"
 "parent": "matua"
+"friend": "hoa"
 "chief": "aliki"
 "fish": "ika"
 "bird": "manu"
@@ -174,8 +198,6 @@
 "happy": "koa"
 "sick": "maki"
 "bed": "moexa"
-"friend": "hoa"
-"toward": "mai"
 
 # Reduplication
 "dream": "<sleep-sleep>"
@@ -201,6 +223,10 @@
 "who": "<what-person>"
 "why": "<what-reason>"
 "how": "<what-way>"
+"sometime": "<some-period>"
+"somewhere": "<some-place>"
+"someone": "<some-person>"
+"something": "<some-thing>"
 "aircraft": "<air-boat>"
 "spacecraft": "<sky-boat>"
 "saltwater": "<coast-water>"
@@ -227,10 +253,14 @@
 "year": "<world-period>"
 "computer": "<lightning-brain>"
 "come": "<go-toward>"
+"tool": "<work-thing>"
+"because": "<from-the-thing>"
 
 # Synonyms
 "hello": "<alive>"
 "food": "<eat>"
+"language": "<voice>"
+"tribe": "<bone>"
 "num": "<number>"
 "0": "<zero>"
 "1": "<one>"
