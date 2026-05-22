@@ -62,8 +62,11 @@ output = ARGV.shift || "faeke"
 dictionary = YAML.load(File.read("faeke.yml"))
 syllabary = YAML.load(File.read("#{output}.yml"))
 
-duplicates = dictionary.values.select { |v| dictionary.values.count(v) > 1 }.uniq
-raise "Duplicate definitions found: #{duplicates.join(', ')}" if duplicates.any?
+duplicates = dictionary.values.select { |w| dictionary.values.count(w) > 1 }.uniq
+raise "Duplicate words found: #{duplicates.join(', ')}" if duplicates.any?
+
+invalids = dictionary.values.reject { |w| w[0] == "<" || w.delete("mnptkfsxhlaeiou").empty? }
+raise "Invalid words found: #{invalids.join(', ')}" if invalids.any?
 
 File.open("english.yml", "w") do |f|
   dictionary.each do |english, faeke|

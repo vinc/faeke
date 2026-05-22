@@ -5,17 +5,15 @@ title: Faeke
 # Faeke
 
 Faeke is a constructed language inspired by [Lojban][2], [Toki Pona][3],
-English and Polynesian languages ([Proto][4]-[Polynesian][5], [Samoan][6],
-[Hawaiian][7], [Tahitian][8], and [Maori][9]).
+English, Breton, and Polynesian languages ([Samoan][4], [Hawaiian][5],
+[Tahitian][6], and [Maori][7]).
 
 [2]: https://la-lojban.github.io/sutysisku/lojban/
 [3]: https://lipu-sona.pona.la/en/dictionary/
-[4]: https://ids.clld.org/contributions/234
-[5]: https://pollex.eva.mpg.de/level/PN/
-[6]: https://www2.hawaii.edu/~leighj/SAMOAN/dictionary/
-[7]: https://wehewehe.org/gsdl2.85/cgi-bin/hdict?l=en
-[8]: https://www.farevanaa.pf/fra/dictionnaire
-[9]: https://maoridictionary.co.nz/
+[4]: https://www2.hawaii.edu/~leighj/SAMOAN/dictionary/
+[5]: https://wehewehe.org/gsdl2.85/cgi-bin/hdict?l=en
+[6]: https://www.farevanaa.pf/fra/dictionnaire
+[7]: https://maoridictionary.co.nz/
 
 It is an experimental creole designed for worldbuilding and storytelling around
 a solarpunk future where humanity lives across the solar system in deliberate
@@ -52,7 +50,7 @@ Stress typically falls on the penultimate syllable.
 | Fricative   |   f    |    s     |   x   |    h    |
 | Approximant |        |    l     |       |         |
 
-Compared to [Proto-Polynesian][2], the velar nasal `/ŋ/` that became a glottal
+Compared to Proto-Polynesian, the velar nasal `/ŋ/` that became a glottal
 stop `/ʔ/` in Tahitian is a velar fricative `/x/` in Faeke, and the labial
 approximant `/w/` that became a labiodental fricative `/v/` in Samoan and
 Tahitian is an alveolar fricative `/s/` in Faeke.
@@ -65,14 +63,17 @@ Tahitian is an alveolar fricative `/s/` in Faeke.
 | Maori            | p |  t  | k | Ø | m | n | ŋ |  w  |  ɸ/h  | h | Ø | r | r |
 | Faeke            | p |  t  | k | Ø | m | n | x |  s  |  f/h  | h | Ø | l | l |
 
+The letter "x" is pronounced like "x" in Lojban, "ch" of "loch" in English, or
+"c'h" in Breton.
+
 ## Morphology
 
-In this language, words are formed by compounding root words.
+In this language, words are formed by compounding root words like in Toki Pona.
 
 ## Syntax
 
-Polynesian languages have a VSO (verb-subject-object) word order but the
-influence of English resulted in the more common SVO (subject-verb-object)
+Polynesian languages (like Breton) have a VSO (verb-subject-object) word order
+but the English influence resulted in the more common SVO (subject-verb-object)
 with modifiers-noun and modifier-verb order for noun-phrases and verb-phrases
 to simplify learning and automatic machine translation.
 
