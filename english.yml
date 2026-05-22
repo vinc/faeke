@@ -127,6 +127,7 @@ mataxi: wind
 lama: light
 uila: lightning
 lepo: swamp
+kele: soil
 one: sand
 mauxa: mountain
 sao: wilderness
@@ -139,7 +140,7 @@ lau: leaf
 tiale: flower
 hua: fruit
 kano: seed
-palaoa: bread
+falaoa: bread
 tino: body
 sae: foot
 mata: eye
@@ -179,3 +180,4 @@ kasa: bitter
 koa: happy
 maki: sick
 moexa: bed
+pala: trash

@@ -336,6 +336,7 @@ respectively.
 | lightning  | uila     | uira      | uira       | uila       | uila      |
 | stone      |          | pohatu    | 'ofa'i     | pohaku     | ma'a      |
 | swamp      | lepo   ? | repo      |            | lepo       |           |
+| soil       | kele     | kere      | repo       |            | 'ele'ele  |
 | sand       | one      | one       | one'one    | one        | oneone    |
 | animal     |          | kararehe  |            |            |           |
 | mountain   | mauxa    | maunga    | mou'a      | mauna      | mauga     |
@@ -349,7 +350,7 @@ respectively.
 | flower     | tiale    | tiare     | tiare      | kiele      | tiale     |
 | fruit      | hua      | hua       | hotu       | hua        | fua       |
 | seed       | kano     | kano      | 'ano'ano   | 'ano'ano   | fatu      |
-| bread      | palaoa   | paraoa    | faraoa     | palaoa     | falaoa    |
+| bread      | falaoa   | paraoa    | faraoa     | palaoa     | falaoa    |
 | mushroom   |          | harore    |            |            |           |
 | seaweed    |          | rimu      |            |            |           |
 | yam        |          | uhi       |            |            |           |
@@ -393,6 +394,7 @@ respectively.
 | happy      | koa      | koakoa    | 'oa'oa     | 'oli       | 'oli'oli  |
 | sick       | maki     | maki      | ma'i       | ma'i       | ma'i      |
 | bed        | moexa    | moenga    | moea       | moena      | moega     |
+| trash      | pala     | para      |            | 'opala     |           |
 
 The word for "person" is genderless in Faeke even if it means "man" or "male"
 in Polynesian. The default gender is neutral.
@@ -439,11 +441,6 @@ it can be used in the compounds "sun-light", "fire-light", and
 - someone: some-person
 - something: some-thing
 
-- aircraft: air-boat
-- spacecraft: sky-boat
-- saltwater: coast-water
-- learn: take-know
-- teach: give-know
 - see: eye-feel
 - hear: ear-feel
 - smell: nose-feel
@@ -460,13 +457,24 @@ it can be used in the compounds "sun-light", "fire-light", and
 - shrink: cause-small
 - expand: cause-big
 - improve: cause-good
-- day: sun-period (Maori and Hawaiian uses "ra" and "la" for "day" whereas Samoan and Tahitian uses "ao")
+- learn: take-know
+- teach: give-know
+
+- daylight: light-period
+- night: dark-period
+- day: sun-period
 - month: moon-period
 - year: world-period
+
+- aircraft: air-boat
+- spacecraft: sky-boat
 - computer: lightning-brain
 - come: go-toward
 - tool: work-thing
 - because: from-the-thing
+- pure: not-trash
+- saltwater: coast-water
+- fox: fire-dog
 
 ### Synonyms
 
