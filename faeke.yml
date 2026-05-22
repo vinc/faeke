@@ -33,6 +33,7 @@
 "stay": "mau"
 "become": "lilo"
 "trade": "hoko"
+"join": "hono"
 "cut": "koti"
 "break": "fati"
 "ingest": "holo"
@@ -267,6 +268,7 @@
 "pure": "<not-trash>"
 "saltwater": "<coast-water>"
 "fox": "<fire-dog>"
+"together": "<with-all>"
 
 # Synonyms
 "hello": "<alive>"

@@ -129,6 +129,7 @@ Plural pronouns are formed by adding "-all" to the singular form.
 | stay       | mau      | mau         | mau        | mau        | mau       |
 | become     | lilo     | riro        | riro       | lilo       | liu       |
 | trade      | hoko     | hoko        | ho'o       | kalepa     |           |
+| join       | hono     | hono        | hono       | hono       |           |
 | cut        | koti     | koti        | 'oti       | 'oki       | 'oti      |
 | break      | fati     | whati       | fati       | wahi       |           |
 | ingest     | holo     | horo        | horo       | ale        | folo      |
@@ -382,6 +383,7 @@ respectively.
 | island     | motu     | motu      | motu       | moku       | motu      |
 | child      | tama     | tama      | tama       | kama       | tama      |
 | parent     | matua    | matua     | metua      | makua      | matua     |
+| sibling    |          | teina     | teina      | kaina      |           |
 | friend     | hoa      | hoa       | hoa        | hoa        | uo        |
 | chief      | aliki    | ariki     | ari'i      | ali'i      | ali'i     |
 | fish       | ika      | ika       | i'a        | i'a        | i'a       |
@@ -397,7 +399,8 @@ respectively.
 | trash      | pala     | para      |            | 'opala     |           |
 
 The word for "person" is genderless in Faeke even if it means "man" or "male"
-in Polynesian. The default gender is neutral.
+in Polynesian. The default gender is neutral. Likewise the word for "sibling"
+mean all siblings and not just younger siblings of the same gender.
 
 The word for "bird" can mean any winged creature and the one for "dog" can mean
 any quadruped.
@@ -475,6 +478,7 @@ it can be used in the compounds "sun-light", "fire-light", and
 - pure: not-trash
 - saltwater: coast-water
 - fox: fire-dog
+- together: with-all
 
 ### Synonyms
 
