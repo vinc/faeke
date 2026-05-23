@@ -242,14 +242,14 @@ already loaned from English or French in post-contact Polynesia.
 | nine    | so  ? | iwa      | iva         | iwa      | iva           | so     |
 | point   | hi  ? | ira      |             | kiko     | i'a           | pi     |
 
-Numbers are prefixed with "tau", for example 42 is "tau-fole" and 1337 is
-"tau-tatitike".
+Numbers are prefixed with "tau", for example 42 is "tau-kole" and 1337 is
+"tau-tatitipe".
 
 Cardinal numbers are converted to ordinal numbers by adding "te" (the) in front
 of them.
 
 Fractional numbers use "i" (on) between the numerator and the denominator as in
-"tau-ta i tau-fo" (one on four).
+"tau-ta i tau-ko" (one on four).
 
 ### Colors
 
