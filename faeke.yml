@@ -13,6 +13,7 @@
 "sit": "noho"
 "stand": "tu"
 "eat": "kai"
+"cook": "tao"
 "work": "mahi"
 "turn": "huli"
 "move": "neke" # ?
@@ -39,6 +40,7 @@
 "ingest": "holo"
 "drift": "pae"
 "scrape": "salu"
+"code": "tohu"
 
 # Modifiers
 "cause": "faka"
@@ -54,7 +56,7 @@
 "wet": "maku"
 "fast": "sase"
 
-# Tense-Aspect-Mood
+# Tense
 "ed": "ni"
 "ing": "ne"
 "will": "ka"
@@ -70,6 +72,7 @@
 "for": "mo"
 "with": "me" # ?
 "the": "te" # ?
+"as": "pei" # ?
 
 # Conjunction
 "not": "kole"
@@ -102,9 +105,15 @@
 "red": "kula"
 "dark": "uli"
 
-# Directions
-"up": "luxa" # ?
-"down": "lalo"
+# Position
+"near": "tata"
+"far": "mamao"
+"above": "luxa" # ?
+"below": "lalo"
+"up": "ake"
+"down": "iho"
+"toward": "mai"
+"away": "atu"
 
 # WIP
 "name": "ixoa"
@@ -131,7 +140,6 @@
 "way": "ala"
 "inside": "loto"
 "outside": "saho"
-"toward": "mai"
 "end": "pau"
 "same": "lite"
 "other": "kehe"
@@ -158,6 +166,7 @@
 "mountain": "mauxa"
 "wilderness": "sao"
 "plant": "tupu" # ?
+"grass": "matie" # ?
 "tree": "lakau"
 "root": "aka"
 "trunk": "tumu" # ?
@@ -194,6 +203,7 @@
 "island": "motu"
 "child": "tama"
 "parent": "matua"
+"sibling": "teina"
 "friend": "hoa"
 "chief": "aliki"
 "fish": "ika"
@@ -241,7 +251,7 @@
 "smell": "<nose-feel>"
 "taste": "<mouth-feel>"
 "touch": "<skin-feel>"
-"balance": "<in-ear-feel>"
+"balance": "<inside-ear-feel>"
 "awareness": "<brain-feel>"
 "consciousness": "<inside-feel>"
 "mindfulness": "<long-attention>"
@@ -261,20 +271,28 @@
 "year": "<world-period>"
 "aircraft": "<air-boat>"
 "spacecraft": "<sky-boat>"
-"computer": "<lightning-brain>"
 "come": "<go-toward>"
 "tool": "<work-thing>"
 "because": "<from-the-thing>"
 "pure": "<not-trash>"
+"forest": "<tree-wilderness>"
+"meadow": "<grass-wilderness>"
 "saltwater": "<coast-water>"
 "fox": "<fire-dog>"
 "together": "<with-all>"
+"harmony": "<one-together>"
+"soon": "<near-now>"
+"computer": "<lightning-brain>"
+"program": "<computer-code>"
+"recipe": "<cook-code>"
 
 # Synonyms
 "hello": "<alive>"
 "food": "<eat>"
 "language": "<voice>"
 "tribe": "<bone>"
+"exist": "<stand>"
+"walk": "<move>"
 "num": "<number>"
 "0": "<zero>"
 "1": "<one>"

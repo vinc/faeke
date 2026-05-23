@@ -1,12 +1,18 @@
 require "yaml"
 
 def red(str)
-  "\e[1;31m#{str}\e[0m"
+  if $stdin.tty?
+    "\e[1;31m#{str}\e[0m"
+  else
+    str
+  end
 end
 
 def lookup(dictionary, compound)
   if compound["-"]
     compound.split("-").map { |word| lookup(dictionary, word) }
+  elsif compound.count("^a-zA-Z0-9") == compound.length
+    [compound]
   else
     word = dictionary[compound]
     if word.nil?
@@ -89,7 +95,12 @@ ARGF.each_line do |line|
         end
       end
     end
-    print output == "faeke" ? " " : syllabary["space"]
+
+    if output == "faeke"
+      print " "
+    elsif compound.count("^a-zA-Z0-9") != compound.length
+      print syllabary["space"]
+    end
   end
   print "\n"
 end

@@ -6,6 +6,7 @@ haele: go
 noho: sit
 tu: stand
 kai: eat
+tao: cook
 mahi: work
 huli: turn
 neke: move
@@ -32,6 +33,7 @@ fati: break
 holo: ingest
 pae: drift
 salu: scrape
+tohu: code
 faka: cause
 iti: small
 poto: short
@@ -57,6 +59,7 @@ no: from
 mo: for
 me: with
 te: the
+pei: as
 kole: not
 ma: and
 po: or
@@ -80,8 +83,14 @@ tae: color
 tea: clear
 kula: red
 uli: dark
-luxa: up
-lalo: down
+tata: near
+mamao: far
+luxa: above
+lalo: below
+ake: up
+iho: down
+mai: toward
+atu: away
 ixoa: name
 leo: voice
 taxi: sound
@@ -106,7 +115,6 @@ take: reason
 ala: way
 loto: inside
 saho: outside
-mai: toward
 pau: end
 lite: same
 kehe: other
@@ -133,6 +141,7 @@ one: sand
 mauxa: mountain
 sao: wilderness
 tupu: plant
+matie: grass
 lakau: tree
 aka: root
 tumu: trunk
@@ -169,6 +178,7 @@ xalu: wave
 motu: island
 tama: child
 matua: parent
+teina: sibling
 hoa: friend
 aliki: chief
 ika: fish

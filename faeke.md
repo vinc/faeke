@@ -27,6 +27,17 @@ imagining how future spacefaring cultures might evolve practical shared
 languages shaped by migration, multicultural contact, ecological limits, and
 ubiquitous technology. Not to be taken too seriously.
 
+> au fia fakaalone ( ma
+> te aketatakesa te akepai ! )
+> o ta lototalixakitene matiesao
+> fasahi tou kuli ma uilalolo
+> mau ola metou me
+> uilalolotohune tametou
+> pei kolepala sai
+> kilikitene tea laxi .
+
+From "All Watched Over by Machines of Loving Grace" by Richard Brautigan (1967)
+
 ## Phonology
 
 The syllable structure is (C)V(V(V)).
@@ -72,7 +83,7 @@ In this language, words are formed by compounding root words like in Toki Pona.
 
 ## Syntax
 
-Polynesian languages (like Breton) have a VSO (verb-subject-object) word order
+Polynesian languages (and Breton) have a VSO (verb-subject-object) word order
 but the English influence resulted in the more common SVO (subject-verb-object)
 with modifiers-noun and modifier-verb order for noun-phrases and verb-phrases
 to simplify learning and automatic machine translation.
@@ -110,6 +121,7 @@ Plural pronouns are formed by adding "-all" to the singular form.
 | sit        | noho     | noho        | noho       | noho       | nofo      |
 | stand      | tu       | tu          | tu         | ku         | tu        |
 | eat        | kai      | kai         | 'ai/'amu   | 'ai        | 'ai       |
+| cook       | tao      | tao         | tao        | kalua      | tao       |
 | work       | mahi     | mahi        | 'ohipa     | hana       | galue     |
 | turn       | huli     | huri        | huri       | huli       | liliu     |
 | move       | neke   ? | neke        | ne'e       | ne'e       | lue       |
@@ -136,6 +148,7 @@ Plural pronouns are formed by adding "-all" to the singular form.
 | ingest     | holo     | horo        | horo       | ale        | folo      |
 | drift      | pae      | pae         | pae        | pae        |           |
 | scrape     | salu     | waru        | varu       | walu       | valu      |
+| code       | tohu     |             |            |            |           |
 
 ### Modifiers
 
@@ -161,7 +174,7 @@ when associated with "person" but not in Faeke.
 
 The new moon is "new-moon" but the full moon is "fruit-moon".
 
-### Tense-Aspect-Mood
+### Tense Aspect Mood
 
 | English     | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan   |
 | ----------- | -------- | --------- | ---------- | ---------- | -------- |
@@ -192,13 +205,14 @@ The new moon is "new-moon" but the full moon is "fruit-moon".
 | for        | mo       | mo       | no         | no         | mo        |
 | with       | me     ? | me       | ma         | me         | ma        |
 | the        | te     ? | te       |            |            |           |
+| as         | pei    ? |          |            |            | pei       |
 
 Faeke has two types of possessions, alienable "a" and inalienable "o", they
 are roughly mapped to "by" and "of" in English. For example "parent of you"
 is "matua o koe" which is inalienable because you didn't chose them, but
 "boat by you" is "saka a koe" because you chose or built it.
 
-Chosing one possession form over the other add meaning to a sentence, for
+Chosing one possession form over the other adds meaning to a sentence, for
 example "house of me" would be "the house where I live" while "house by me"
 would be "the house that I built".
 
@@ -273,16 +287,22 @@ The other colors can be obtained by compounding like sun-color, leaf-color,
 sky-color, clear-red, and red-yellow for yellow, green, blue, pink, and orange
 respectively.
 
-### Directions
+### Position Direction
 
 | English    | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan    |
 | ---------- | -------- | --------- | ---------- | ---------- | --------- |
+| near       | tata     | tata      | fatata     | kokoke     | latalata  |
+| far        | mamao    | mamao     | mamao      | mamao      | mamao     |
+| above      | luxa   ? | runga     | ni'a       | luna       | luga      |
+| below      | lalo     | raro      | raro       | lalo       | lalo      |
+| up         | ake      | a'e       | a'e        | a'e        | a'e       |
+| down       | iho      | iho       | iho        | iho        | ifo       |
+| toward     | mai      | mai       | mai        | mai        | mai       |
+| away       | atu      | atu       | atu        | aku        | atu       |
 | north      |          | raki      | apato'erau | 'akau      | matu      |
 | east       |          | rawhiti   |            | hikina     | sasa'e    |
 | south      |          | tonga     | apato'a    | hema       | saute     |
 | west       |          | uru       |            | komohana   | sisifo    |
-| up         | luxa   ? | runga     | ni'a       | luna       | luga      |
-| down       | lalo     | raro      | raro       | lalo       | lalo      |
 
 ### WIP
 
@@ -314,7 +334,6 @@ respectively.
 | way        | ala      | ara       | ara        | ala        | ala       |
 | inside     | loto     | roto      | roto       | loko       | totonu    |
 | outside    | saho     | waho      | vaho       | waho       | fafo      |
-| toward     | mai      | mai       | mai        | mai        | mai       |
 | begin      |          | amata     | timata     | ha'amata   | amata     |
 | end        | pau      | pau       | pau        | pau        | pau       |
 | same       | lite     | rite      | rite       | like       | tutusa    |
@@ -344,6 +363,7 @@ respectively.
 | mountain   | mauxa    | maunga    | mou'a      | mauna      | mauga     |
 | wilderness | sao      | wao       | vao        | wao        | vao       |
 | plant      | tupu   ? | tupu      | tupu       | la'au      | la'au     |
+| grass      | matie  ? | patiti    | matie      | ma'au      | mutia     |
 | tree       | lakau    | rakau     | ra'au      | la'au      | la'au     |
 | root       | aka      | aka       | a'a        | a'a        | a'a       |
 | trunk      | tumu   ? | tiwai     | tumu       | kumu       |           |
@@ -384,7 +404,7 @@ respectively.
 | island     | motu     | motu      | motu       | moku       | motu      |
 | child      | tama     | tama      | tama       | kama       | tama      |
 | parent     | matua    | matua     | metua      | makua      | matua     |
-| sibling    |          | teina     | teina      | kaina      |           |
+| sibling    | teina    | teina     | teina      | kaina      |           |
 | friend     | hoa      | hoa       | hoa        | hoa        | uo        |
 | chief      | aliki    | ariki     | ari'i      | ali'i      | ali'i     |
 | fish       | ika      | ika       | i'a        | i'a        | i'a       |
@@ -450,7 +470,7 @@ it can be used in the compounds "sun-light", "fire-light", and
 - smell: nose-feel
 - taste: mouth-feel
 - touch: skin-feel
-- balance: in-ear-feel
+- balance: inside-ear-feel
 - awareness: brain-feel
 - consciousness: inside-feel
 - mindfulness: long-attention
@@ -472,14 +492,20 @@ it can be used in the compounds "sun-light", "fire-light", and
 
 - aircraft: air-boat
 - spacecraft: sky-boat
-- computer: lightning-brain
 - come: go-toward
 - tool: work-thing
 - because: from-the-thing
 - pure: not-trash
+- forest: tree-wilderness
+- meadow: grass-wilderness
 - saltwater: coast-water
 - fox: fire-dog
 - together: with-all
+- harmony: one-together
+- soon: near-now
+- computer: lightning-brain
+- program: computer-code
+- recipe: cook-code
 
 ### Synonyms
 
@@ -487,6 +513,8 @@ it can be used in the compounds "sun-light", "fire-light", and
 - food: eat
 - language: voice
 - tribe: bone
+- exist: stand
+- walk: move
 - num: number
 - 0: zero
 - 1: one

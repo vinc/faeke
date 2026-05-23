@@ -29,24 +29,29 @@ ubiquitous technology. Not to be taken too seriously.
 This project include a script to translate it from English and optionally
 display it in Katakana, Hiragana, Hangul, Devanagari, or Elder Futhark.
 
-    > ruby faeke.rb <<< "you see this tree with the red fruit"
-    koe matakite ke lakau me te kula hua
+    > ruby faeke.rb <<< "the dark fox fly above the calm dog"
+    te uli ahikuli lele luxa te malie kuli
 
-    > ruby faeke.rb katakana <<< "you see this tree with the red fruit"
-    コエ マタキテ ケ ラカウ メ テ クラ フア
+    > ruby faeke.rb katakana <<< "the dark fox fly above the calm dog"
+    テ ウリ アヒクリ レレ ルガ テ マリエ クリ
 
     > ruby faeke.rb < example.txt
-    koe matakite ki lakau me nuitau kula hua
-    au fia sahakite kula hua
-    au tahitotane ma koe koletahitotane
-    koe haele luxa ki lakau ma koe lase taule kula hua
-    koe kai tauta kula hua ma koe foaki au tauta kula hua
-    koe pai
+    au fia fakaalone ( ma
+    te aketatakesa te akepai ! )
+    o ta lototalixakitene matiesao
+    fasahi tou kuli ma uilalolo
+    mau ola metou me
+    uilalolotohune tametou
+    pei kolepala sai
+    kilikitene tea laxi .
 
+    ~/src/vinc/faeke main*
     > ruby faeke.rb katakana < example.txt
-    コエ マタキテ キ ラカウ メ ヌイタウ クラ フア
-    アウ ジア サハキテ クラ フア
-    アウ タヒトタネ マ コエ コレタヒトタネ
-    コエ ハエレ ルガ キ ラカウ マ コエ ラセ タウレ クラ フア
-    コエ カイ タウタ クラ フア マ コエ ゾアキ アウ タウタ クラ フア
-    コエ ダイ
+    アウ ジア ザカアロネ マ
+    テ アケタタケサ テ アケダイ
+    オ タ ロトタリガキテネ マチエサオ
+    ザサヒ トウ クリ マ ウイラロロ
+    マウ オラ メトウ メ
+    ウイラロロトフネ タメトウ
+    デイ コレダラ サイ
+    キリキテネ テア ラギ
