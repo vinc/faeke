@@ -30,22 +30,21 @@ This project include a script to translate it from English and optionally
 display it in Katakana, Hiragana, Hangul, Devanagari, or Elder Futhark.
 
     > ruby faeke.rb <<< "the dark fox fly above the calm dog"
-    te uli ahikuli lele luxa te malie kuli
+    te uli ahi-kuli lele luxa te malie kuli
 
     > ruby faeke.rb katakana <<< "the dark fox fly above the calm dog"
     テ ウリ アヒクリ レレ ルガ テ マリエ クリ
 
     > ruby faeke.rb < example.txt
-    au fia fakaalone ( ma
-    te aketatakesa te akepai ! )
-    o ta lototalixakitene matiesao
-    fasahi tou kuli ma uilalolo
-    mau ola metou me
-    uilalolotohune tametou
-    pei kolepala sai
-    kilikitene tea laxi .
+    au fia faka-alo-ne ( ma
+    te ake-tata-ke-sa te ake-pai ! )
+    o ta loto-talixa-kite-ne matie-sao
+    fa-sahi tou kuli ma uila-lolo
+    mau ola me-tou me
+    uila-lolo-tohu-ne ta-me-tou
+    pei kole-pala sai
+    kili-kite-ne tea laxi .
 
-    ~/src/vinc/faeke main*
     > ruby faeke.rb katakana < example.txt
     アウ ジア ザカアロネ マ
     テ アケタタケサ テ アケダイ

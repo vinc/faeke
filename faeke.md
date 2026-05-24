@@ -27,14 +27,14 @@ imagining how future spacefaring cultures might evolve practical shared
 languages shaped by migration, multicultural contact, ecological limits, and
 ubiquitous technology. Not to be taken too seriously.
 
-> au fia fakaalone ( ma
-> te aketatakesa te akepai ! )
-> o ta lototalixakitene matiesao
-> fasahi tou kuli ma uilalolo
-> mau ola metou me
-> uilalolotohune tametou
-> pei kolepala sai
-> kilikitene tea laxi .
+    au fia faka-alo-ne ( ma
+    te ake-tata-ke-sa te ake-pai ! )
+    o ta loto-talixa-kite-ne matie-sao
+    fa-sahi tou kuli ma uila-lolo
+    mau ola me-tou me
+    uila-lolo-tohu-ne ta-me-tou
+    pei kole-pala sai
+    kili-kite-ne tea laxi .
 
 From "All Watched Over by Machines of Loving Grace" by Richard Brautigan (1967)
 
