@@ -10,13 +10,13 @@
 
 # Verbs
 "go": "haele"
-"sit": "noho"
+"move": "neke" # ?
 "stand": "tu"
+"sit": "noho"
 "eat": "kai"
 "cook": "tao"
 "work": "mahi"
 "turn": "huli"
-"move": "neke" # ?
 "give": "foaki" # ?
 "take": "lase" # ?
 "know": "mohio" # ?
@@ -178,7 +178,7 @@
 "bread": "falaoa"
 "body": "tino"
 "foot": "sae"
-"eye": "mata" # ?
+"eye": "mata"
 "ear": "talixa"
 "nose": "ihu"
 "mouth": "saha"

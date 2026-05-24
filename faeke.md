@@ -116,16 +116,13 @@ Plural pronouns are formed by adding "-all" to the singular form.
 | English    | Faeke    | Maori       | Tahitian   | Hawaiian   | Samoan    |
 | ---------- | -------- | ----------- | ---------- | ---------- | --------- |
 | go         | haele    | haere       | haere      | hele       | alu       |
-| do         |          | mahi        | fa'a/ha'a  | hana       | fai       |
-| use        |          | whakamahi   | fa'a'ohipa | ho'ohana   |           |
-| try        |          | whakamatau  | fa'aau     |            |           |
-| sit        | noho     | noho        | noho       | noho       | nofo      |
+| move       | neke   ? | neke        | ne'e       | ne'e       | lue       |
 | stand      | tu       | tu          | tu         | ku         | tu        |
+| sit        | noho     | noho        | noho       | noho       | nofo      |
 | eat        | kai      | kai         | 'ai/'amu   | 'ai        | 'ai       |
 | cook       | tao      | tao         | tao        | kalua      | tao       |
 | work       | mahi     | mahi        | 'ohipa     | hana       | galue     |
 | turn       | huli     | huri        | huri       | huli       | liliu     |
-| move       | neke   ? | neke        | ne'e       | ne'e       | lue       |
 | give       | foaki  ? | hoatu       | horo'a     | ha'awi     | foa'i     |
 | take       | lase   ? | tango       | rave       | lawe       | 'ave      |
 | know       | mohio  ? | mohio       | 'ite       | 'ike       | iloa      |
@@ -167,8 +164,6 @@ Plural pronouns are formed by adding "-all" to the singular form.
 | old        | tahito   | tahito      | tahito     | kahiko     | matua     |
 | wet        | maku     | maku        | ma'u       | ma'u       | susu      |
 | fast       | sase     | tere/wawe   | hiuao/vave | wiki/wawe  | tope/vave |
-| high       |          | teitei      | teitei     | ki'eki'e   | maualuga  |
-| heavy      |          | taumaha     | teimaha    | kaumaha    | mamafa    |
 
 The words for "old" have negative connotations in their respective languages
 when associated with "person" but not in Faeke.
@@ -233,9 +228,6 @@ would be "the house that I built".
 | ---------- | -------- | -------- | ---------- | ---------- | --------- |
 | every      | atoa   ? | katoa    | ato'a      | apau       | atoa      |
 | some       | ai       | wetahi   | fanu       | kekahi     |           |
-| any        |          |          |            |            |           |
-| none       |          |          |            |            |           |
-| each       |          | ia       |            |            | ta'itasi  |
 
 ### Numbers
 
@@ -300,10 +292,6 @@ respectively.
 | down       | iho      | iho       | iho        | iho        | ifo       |
 | toward     | mai      | mai       | mai        | mai        | mai       |
 | away       | atu      | atu       | atu        | aku        | atu       |
-| north      |          | raki      | apato'erau | 'akau      | matu      |
-| east       |          | rawhiti   |            | hikina     | sasa'e    |
-| south      |          | tonga     | apato'a    | hema       | saute     |
-| west       |          | uru       |            | komohana   | sisifo    |
 
 ### WIP
 
@@ -323,8 +311,6 @@ respectively.
 | this       | ke     ? | tenei     | teie       | keia/nei   | lenei     |
 | that       | ki     ? | tera      | tera       | kela       | lela      |
 | what       | fa       | aha       | aha        | aha        | a         |
-| who        |          | wai       | vai        | wai        | ai        |
-| where      |          | hea       | hea        | hea        | fea       |
 | period     | sa       | wa/tau    | va/tau     | wa         | va        |
 | breath     | ha       | ha        | ha         | ha         |           |
 | time       | tami   ? | taima/wa  | taime      | manawa     | taimi     |
@@ -360,7 +346,6 @@ respectively.
 | swamp      | lepo   ? | repo      |            | lepo       |           |
 | soil       | kele     | kere      | repo       |            | 'ele'ele  |
 | sand       | one      | one       | one'one    | one        | oneone    |
-| animal     |          | kararehe  |            |            |           |
 | mountain   | mauxa    | maunga    | mou'a      | mauna      | mauga     |
 | wilderness | sao      | wao       | vao        | wao        | vao       |
 | plant      | tupu   ? | tupu      | tupu       | la'au      | la'au     |
@@ -375,12 +360,11 @@ respectively.
 | seed       | kano     | kano      | 'ano'ano   | 'ano'ano   | fatu      |
 | bread      | falaoa   | paraoa    | faraoa     | palaoa     | falaoa    |
 | mushroom   |          | harore    |            |            |           |
-| seaweed    |          | rimu      |            |            |           |
 | yam        |          | uhi       |            |            |           |
 | taro       |          | taro      | taro       | talo       | talo      |
 | body       | tino     | tinana    | tino       | kino       | tino      |
 | foot       | sae      | wae       | 'avae      | wawae      | vae       |
-| eye        | mata   ? | karu      | mata       | maka       | mata      |
+| eye        | mata     | karu      | mata       | maka       | mata      |
 | ear        | talixa   | taringa   | tari'a     | pepeiao    | taliga    |
 | nose       | ihu      | ihu       | ihu        | ihu        | isu       |
 | mouth      | saha     | waha      | vaha       | waha       | gutu      |
