@@ -63,8 +63,9 @@ Stress typically falls on the penultimate syllable.
 
 Compared to Proto-Polynesian, the velar nasal `/ŋ/` that became a glottal
 stop `/ʔ/` in Tahitian is a velar fricative `/x/` in Faeke, and the labial
-approximant `/w/` that became a labiodental fricative `/v/` in Samoan and
-Tahitian is an alveolar fricative `/s/` in Faeke.
+approximant `/w/` that became a labiodental fricative `/v/` in Tahitian is
+an alveolar fricative `/s/` in Faeke. The language is most closely related
+to Maori and Tahitian.
 
 | Proto-Polynesian | p |  t  | k | ʔ | m | n | ŋ |  w  |   f   | s | h | l | r |
 | ---------------- | - | :-: | - | - | - | - | - | :-: | :---: | - | - | - | - |
