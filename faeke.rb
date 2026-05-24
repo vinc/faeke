@@ -8,17 +8,17 @@ def red(str)
   end
 end
 
-def lookup(dictionary, compound)
-  if compound["-"]
-    compound.split("-").map { |word| lookup(dictionary, word) }
-  elsif compound.count("^a-zA-Z0-9") == compound.length
-    [compound]
+def lookup(dict, comp)
+  if comp["-"]
+    comp.split("-").map { |word| lookup(dict, word) }
+  elsif comp.count("^a-zA-Z0-9") == comp.length
+    [comp]
   else
-    word = dictionary[compound]
+    word = dict[comp]
     if word.nil?
-      ["<#{compound}>"]
+      ["<#{comp}>"]
     elsif word[0] == "<" && word[-1] == ">"
-      [lookup(dictionary, word[1..-2])]
+      [lookup(dict, word[1..-2])]
     else
       [word]
     end
@@ -56,50 +56,61 @@ File.open("faeke.yml", "w") do |f|
 
       row = line.split.map(&:strip)
       english = row[1][0..-2]
-      compound = row[2]
+      comp = row[2]
       next if english != english.downcase
 
-      f.write("\"#{english}\": \"<#{compound}>\"\n")
+      f.write("\"#{english}\": \"<#{comp}>\"\n")
     end
   end
 end
 
-output = ARGV.shift || "faeke"
-dictionary = YAML.load(File.read("faeke.yml"))
-syllabary = YAML.load(File.read("#{output}.yml"))
+output = ARGV.shift || "latin"
+input = ARGV.shift || "english"
+syll = YAML.load(File.read("#{output}.yml"))
+dict = YAML.load(File.read("faeke.yml"))
 
-duplicates = dictionary.values.select { |w| dictionary.values.count(w) > 1 }.uniq
+duplicates = dict.values.select { |w| dict.values.count(w) > 1 }.uniq
 raise "Duplicate words found: #{duplicates.join(', ')}" if duplicates.any?
 
-invalids = dictionary.values.reject { |w| w[0] == "<" || w.delete("mnptkfsxhlaeiou").empty? }
+invalids = dict.values.reject { |w| w[0] == "<" || w.delete("mnptkfsxhlaeiou").empty? }
 raise "Invalid words found: #{invalids.join(', ')}" if invalids.any?
 
 File.open("english.yml", "w") do |f|
-  dictionary.each do |english, faeke|
+  dict.each do |english, faeke|
     next if faeke[0] == "<"
 
     f.write("#{faeke}: #{english}\n")
   end
 end
 
+File.open("latin.txt", "w") do |f|
+  line = "aeiou".chars.map { |v| " #{v}" }.join(" ")
+  f.write("#{line}\n")
+  "mnptkfsxhl".chars.each do |c|
+    line = "aeiou".chars.map { |v| "#{c}#{v}" }.join(" ")
+    f.write("#{line}\n")
+  end
+end
+
 ARGF.each_line do |line|
-  line.split.each do |compound|
-    lookup(dictionary, compound).flatten.each do |word|
+  line.split.each do |comp|
+    words = input == "english" ? lookup(dict, comp).flatten : comp.split("-")
+    words.each do |word|
       if word[0] == "<"
         print red(word)
-      elsif output == "faeke"
+      elsif output == "latin"
         print word
       else
         word.split(/(?<=[aeiou])/).each do |syllable|
-          print syllabary[syllable]
+          print syll[syllable]
         end
       end
     end
 
-    if output == "faeke"
+    if output == "latin"
       print " "
-    elsif compound.count("^a-zA-Z0-9") != compound.length
-      print syllabary["space"]
+    elsif comp.count("^a-zA-Z0-9") != comp.length
+      print syll["space"]
     end
   end
   print "\n"
