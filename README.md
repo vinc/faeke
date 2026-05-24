@@ -29,11 +29,11 @@ ubiquitous technology. Not to be taken too seriously.
 This project include a script to translate it from English and optionally
 display it in Katakana, Hiragana, Hangul, Devanagari, or Elder Futhark.
 
-    > ruby faeke.rb <<< "the dark fox fly above the calm dog"
-    te uli ahi-kuli lele luxa te malie kuli
+    > ruby faeke.rb <<< "the fast dark fox fly above the calm dog"
+    te sase uli ahi-kuli lele luxa te malie kuli
 
-    > ruby faeke.rb katakana <<< "the dark fox fly above the calm dog"
-    テ ウリ アヒクリ レレ ルガ テ マリエ クリ
+    > ruby faeke.rb katakana <<< "the fast dark fox fly above the calm dog"
+    テ サセ ウリ アヒクリ レレ ルガ テ マリエ クリ
 
     > ruby faeke.rb < example.txt
     au fia faka-alo-ne ( ma
