@@ -66,7 +66,7 @@ end
 
 output = ARGV.shift || "latin"
 input = ARGV.shift || "english"
-syll = YAML.load(File.read("#{output}.yml"))
+syll = YAML.load(File.read("#{output}.yml")) unless output == "latin"
 dict = YAML.load(File.read("faeke.yml"))
 
 duplicates = dict.values.select { |w| dict.values.count(w) > 1 }.uniq
@@ -95,21 +95,23 @@ end
 ARGF.each_line do |line|
   line.split.each do |comp|
     words = input == "english" ? lookup(dict, comp).flatten : comp.split("-")
-    words.each do |word|
+    words.map! do |word|
       if word[0] == "<"
-        print red(word)
+        red(word)
       elsif output == "latin"
-        print word
+        word
       else
-        word.split(/(?<=[aeiou])/).each do |syllable|
-          print syll[syllable]
-        end
+        word.split(/(?<=[aeiou])/).map do |syllable|
+          syll[syllable]
+        end.join
       end
     end
 
     if output == "latin"
+      print words.join("-")
       print " "
     elsif comp.count("^a-zA-Z0-9") != comp.length
+      print words.join
       print syll["space"]
     end
   end
