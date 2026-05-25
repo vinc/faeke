@@ -319,7 +319,7 @@ respectively.
 | way        | ala      | ara       | ara        | ala        | ala       |
 | inside     | loto     | roto      | roto       | loko       | totonu    |
 | outside    | saho     | waho      | vaho       | waho       | fafo      |
-| begin      |          | amata     | timata     | ha'amata   | amata     |
+| begin      | amata    | amata     | timata     | ha'amata   | amata     |
 | end        | pau      | pau       | pau        | pau        | pau       |
 | same       | lite     | rite      | rite       | like       | tutusa    |
 | other      | kehe     | ke        | 'e         | 'e         | ese       |
