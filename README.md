@@ -1,5 +1,7 @@
 # Faeke
 
+Status: early draft
+
 [Faeke][1] is a constructed language inspired by [Lojban][2], [Toki Pona][3],
 English, and Polynesian languages ([Samoan][4], [Hawaiian][5], [Tahitian][6],
 and [Maori][7]).
