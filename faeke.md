@@ -478,6 +478,11 @@ it can be used in the compounds "sun-light", "fire-light", and
 - month: moon-period
 - year: world-period
 
+- meal: eat-period
+- breakfast: one-meal
+- lunch: two-meal
+- dinner: three-meal
+
 - aircraft: air-boat
 - spacecraft: sky-boat
 - come: go-toward
