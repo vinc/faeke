@@ -42,7 +42,7 @@ From "All Watched Over by Machines of Loving Grace" by Richard Brautigan (1967)
 
 ## Phonology
 
-The syllable structure is (C)V(V(V)).
+The syllable structure is (C)V(V).
 
 Stress typically falls on the penultimate syllable.
 
@@ -356,7 +356,7 @@ respectively.
 | flower     | tiale    | tiare     | tiare      | kiele      | tiale     |
 | fruit      | hua      | hua       | hotu       | hua        | fua       |
 | seed       | kano     | kano      | 'ano'ano   | 'ano'ano   | fatu      |
-| bread      | falaoa   | paraoa    | faraoa     | palaoa     | falaoa    |
+| bread      | fala     | paraoa    | faraoa     | palaoa     | falaoa    |
 | mushroom   |          | harore    |            |            |           |
 | yam        |          | uhi       |            |            |           |
 | taro       |          | taro      | taro       | talo       | talo      |
