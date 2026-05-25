@@ -4,6 +4,8 @@ title: Faeke
 
 # Faeke
 
+Status: early draft
+
 Faeke is a constructed language inspired by [Lojban][2], [Toki Pona][3],
 English, Breton, and Polynesian languages ([Samoan][4], [Hawaiian][5],
 [Tahitian][6], and [Maori][7]).
@@ -27,14 +29,14 @@ imagining how future spacefaring cultures might evolve practical shared
 languages shaped by migration, multicultural contact, ecological limits, and
 ubiquitous technology. Not to be taken too seriously.
 
-    au fia faka-alo-ne ( ma
-    te ake-tata-ke-sa te ake-pai ! )
-    o ta loto-talixa-kite-ne matie-sao
-    fa-sahi tou kuli ma uila-lolo
-    mau ola me-tou me
-    uila-lolo-tohu-ne ta-me-tou
-    pei kole-pala sai
-    kili-kite-ne tea laxi .
+    au fia fakaalone (ma                I like to think (and
+    te aketatakesa te akepai!)          the sooner the better!)
+    o ta lototalixakitene matiesao      of a cybernetic meadow
+    fasahi tou kuli ma uilalolo         where mammals and computers
+    mau ola metou me                    live together in mutually
+    uilalolotohune tametou              programming harmony
+    pei kolepala sai                    like pure water
+    kilikitene tea laxi.                touching clear sky.
 
 From "All Watched Over by Machines of Loving Grace" by Richard Brautigan (1967)
 
