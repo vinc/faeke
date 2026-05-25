@@ -467,6 +467,11 @@ it can be used in the compounds "sun-light", "fire-light", and
 - learn: take-know
 - teach: give-know
 
+- noon: fruit-day
+- midnight: new-day
+- today: this-day
+- yesterday: before-today
+- tomorrow: after-today
 - daylight: light-period
 - night: dark-period
 - day: sun-period
