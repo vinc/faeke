@@ -7,8 +7,8 @@ title: Faeke
 Status: early draft
 
 Faeke is a constructed language inspired by [Lojban][2], [Toki Pona][3],
-English, Breton, and Polynesian languages ([Samoan][4], [Hawaiian][5],
-[Tahitian][6], and [Maori][7]).
+English, and Polynesian languages ([Samoan][4], [Hawaiian][5], [Tahitian][6],
+and [Maori][7]).
 
 [2]: https://la-lojban.github.io/sutysisku/lojban/
 [3]: https://lipu-sona.pona.la/en/dictionary/
@@ -31,12 +31,12 @@ ubiquitous technology. Not to be taken too seriously.
 
     au fia fakaalone (ma                I like to think (and
     te aketatakesa te akepai!)          the sooner the better!)
-    o ta lototalixakitene matiesao      of a cybernetic meadow
+    o ta lototaligakitene matiesao      of a cybernetic meadow
     fasahi tou kuli ma uilalolo         where mammals and computers
     mau ola metou me                    live together in mutually
     uilalolotohune tametou              programming harmony
     pei kolepala sai                    like pure water
-    kilikitene tea laxi.                touching clear sky.
+    kilikitene tea lagi.                touching clear sky.
 
 From "All Watched Over by Machines of Loving Grace" by Richard Brautigan (1967)
 
@@ -58,16 +58,14 @@ Stress typically falls on the penultimate syllable.
 
 |             | Labial | Alveolar | Velar | Glottal |
 | ----------- | :----: | :------: | :---: | :-----: |
-| Nasal       |   m    |    n     |       |         |
+| Nasal       |   m    |    n     |   ŋ   |         |
 | Plosive     |   p    |    t     |   k   |         |
-| Fricative   |   f    |    s     |   x   |    h    |
+| Fricative   |   f    |    s     |       |    h    |
 | Approximant |        |    l     |       |         |
 
-Compared to Proto-Polynesian, the velar nasal `/ŋ/` that became a glottal
-stop `/ʔ/` in Tahitian is a velar fricative `/x/` in Faeke, and the labial
-approximant `/w/` that became a labiodental fricative `/v/` in Tahitian is
-an alveolar fricative `/s/` in Faeke. The language is most closely related
-to Maori and Tahitian.
+Compared to Proto-Polynesian, the labial approximant `/w/` that became a
+labiodental fricative `/v/` in Tahitian is an alveolar fricative `/s/` in
+Faeke. The language is most closely related to Maori and Tahitian.
 
 | Proto-Polynesian | p |  t  | k | ʔ | m | n | ŋ |  w  |   f   | s | h | l | r |
 | ---------------- | - | :-: | - | - | - | - | - | :-: | :---: | - | - | - | - |
@@ -75,10 +73,7 @@ to Maori and Tahitian.
 | Hawaiian         | p |  k  | ʔ | Ø | m | n | n | v/w |  w/h  | h | Ø | l | l |
 | Tahitian         | p |  t  | ʔ | Ø | m | n | ʔ |  v  | v/f/h | h | Ø | r | r |
 | Maori            | p |  t  | k | Ø | m | n | ŋ |  w  |  ɸ/h  | h | Ø | r | r |
-| Faeke            | p |  t  | k | Ø | m | n | x |  s  |  f/h  | h | Ø | l | l |
-
-The letter "x" is pronounced like "x" in Lojban, "ch" of "loch" in English, or
-"c'h" in Breton.
+| Faeke            | p |  t  | k | Ø | m | n | ŋ |  s  |  f/h  | h | Ø | l | l |
 
 ## Morphology
 
@@ -86,18 +81,19 @@ In this language, words are formed by compounding root words like in Toki Pona.
 
 ## Syntax
 
-Polynesian languages (and Breton) have a VSO (verb-subject-object) word order
-but the English influence resulted in the more common SVO (subject-verb-object)
-with modifiers-noun and modifier-verb order for noun-phrases and verb-phrases
-to simplify learning and automatic machine translation.
+Polynesian languages have a VSO (verb-subject-object) word order but the
+English influence resulted in the more common SVO (subject-verb-object) with
+modifiers-noun and modifier-verb order for noun-phrases and verb-phrases to
+simplify learning and automatic machine translation.
 
 ## Lexicon
 
 The lexicon is small and roughly based on the [Swadesh list][3] translated with
 the help of [Samoan][4], [Maori][5], [Tahitian][6], [Hawaiian][7] dictionaries.
 
-The velar nasal `/ŋ/` is represented by "g" in Samoan and "ng" in Maori in the
-following tables, and the bilabial fricative `/ɸ/` by "wh" in Maori.
+The velar nasal `/ŋ/` is represented by "g" in Faeke and Samoan and "ng" in
+Maori in the following tables, and the bilabial fricative `/ɸ/` by "wh" in
+Maori.
 
 ### Pronouns
 
@@ -239,7 +235,7 @@ already loaned from English or French in post-contact Polynesia.
 | English | Faeke | Maori    | Tahitian    | Hawaiian | Samoan        | Lojban |
 | ------- | ----- | -------- | ----------- | -------- | ------------- | ------ |
 | number  | tau   | nama/tau | numera/ta'u | helu     | numera/faitau |        |
-| zero    | xu  ? | kore     | ero         | 'ole     | sero          | no     |
+| zero    | gu  ? | kore     | ero         | 'ole     | sero          | no     |
 | one     | ta    | tahi     | tahi        | kahi     | tasi          | pa     |
 | two     | le  ? | rua      | piti        | lua      | lua           | re     |
 | three   | ti  ? | toru     | toru        | kolu     | tolu          | ci     |
@@ -288,7 +284,7 @@ respectively.
 | ---------- | -------- | --------- | ---------- | ---------- | --------- |
 | near       | tata     | tata      | fatata     | kokoke     | latalata  |
 | far        | mamao    | mamao     | mamao      | mamao      | mamao     |
-| above      | luxa   ? | runga     | ni'a       | luna       | luga      |
+| above      | luga   ? | runga     | ni'a       | luna       | luga      |
 | below      | lalo     | raro      | raro       | lalo       | lalo      |
 | up         | ake      | a'e       | a'e        | a'e        | a'e       |
 | down       | iho      | iho       | iho        | iho        | ifo       |
@@ -299,9 +295,9 @@ respectively.
 
 | English    | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan    |
 | ---------- | -------- | --------- | ---------- | ---------- | --------- |
-| name       | ixoa     | ingoa     | i'oa       | inoa       | igoa      |
+| name       | igoa     | ingoa     | i'oa       | inoa       | igoa      |
 | voice      | leo      | reo       | reo        | leo        | leo       |
-| sound      | taxi     | tangi     | ta'i       | kani       | tagi      |
+| sound      | tagi     | tangi     | ta'i       | kani       | tagi      |
 | correct    | pono     | pono      | pono       | pono       |           |
 | sacred     | tapu     | tapu      | tapu       | kapu       | sa        |
 | free       | noa      | noa       | noa        | noa        | noa       |
@@ -333,7 +329,7 @@ respectively.
 | fire       | ahi      | ahi       | ahi        | ahi        | afi       |
 | water      | sai      | wai       | vai        | wai        | vai       |
 | coast      | tai      | tai       | tai        | kai        | tai       |
-| sky        | laxi   ? | rangi     | ra'i       | lani       | lagi      |
+| sky        | lagi   ? | rangi     | ra'i       | lani       | lagi      |
 | star       | fetu     | whetu     | feti'a     | hoku       | fetu      |
 | sun        | la       | ra        | ra         | la         | la        |
 | moon       | mahina   | mahina    | mahina     | mahina     | masina    |
@@ -341,14 +337,14 @@ respectively.
 | rain       | ua       | ua        | ua         | ua         | ua        |
 | smoke      | pua      | pua       | au         | pua        | ulaula    |
 | cloud      | kapua    | kapua     | ata        | ao         | ao        |
-| wind       | mataxi   | matangi   | mata'i     | makani     | matagi    |
+| wind       | matagi   | matangi   | mata'i     | makani     | matagi    |
 | light      | lama     | rama      | rama       | lama       |           |
 | lightning  | uila     | uira      | uira       | uila       | uila      |
 | stone      |          | pohatu    | 'ofa'i     | pohaku     | ma'a      |
 | swamp      | lepo   ? | repo      |            | lepo       |           |
 | soil       | kele     | kere      | repo       |            | 'ele'ele  |
 | sand       | one      | one       | one'one    | one        | oneone    |
-| mountain   | mauxa    | maunga    | mou'a      | mauna      | mauga     |
+| mountain   | mauga    | maunga    | mou'a      | mauna      | mauga     |
 | wilderness | sao      | wao       | vao        | wao        | vao       |
 | plant      | tupu   ? | tupu      | tupu       | la'au      | la'au     |
 | grass      | matie  ? | patiti    | matie      | ma'au      | mutia     |
@@ -367,7 +363,7 @@ respectively.
 | body       | tino     | tinana    | tino       | kino       | tino      |
 | foot       | sae      | wae       | 'avae      | wawae      | vae       |
 | eye        | mata     | karu      | mata       | maka       | mata      |
-| ear        | talixa   | taringa   | tari'a     | pepeiao    | taliga    |
+| ear        | taliga   | taringa   | tari'a     | pepeiao    | taliga    |
 | nose       | ihu      | ihu       | ihu        | ihu        | isu       |
 | mouth      | saha     | waha      | vaha       | waha       | gutu      |
 | blood      | toto     | toto      | toto       | koko       | toto      |
@@ -387,7 +383,7 @@ respectively.
 | pole       | toko     | toko      | to'o       | ko'o       | toko      |
 | boat       | saka     | waka      | va'a       | wa'a       | vaa       |
 | ocean      | moana    | moana     | moana      | moana      | moana     |
-| wave       | xalu     | ngaru     | 'aru       | nalu       | galu      |
+| wave       | galu     | ngaru     | 'aru       | nalu       | galu      |
 | island     | motu     | motu      | motu       | moku       | motu      |
 | child      | tama     | tama      | tama       | kama       | tama      |
 | parent     | matua    | matua     | metua      | makua      | matua     |
@@ -403,7 +399,7 @@ respectively.
 | bitter     | kasa     | kawa      | 'ava       | 'awa       | 'ava      |
 | happy      | koa      | koakoa    | 'oa'oa     | 'oli       | 'oli'oli  |
 | sick       | maki     | maki      | ma'i       | ma'i       | ma'i      |
-| bed        | moexa    | moenga    | moea       | moena      | moega     |
+| bed        | moega    | moenga    | moea       | moena      | moega     |
 | trash      | pala     | para      |            | 'opala     |           |
 
 The word for "person" is genderless in Faeke even if it means "man" or "male"

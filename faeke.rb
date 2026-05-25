@@ -72,7 +72,7 @@ dict = YAML.load(File.read("faeke.yml"))
 duplicates = dict.values.select { |w| dict.values.count(w) > 1 }.uniq
 raise "Duplicate words found: #{duplicates.join(', ')}" if duplicates.any?
 
-invalids = dict.values.reject { |w| w[0] == "<" || w.delete("mnptkfsxhlaeiou").empty? }
+invalids = dict.values.reject { |w| w[0] == "<" || w.delete("mngptkfshlaeiou").empty? }
 raise "Invalid words found: #{invalids.join(', ')}" if invalids.any?
 
 File.open("english.yml", "w") do |f|
@@ -86,7 +86,7 @@ end
 File.open("latin.txt", "w") do |f|
   line = "aeiou".chars.map { |v| " #{v}" }.join(" ")
   f.write("#{line}\n")
-  "mnptkfsxhl".chars.each do |c|
+  "mngptkfshl".chars.each do |c|
     line = "aeiou".chars.map { |v| "#{c}#{v}" }.join(" ")
     f.write("#{line}\n")
   end

@@ -87,7 +87,7 @@
 
 # Numbers
 "number": "tau"
-"zero": "xu" # ?
+"zero": "gu" # ?
 "one": "ta"
 "two": "le" # ?
 "three": "ti" # ?
@@ -108,7 +108,7 @@
 # Position
 "near": "tata"
 "far": "mamao"
-"above": "luxa" # ?
+"above": "luga" # ?
 "below": "lalo"
 "up": "ake"
 "down": "iho"
@@ -116,9 +116,9 @@
 "away": "atu"
 
 # WIP
-"name": "ixoa"
+"name": "igoa"
 "voice": "leo"
-"sound": "taxi"
+"sound": "tagi"
 "correct": "pono"
 "sacred": "tapu"
 "free": "noa"
@@ -149,7 +149,7 @@
 "fire": "ahi"
 "water": "sai"
 "coast": "tai"
-"sky": "laxi" # ?
+"sky": "lagi" # ?
 "star": "fetu"
 "sun": "la"
 "moon": "mahina"
@@ -157,13 +157,13 @@
 "rain": "ua"
 "smoke": "pua"
 "cloud": "kapua"
-"wind": "mataxi"
+"wind": "matagi"
 "light": "lama"
 "lightning": "uila"
 "swamp": "lepo" # ?
 "soil": "kele"
 "sand": "one"
-"mountain": "mauxa"
+"mountain": "mauga"
 "wilderness": "sao"
 "plant": "tupu" # ?
 "grass": "matie" # ?
@@ -179,7 +179,7 @@
 "body": "tino"
 "foot": "sae"
 "eye": "mata"
-"ear": "talixa"
+"ear": "taliga"
 "nose": "ihu"
 "mouth": "saha"
 "blood": "toto"
@@ -199,7 +199,7 @@
 "pole": "toko"
 "boat": "saka"
 "ocean": "moana"
-"wave": "xalu"
+"wave": "galu"
 "island": "motu"
 "child": "tama"
 "parent": "matua"
@@ -215,7 +215,7 @@
 "bitter": "kasa"
 "happy": "koa"
 "sick": "maki"
-"bed": "moexa"
+"bed": "moega"
 "trash": "pala"
 
 # Reduplication

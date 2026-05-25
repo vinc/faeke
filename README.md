@@ -1,8 +1,8 @@
 # Faeke
 
 [Faeke][1] is a constructed language inspired by [Lojban][2], [Toki Pona][3],
-English, Breton, and Polynesian languages ([Samoan][4], [Hawaiian][5],
-[Tahitian][6], and [Maori][7]).
+English, and Polynesian languages ([Samoan][4], [Hawaiian][5], [Tahitian][6],
+and [Maori][7]).
 
 [1]: faeke.md
 [2]: https://la-lojban.github.io/sutysisku/lojban/
@@ -30,7 +30,7 @@ This project include a script to translate it from English and optionally
 display it in Katakana, Hiragana, Hangul, Devanagari, or Elder Futhark.
 
     > ruby faeke.rb <<< "the fast dark fox fly above the calm dog"
-    te sase uli ahi-kuli lele luxa te malie kuli
+    te sase uli ahi-kuli lele luga te malie kuli
 
     > ruby faeke.rb katakana <<< "the fast dark fox fly above the calm dog"
     テ サセ ウリ アヒクリ レレ ルガ テ マリエ クリ
@@ -38,12 +38,12 @@ display it in Katakana, Hiragana, Hangul, Devanagari, or Elder Futhark.
     > ruby faeke.rb < example.txt
     au fia faka-alo-ne ( ma
     te ake-tata-ke-sa te ake-pai ! )
-    o ta loto-talixa-kite-ne matie-sao
+    o ta loto-taliga-kite-ne matie-sao
     fa-sahi tou kuli ma uila-lolo
     mau ola me-tou me
     uila-lolo-tohu-ne ta-me-tou
     pei kole-pala sai
-    kili-kite-ne tea laxi .
+    kili-kite-ne tea lagi .
 
     > ruby faeke.rb katakana < example.txt
     アウ ジア ザカアロネ マ
