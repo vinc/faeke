@@ -91,6 +91,13 @@ simplify learning and automatic machine translation.
 The lexicon is small and roughly based on the [Swadesh list][3] translated with
 the help of [Samoan][4], [Maori][5], [Tahitian][6], [Hawaiian][7] dictionaries.
 
+Words in Faeke are generally chosen by picking the form that appears in most
+languages with a preference for Maori and Tahitian, transformed by the
+phonology, and shortened when possible, or by creating a new word that has no
+meaning in most languages. When a new word collides with one already in the
+lexicon the collision is resolved by keeping the word that is closest to the
+source languages.
+
 The velar nasal `/ŋ/` is represented by "g" in Faeke and Samoan and "ng" in
 Maori in the following tables, and the bilabial fricative `/ɸ/` by "wh" in
 Maori.
@@ -168,6 +175,16 @@ when associated with "person" but not in Faeke.
 
 The new moon is "new-moon" but the full moon is "fruit-moon".
 
+### Comparison
+
+| English    | Faeke    | Maori       | Tahitian   | Hawaiian   | Samoan    |
+| ---------- | -------- | ----------- | ---------- | ---------- | --------- |
+| most       |          |             |            |            |           |
+| more       |          |             |            |            |           |
+| as         | pei    ? |             |            |            | pei       |
+| less       |          |             |            |            |           |
+| least      |          |             |            |            |           |
+
 ### Tense Aspect Mood
 
 | English     | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan   |
@@ -199,7 +216,6 @@ The new moon is "new-moon" but the full moon is "fruit-moon".
 | for        | mo       | mo       | no         | no         | mo        |
 | with       | me     ? | me       | ma         | me         | ma        |
 | the        | te     ? | te       |            |            |           |
-| as         | pei    ? |          |            |            | pei       |
 
 Faeke has two types of possessions, alienable "a" and inalienable "o", they
 are roughly mapped to "by" and "of" in English. For example "parent of you"
@@ -400,6 +416,7 @@ respectively.
 | happy      | koa      | koakoa    | 'oa'oa     | 'oli       | 'oli'oli  |
 | sick       | maki     | maki      | ma'i       | ma'i       | ma'i      |
 | bed        | moega    | moenga    | moea       | moena      | moega     |
+| net        | hao    ? | hao       | hao        |            |           |
 | trash      | pala     | para      |            | 'opala     |           |
 
 The word for "person" is genderless in Faeke even if it means "man" or "male"
@@ -447,6 +464,12 @@ it can be used in the compounds "sun-light", "fire-light", and
 - somewhere: some-place
 - someone: some-person
 - something: some-thing
+
+- never: zero-time
+- once: one-time
+- twice: two-time
+- often: many-time
+- always: all-time
 
 - see: eye-feel
 - hear: ear-feel
@@ -504,6 +527,7 @@ it can be used in the compounds "sun-light", "fire-light", and
 
 - hello: alive
 - food: eat
+- catch: net
 - language: voice
 - tribe: bone
 - exist: stand

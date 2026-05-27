@@ -56,6 +56,9 @@
 "wet": "maku"
 "fast": "sase"
 
+# Comparison
+"as": "pei" # ?
+
 # Tense
 "ed": "ni"
 "ing": "ne"
@@ -72,7 +75,6 @@
 "for": "mo"
 "with": "me" # ?
 "the": "te" # ?
-"as": "pei" # ?
 
 # Conjunction
 "not": "kole"
@@ -217,6 +219,7 @@
 "happy": "koa"
 "sick": "maki"
 "bed": "moega"
+"net": "hao" # ?
 "trash": "pala"
 
 # Reduplication
@@ -247,6 +250,11 @@
 "somewhere": "<some-place>"
 "someone": "<some-person>"
 "something": "<some-thing>"
+"never": "<zero-time>"
+"once": "<one-time>"
+"twice": "<two-time>"
+"often": "<many-time>"
+"always": "<all-time>"
 "see": "<eye-feel>"
 "hear": "<ear-feel>"
 "smell": "<nose-feel>"
@@ -299,6 +307,7 @@
 # Synonyms
 "hello": "<alive>"
 "food": "<eat>"
+"catch": "<net>"
 "language": "<voice>"
 "tribe": "<bone>"
 "exist": "<stand>"
