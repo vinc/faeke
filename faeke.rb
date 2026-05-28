@@ -95,7 +95,7 @@ end
 ARGF.each_line do |line|
   line.split.each do |comp|
     words = input == "english" ? lookup(dict, comp).flatten : comp.split("-")
-    words.map! do |word|
+    words = words.map do |word|
       if word[0] == "<"
         red(word)
       elsif output == "latin"
@@ -103,7 +103,7 @@ ARGF.each_line do |line|
       else
         word.split(/(?<=[aeiou])/).map do |syllable|
           syll[syllable]
-        end.join
+        end
       end
     end
 
@@ -111,7 +111,19 @@ ARGF.each_line do |line|
       print words.join("-")
       print " "
     elsif comp.count("^a-zA-Z0-9") != comp.length
-      print words.join
+      if output == "espeak" && false
+        print "[[ "
+        words = words.flatten
+        i = [words.length - 2, 0].max
+        words[i] = "'" + words[i]
+        print words.join
+        print " ]]"
+      else
+        print words.join
+      end
+      print syll["space"]
+    elsif output == "espeak"
+      print comp
       print syll["space"]
     end
   end
