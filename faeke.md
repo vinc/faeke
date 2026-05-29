@@ -120,7 +120,7 @@ Plural pronouns are formed by adding "-all" to the singular form.
 
 | English    | Faeke    | Maori       | Tahitian   | Hawaiian   | Samoan    |
 | ---------- | -------- | ----------- | ---------- | ---------- | --------- |
-| go         | haele    | haere       | haere      | hele       | alu       |
+| go         | hele     | haere       | haere      | hele       | alu       |
 | move       | neke   ? | neke        | ne'e       | ne'e       | lue       |
 | stand      | tu       | tu          | tu         | ku         | tu        |
 | sit        | noho     | noho        | noho       | noho       | nofo      |
@@ -490,16 +490,29 @@ it can be used in the compounds "sun-light", "fire-light", and
 - learn: take-know
 - teach: give-know
 
+- day: sun-period
+- month: moon-period
+- year: world-period
+
+- daylight: light-period
+- night: dark-period
+- winter: cold-period
+- summer: warm-period
+
 - noon: fruit-day
 - midnight: new-day
 - today: this-day
 - yesterday: before-today
 - tomorrow: after-today
-- daylight: light-period
-- night: dark-period
-- day: sun-period
-- month: moon-period
-- year: world-period
+
+- rise: up-go
+- fall: down-go
+- sunrise: rise-sun
+- sunset: fall-sun
+- dawn: before-daylight
+- dusk: after-daylight
+- morning: before-noon
+- afternoon: after-noon
 
 - meal: eat-period
 - breakfast: one-meal
