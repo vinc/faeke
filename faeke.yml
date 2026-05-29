@@ -51,6 +51,7 @@
 "good": "pai" # ?
 "bad": "kino"
 "hot": "sela" # ?
+"warm": "mahana"
 "cold": "maka"
 "new": "hou"
 "old": "tahito"
@@ -121,7 +122,7 @@
 "fear": "mataku"
 "surprise": "oho"
 "trust": "<cause-correct>"
-"ectasy": "<strong-joy>"
+"ecstasy": "<strong-joy>"
 "serenity": "<weak-joy>"
 "rage": "<strong-anger>"
 "annoyance": "<weak-anger>"

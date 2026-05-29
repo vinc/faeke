@@ -165,6 +165,7 @@ Plural pronouns are formed by adding "-all" to the singular form.
 | good       | pai    ? | pai         | maita'i    | maika'i    | lelei     |
 | bad        | kino     | kino        | 'ino       | 'ino       | 'ino      |
 | hot        | sela   ? | wera        | ahuahu     | wela       | vevela    |
+| warm       | mahana   | mahana      | mahana     | mahana     | mafana    |
 | cold       | maka     | makariri    | mariri     | anuanu     | ma'alili  |
 | new        | hou      | hou         | hou        | hou        | fou       |
 | old        | tahito   | tahito      | tahito     | kahiko     | matua     |
@@ -312,7 +313,7 @@ respectively.
 | surprise   | oho      | oho          | maere      | pu'iwa     | ofo       |
 
 - trust: cause-correct
-- ectasy: strong-joy
+- ecstasy: strong-joy
 - serenity: weak-joy
 - rage: strong-anger
 - annoyance: weak-anger
