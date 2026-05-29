@@ -138,7 +138,6 @@ Plural pronouns are formed by adding "-all" to the singular form.
 | talk       | lelo   ? | korero      | parau      | 'olelo     | tala      |
 | sleep      | moe      | moe         | moe        | moe        | moe       |
 | die        | mate     | mate        | mate       | make       | mate      |
-| fear       | mataku   | mataku      | mata'u     | maka'u     | mata'u    |
 | search     | kimi     | kimi        | 'imi       | 'imi       |           |
 | fly        | lele     | rere        | rere       | lele       | lele      |
 | wait       | tali     | taritari    | tatari     | kali       | tali      |
@@ -158,17 +157,23 @@ Plural pronouns are formed by adding "-all" to the singular form.
 | English    | Faeke    | Maori       | Tahitian   | Hawaiian   | Samoan    |
 | ---------- | -------- | ----------- | ---------- | ---------- | --------- |
 | cause      | faka     | whaka       | fa'a       | ho'o/ha'a  | fa'a      |
-| small      | iti      | iti         | iti        | iki        | laiti     |
-| short      | poto     | poto        | poto       | poko       | poto      |
+| calm       | malie  ? | marie       | hau        | malie      | malu      |
 | big        | nui      | nui         | rahi/nui   | nui        | tele      |
+| small      | iti      | iti         | iti        | iki        | laiti     |
 | long       | loa      | roa         | roa        | loa        |           |
+| short      | poto     | poto        | poto       | poko       | poto      |
 | good       | pai    ? | pai         | maita'i    | maika'i    | lelei     |
 | bad        | kino     | kino        | 'ino       | 'ino       | 'ino      |
-| calm       | malie  ? | marie       | hau        | malie      | malu      |
 | hot        | sela   ? | wera        | ahuahu     | wela       | vevela    |
+| cold       | maka     | makariri    | mariri     | anuanu     | ma'alili  |
+| new        | hou      | hou         | hou        | hou        | fou       |
 | old        | tahito   | tahito      | tahito     | kahiko     | matua     |
 | wet        | maku     | maku        | ma'u       | ma'u       | susu      |
+| dry        | malo     | maroke      | maro       | malo'o     | mago      |
 | fast       | sase     | tere/wawe   | hiuao/vave | wiki/wawe  | tope/vave |
+| slow       | gese     | poturi      | ta'ere     | lohi       | gese      |
+| strong     | paka     | pakari      | pa'ari     | pa'a       | ma'a      |
+| weak       | palu     | ruhi        | paruparu   | palupalu   | vaivai    |
 
 The words for "old" have negative connotations in their respective languages
 when associated with "person" but not in Faeke.
@@ -294,6 +299,28 @@ The other colors can be obtained by compounding like sun-color, leaf-color,
 sky-color, clear-red, and red-yellow for yellow, green, blue, pink, and orange
 respectively.
 
+### Emotions
+
+| English    | Faeke    | Maori        | Tahitian   | Hawaiian   | Samoan    |
+| ---------- | -------- | ------------ | ---------- | ---------- | --------- |
+| joy        | koa      | koakoa       | 'oa'oa     | 'oli       | 'oli'oli  |
+| sadness    | koto     | pouri        | 'oto       |            |           |
+| anger      | lili     | riri         | riri       | huhu       | ita       |
+| disgust    | liha     | rihariha     | ri'ari'a   | inaina     | 'ino'ino  |
+| desire     | manako   | manako       | mana'o     | mana'o     | mana'o    |
+| fear       | mataku   | mataku       | mata'u     | maka'u     | mata'u    |
+| surprise   | oho      | oho          | maere      | pu'iwa     | ofo       |
+
+- trust: cause-correct
+- ectasy: strong-joy
+- serenity: weak-joy
+- rage: strong-anger
+- annoyance: weak-anger
+- terror: strong-fear
+- apprehension: weak-fear
+- amazement: strong-surprise
+- distraction: weak-surprise
+
 ### Position Direction
 
 | English    | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan    |
@@ -320,7 +347,6 @@ respectively.
 | power      | mana     | mana      | mana       | mana       | mana      |
 | reserve    | lahui    | rahui     | rahui      | lahui      |           |
 | alive      | ola      | ora       | ora        | ola        | ola       |
-| new        | hou      | hou       | hou        | hou        | fou       |
 | also       | hoki     | hoki      | ho'i       | ho'i       | fo'i      |
 | this       | ke     ? | tenei     | teie       | keia/nei   | lenei     |
 | that       | ki     ? | tera      | tera       | kela       | lela      |
@@ -411,9 +437,7 @@ respectively.
 | fowl       | moa      | moa       | moa        | moa        | moa       |
 | pig        | puaka    | poaka     | pua'a      | pua'a      | pua'a     |
 | dog        | kuli     | kuri      | 'uri       | 'ilio      | maile     |
-| crab       | paka     | papaka    | pa'a       | papa'i     | pa'a      |
 | bitter     | kasa     | kawa      | 'ava       | 'awa       | 'ava      |
-| happy      | koa      | koakoa    | 'oa'oa     | 'oli       | 'oli'oli  |
 | sick       | maki     | maki      | ma'i       | ma'i       | ma'i      |
 | bed        | moega    | moenga    | moea       | moena      | moega     |
 | net        | hao    ? | hao       | hao        |            |           |

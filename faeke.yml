@@ -27,7 +27,6 @@
 "talk": "lelo" # ?
 "sleep": "moe"
 "die": "mate"
-"fear": "mataku"
 "search": "kimi"
 "fly": "lele"
 "wait": "tali"
@@ -44,17 +43,23 @@
 
 # Modifiers
 "cause": "faka"
-"small": "iti"
-"short": "poto"
+"calm": "malie" # ?
 "big": "nui"
+"small": "iti"
 "long": "loa"
+"short": "poto"
 "good": "pai" # ?
 "bad": "kino"
-"calm": "malie" # ?
 "hot": "sela" # ?
+"cold": "maka"
+"new": "hou"
 "old": "tahito"
 "wet": "maku"
+"dry": "malo"
 "fast": "sase"
+"slow": "gese"
+"strong": "paka"
+"weak": "palu"
 
 # Comparison
 "as": "pei" # ?
@@ -107,6 +112,24 @@
 "red": "kula"
 "dark": "uli"
 
+# Emotions
+"joy": "koa"
+"sadness": "koto"
+"anger": "lili"
+"disgust": "liha"
+"desire": "manako"
+"fear": "mataku"
+"surprise": "oho"
+"trust": "<cause-correct>"
+"ectasy": "<strong-joy>"
+"serenity": "<weak-joy>"
+"rage": "<strong-anger>"
+"annoyance": "<weak-anger>"
+"terror": "<strong-fear>"
+"apprehension": "<weak-fear>"
+"amazement": "<strong-surprise>"
+"distraction": "<weak-surprise>"
+
 # Position
 "near": "tata"
 "far": "mamao"
@@ -127,7 +150,6 @@
 "power": "mana"
 "reserve": "lahui"
 "alive": "ola"
-"new": "hou"
 "also": "hoki"
 "this": "ke" # ?
 "that": "ki" # ?
@@ -214,9 +236,7 @@
 "fowl": "moa"
 "pig": "puaka"
 "dog": "kuli"
-"crab": "paka"
 "bitter": "kasa"
-"happy": "koa"
 "sick": "maki"
 "bed": "moega"
 "net": "hao" # ?
