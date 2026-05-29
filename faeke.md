@@ -171,9 +171,9 @@ Plural pronouns are formed by adding "-all" to the singular form.
 | wet        | maku     | maku        | ma'u       | ma'u       | susu      |
 | dry        | malo     | maroke      | maro       | malo'o     | mago      |
 | fast       | sase     | tere/wawe   | hiuao/vave | wiki/wawe  | tope/vave |
-| slow       | gese     | poturi      | ta'ere     | lohi       | gese      |
-| strong     | paka     | pakari      | pa'ari     | pa'a       | ma'a      |
-| weak       | palu     | ruhi        | paruparu   | palupalu   | vaivai    |
+| slow       | gese   ? | poturi      | ta'ere     | lohi       | gese      |
+| strong     | paka   ? | pakari      | pa'ari     | pa'a       | ma'a      |
+| weak       | palu   ? | ruhi        | paruparu   | palupalu   | vaivai    |
 
 The words for "old" have negative connotations in their respective languages
 when associated with "person" but not in Faeke.
@@ -304,9 +304,9 @@ respectively.
 | English    | Faeke    | Maori        | Tahitian   | Hawaiian   | Samoan    |
 | ---------- | -------- | ------------ | ---------- | ---------- | --------- |
 | joy        | koa      | koakoa       | 'oa'oa     | 'oli       | 'oli'oli  |
-| sadness    | koto     | pouri        | 'oto       |            |           |
+| sadness    | koto   ? | pouri        | 'oto       |            |           |
 | anger      | lili     | riri         | riri       | huhu       | ita       |
-| disgust    | liha     | rihariha     | ri'ari'a   | inaina     | 'ino'ino  |
+| disgust    | liha   ? | rihariha     | ri'ari'a   | inaina     | 'ino'ino  |
 | desire     | manako   | manako       | mana'o     | mana'o     | mana'o    |
 | fear       | mataku   | mataku       | mata'u     | maka'u     | mata'u    |
 | surprise   | oho      | oho          | maere      | pu'iwa     | ofo       |

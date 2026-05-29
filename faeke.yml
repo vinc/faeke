@@ -57,9 +57,9 @@
 "wet": "maku"
 "dry": "malo"
 "fast": "sase"
-"slow": "gese"
-"strong": "paka"
-"weak": "palu"
+"slow": "gese" # ?
+"strong": "paka" # ?
+"weak": "palu" # ?
 
 # Comparison
 "as": "pei" # ?
@@ -114,9 +114,9 @@
 
 # Emotions
 "joy": "koa"
-"sadness": "koto"
+"sadness": "koto" # ?
 "anger": "lili"
-"disgust": "liha"
+"disgust": "liha" # ?
 "desire": "manako"
 "fear": "mataku"
 "surprise": "oho"
