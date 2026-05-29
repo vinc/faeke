@@ -223,6 +223,8 @@ The new moon is "new-moon" but the full moon is "fruit-moon".
 | with       | me     ? | me       | ma         | me         | ma        |
 | the        | te     ? | te       |            |            |           |
 
+The general locative in Faeke is "on" which also works for "in" and "at".
+
 Faeke has two types of possessions, alienable "a" and inalienable "o", they
 are roughly mapped to "by" and "of" in English. For example "parent of you"
 is "matua o koe" which is inalienable because you didn't chose them, but
