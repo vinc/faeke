@@ -9,40 +9,23 @@
 "we+": "<you-me-all>"
 
 # Verbs
-"go": "hele"
-"move": "neke" # ?
-"stand": "tu"
-"sit": "noho"
-"eat": "kai"
-"cook": "tao"
-"work": "mahi"
-"turn": "huli"
+"feel": "kite"
+"like": "fia" # ?
+"want": "hia" # ?
+"have": "fai"
 "give": "foaki" # ?
 "take": "lase" # ?
 "know": "mohio" # ?
-"have": "fai"
-"like": "fia" # ?
-"want": "hia" # ?
-"feel": "kite"
 "talk": "lelo" # ?
-"sleep": "moe"
-"die": "mate"
+"work": "mahi"
 "search": "kimi"
-"fly": "lele"
-"wait": "tali"
-"stay": "mau"
 "become": "lilo"
 "trade": "hoko"
 "join": "hono"
 "cut": "koti"
 "break": "fati"
-"ingest": "holo"
-"drift": "pae"
 "scrape": "salu"
 "code": "tohu"
-"come": "<go-toward>"
-"rise": "<go-up>"
-"fall": "<go-down>"
 "shrink": "<cause-small>"
 "expand": "<cause-big>"
 "improve": "<cause-good>"
@@ -96,12 +79,31 @@
 "or": "po"
 "if": "ina"
 "only": "anake"
+"also": "hoki"
+"because": "<from-the-thing>"
 
 # Quantifiers
 "every": "atoa" # ?
 "some": "ai"
 "many": "<big-number>"
 "few": "<small-number>"
+"sometime": "<some-period>"
+"somewhere": "<some-place>"
+"someone": "<some-person>"
+"something": "<some-thing>"
+"never": "<zero-time>"
+"once": "<one-time>"
+"twice": "<two-time>"
+"often": "<many-time>"
+"always": "<all-time>"
+
+# Interogation
+"what": "fa"
+"when": "<what-period>"
+"where": "<what-place>"
+"who": "<what-person>"
+"why": "<what-reason>"
+"how": "<what-way>"
 
 # Numbers
 "number": "tau"
@@ -116,6 +118,7 @@
 "eight": "fi" # ?
 "nine": "so" # ?
 "point": "hi" # ?
+"count": "<number-number>"
 
 # Colors
 "color": "tae"
@@ -166,20 +169,6 @@
 "now": "<this-period>"
 "then": "<that-period>"
 "soon": "<near-now>"
-"when": "<what-period>"
-"where": "<what-place>"
-"who": "<what-person>"
-"why": "<what-reason>"
-"how": "<what-way>"
-"sometime": "<some-period>"
-"somewhere": "<some-place>"
-"someone": "<some-person>"
-"something": "<some-thing>"
-"never": "<zero-time>"
-"once": "<one-time>"
-"twice": "<two-time>"
-"often": "<many-time>"
-"always": "<all-time>"
 "noon": "<fruit-day>"
 "midnight": "<new-day>"
 "today": "<this-day>"
@@ -205,8 +194,18 @@
 "that": "ki" # ?
 "inside": "loto"
 "outside": "saho"
+"go": "hele"
+"move": "neke" # ?
+"fly": "lele"
+"turn": "huli"
+"wait": "tali"
+"stay": "mau"
+"drift": "pae"
 "here": "<this-place>"
 "there": "<that-place>"
+"come": "<go-toward>"
+"rise": "<go-up>"
+"fall": "<go-down>"
 
 # World
 "world": "ao"
@@ -272,6 +271,9 @@
 "blackbird": "<small-dark-bird>"
 
 # Food
+"eat": "kai"
+"cook": "tao"
+"ingest": "holo"
 "bread": "fala"
 "bitter": "kasa"
 "meal": "<eat-period>"
@@ -286,6 +288,8 @@
 "sibling": "teina"
 "friend": "hoa"
 "chief": "aliki"
+"together": "<with-all>"
+"harmony": "<one-together>"
 
 # Body
 "person": "tane"
@@ -306,6 +310,12 @@
 "cloth": "kahu"
 "breath": "ha"
 "sick": "maki"
+"stand": "tu"
+"sit": "noho"
+"sleep": "moe"
+"birth": "fanau"
+"die": "mate"
+"voice": "leo"
 "see": "<eye-feel>"
 "hear": "<ear-feel>"
 "smell": "<nose-feel>"
@@ -319,25 +329,10 @@
 "metacognition": "<cause-attention-attention>"
 "think": "<cause-attention>"
 "show": "<cause-feel>"
+"dream": "<sleep-sleep>"
 
-# WIP
-"name": "igoa"
-"voice": "leo"
-"sound": "tagi"
-"correct": "pono"
-"sacred": "tapu"
-"free": "noa"
-"power": "mana"
-"alive": "ola"
-"also": "hoki"
-"what": "fa"
+# Objects
 "thing": "mea"
-"reason": "take" # ?
-"way": "ala"
-"same": "lite"
-"other": "kehe"
-"birth": "fanau"
-"attention": "alo"
 "house": "fale"
 "refuge": "malu"
 "pole": "toko"
@@ -345,24 +340,28 @@
 "bed": "moega"
 "net": "hao" # ?
 "trash": "pala"
-
-# Reduplication
-"dream": "<sleep-sleep>"
-"watery": "<water-water>"
-"count": "<number-number>"
-
-# Compound
-"aircraft": "<air-boat>"
-"spacecraft": "<sky-boat>"
-"tool": "<work-thing>"
-"because": "<from-the-thing>"
-"pure": "<not-trash>"
 "village": "<house-place>"
 "city": "<big-house-place>"
-"together": "<with-all>"
-"harmony": "<one-together>"
+"tool": "<work-thing>"
+"aircraft": "<air-boat>"
+"spacecraft": "<sky-boat>"
 "computer": "<lightning-brain>"
 "program": "<computer-code>"
+"pure": "<not-trash>"
+
+# Misc
+"name": "igoa"
+"sound": "tagi"
+"correct": "pono"
+"sacred": "tapu"
+"free": "noa"
+"power": "mana"
+"alive": "ola"
+"reason": "take" # ?
+"way": "ala"
+"same": "lite"
+"other": "kehe"
+"attention": "alo"
 
 # Synonyms
 "hello": "<alive>"

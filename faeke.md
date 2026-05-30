@@ -120,43 +120,26 @@ Plural pronouns are formed by adding "-all" to the singular form.
 
 | English    | Faeke    | Maori       | Tahitian   | Hawaiian   | Samoan    |
 | ---------- | -------- | ----------- | ---------- | ---------- | --------- |
-| go         | hele     | haere       | haere      | hele       | alu       |
-| move       | neke   ? | neke        | ne'e       | ne'e       | lue       |
-| stand      | tu       | tu          | tu         | ku         | tu        |
-| sit        | noho     | noho        | noho       | noho       | nofo      |
-| eat        | kai      | kai         | 'ai/'amu   | 'ai        | 'ai       |
-| cook       | tao      | tao         | tao        | kalua      | tao       |
-| work       | mahi     | mahi        | 'ohipa     | hana       | galue     |
-| turn       | huli     | huri        | huri       | huli       | liliu     |
+| feel       | kite     | kite        | 'ite       | 'ike       |           |
+| like       | fia    ? | pai         | au         | makemake   | fiafia    |
+| want       | hia    ? | hiahia      | hina'aro   | makemake   | mana'o    |
+| have       | fai      | whai        |            |            | fai       |
 | give       | foaki  ? | hoatu       | horo'a     | ha'awi     | foa'i     |
 | take       | lase   ? | tango       | rave       | lawe       | 'ave      |
 | know       | mohio  ? | mohio       | 'ite       | 'ike       | iloa      |
-| have       | fai      | whai        |            |            | fai       |
-| like       | fia    ? | pai         | au         | makemake   | fiafia    |
-| want       | hia    ? | hiahia      | hina'aro   | makemake   | mana'o    |
-| feel       | kite     | kite        | 'ite       | 'ike       |           |
 | talk       | lelo   ? | korero      | parau      | 'olelo     | tala      |
-| sleep      | moe      | moe         | moe        | moe        | moe       |
-| die        | mate     | mate        | mate       | make       | mate      |
+| work       | mahi     | mahi        | 'ohipa     | hana       | galue     |
 | search     | kimi     | kimi        | 'imi       | 'imi       |           |
-| fly        | lele     | rere        | rere       | lele       | lele      |
-| wait       | tali     | taritari    | tatari     | kali       | tali      |
-| stay       | mau      | mau         | mau        | mau        | mau       |
 | become     | lilo     | riro        | riro       | lilo       | liu       |
 | trade      | hoko     | hoko        | ho'o       | kalepa     |           |
 | join       | hono     | hono        | hono       | hono       |           |
 | cut        | koti     | koti        | 'oti       | 'oki       | 'oti      |
 | break      | fati     | whati       | fati       | wahi       |           |
-| ingest     | holo     | horo        | horo       | ale        | folo      |
-| drift      | pae      | pae         | pae        | pae        |           |
 | scrape     | salu     | waru        | varu       | walu       | valu      |
 | code       | tohu     |             |            |            |           |
 
 Compounds:
 
-- come: go-toward
-- rise: go-up
-- fall: go-down
 - shrink: cause-small
 - expand: cause-big
 - improve: cause-good
@@ -254,6 +237,11 @@ would be "the house that I built".
 | or         | po       |          |            |            | po        |
 | if         | ina      | ina      |            |            |           |
 | only       | anake    | anake    | ana'e      | 'anake     | na'o      |
+| also       | hoki     | hoki     | ho'i       | ho'i       | fo'i      |
+
+Compounds:
+
+- because: from-the-thing
 
 ### Quantifiers
 
@@ -266,6 +254,30 @@ Compounds:
 
 - many: big-number
 - few: small-number
+- sometime: some-period
+- somewhere: some-place
+- someone: some-person
+- something: some-thing
+
+- never: zero-time
+- once: one-time
+- twice: two-time
+- often: many-time
+- always: all-time
+
+### Interogation
+
+| English    | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan    |
+| ---------- | -------- | --------- | ---------- | ---------- | --------- |
+| what       | fa       | aha       | aha        | aha        | a         |
+
+Compounds:
+
+- when: what-period
+- where: what-place
+- who: what-person
+- why: what-reason
+- how: what-way
 
 ### Numbers
 
@@ -274,7 +286,7 @@ already loaned from English or French in post-contact Polynesia.
 
 | English | Faeke | Maori    | Tahitian    | Hawaiian | Samoan        | Lojban |
 | ------- | ----- | -------- | ----------- | -------- | ------------- | ------ |
-| number  | tau   | nama/tau | numera/ta'u | helu     | numera/faitau |        |
+| number  | tau   | tau      | ta'u        | helu     | faitau        |        |
 | zero    | gu  ? | kore     | ero         | 'ole     | sero          | no     |
 | one     | ta    | tahi     | tahi        | kahi     | tasi          | pa     |
 | two     | le  ? | rua      | piti        | lua      | lua           | re     |
@@ -295,6 +307,10 @@ of them.
 
 Fractional numbers use "i" (on) between the numerator and the denominator as in
 "tau-ta i tau-ko" (one on four).
+
+Compounds:
+
+- count: number-number ("tatau" is "count" in Maori while "tautau" is something else)
 
 ### Colors
 
@@ -376,23 +392,6 @@ Compounds:
 - then: that-period
 - soon: near-now
 
-- when: what-period
-- where: what-place
-- who: what-person
-- why: what-reason
-- how: what-way
-
-- sometime: some-period
-- somewhere: some-place
-- someone: some-person
-- something: some-thing
-
-- never: zero-time
-- once: one-time
-- twice: two-time
-- often: many-time
-- always: all-time
-
 - noon: fruit-day
 - midnight: new-day
 - today: this-day
@@ -424,11 +423,21 @@ Compounds:
 | that       | ki     ? | tera      | tera       | kela       | lela      |
 | inside     | loto     | roto      | roto       | loko       | totonu    |
 | outside    | saho     | waho      | vaho       | waho       | fafo      |
+| go         | hele     | haere     | haere      | hele       | alu       |
+| move       | neke   ? | neke      | ne'e       | ne'e       | lue       |
+| fly        | lele     | rere      | rere       | lele       | lele      |
+| turn       | huli     | huri      | huri       | huli       | liliu     |
+| wait       | tali     | taritari  | tatari     | kali       | tali      |
+| stay       | mau      | mau       | mau        | mau        | mau       |
+| drift      | pae      | pae       | pae        | pae        |           |
 
 Compounds:
 
 - here: this-place
 - there: that-place
+- come: go-toward
+- rise: go-up
+- fall: go-down
 
 ### World
 
@@ -520,6 +529,9 @@ Compounds:
 
 | English    | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan    |
 | ---------- | -------- | --------- | ---------- | ---------- | --------- |
+| eat        | kai      | kai       | 'ai/'amu   | 'ai        | 'ai       |
+| cook       | tao      | tao       | tao        | kalua      | tao       |
+| ingest     | holo     | horo      | horo       | ale        | folo      |
 | bread      | fala     | paraoa    | faraoa     | palaoa     | falaoa    |
 | bitter     | kasa     | kawa      | 'ava       | 'awa       | 'ava      |
 
@@ -545,6 +557,9 @@ Compounds:
 
 Compounds:
 
+- together: with-all
+- harmony: one-together
+
 ### Body
 
 | English    | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan    |
@@ -567,6 +582,12 @@ Compounds:
 | cloth      | kahu     | kahu      | ahu        | 'ahu       | ofu       |
 | breath     | ha       | ha        | ha         | ha         |           |
 | sick       | maki     | maki      | ma'i       | ma'i       | ma'i      |
+| stand      | tu       | tu        | tu         | ku         | tu        |
+| sit        | noho     | noho      | noho       | noho       | nofo      |
+| sleep      | moe      | moe       | moe        | moe        | moe       |
+| birth      | fanau    | whanau    | fanau      | hanau      | fanau     |
+| die        | mate     | mate      | mate       | make       | mate      |
+| voice      | leo      | reo       | reo        | leo        | leo       |
 
 The word for "person" is genderless in Faeke even if it means "man" or "male"
 in Polynesian. The default gender is neutral. Likewise the word for "sibling"
@@ -587,28 +608,13 @@ Compounds:
 - metacognition: cause-attention-attention
 - think: cause-attention
 - show: cause-feel
+- dream: sleep-sleep ("moemoea" is "dream" in Tahitian, Hawaiian, and Maori)
 
-### WIP
+### Objects
 
 | English    | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan    |
 | ---------- | -------- | --------- | ---------- | ---------- | --------- |
-| name       | igoa     | ingoa     | i'oa       | inoa       | igoa      |
-| voice      | leo      | reo       | reo        | leo        | leo       |
-| sound      | tagi     | tangi     | ta'i       | kani       | tagi      |
-| correct    | pono     | pono      | pono       | pono       |           |
-| sacred     | tapu     | tapu      | tapu       | kapu       | sa        |
-| free       | noa      | noa       | noa        | noa        | noa       |
-| power      | mana     | mana      | mana       | mana       | mana      |
-| alive      | ola      | ora       | ora        | ola        | ola       |
-| also       | hoki     | hoki      | ho'i       | ho'i       | fo'i      |
-| what       | fa       | aha       | aha        | aha        | a         |
 | thing      | mea      | mea       | mea        | mea        | mea       |
-| reason     | take   ? | take      |            |            |           |
-| way        | ala      | ara       | ara        | ala        | ala       |
-| same       | lite     | rite      | rite       | like       | tutusa    |
-| other      | kehe     | ke        | 'e         | 'e         | ese       |
-| birth      | fanau    | whanau    | fanau      | hanau      | fanau     |
-| attention  | alo      | aro       | aro        | alo        |           |
 | house      | fale     | whare     | fare       | hale       | fale      |
 | refuge     | malu     | maru      | maru       | malu       | malu      |
 | pole       | toko     | toko      | to'o       | ko'o       | toko      |
@@ -617,25 +623,33 @@ Compounds:
 | net        | hao    ? | hao       | hao        |            |           |
 | trash      | pala     | para      |            | 'opala     |           |
 
-### Reduplication
+Compounds:
 
-- dream: sleep-sleep ("moemoea" is "dream" in Tahitian, Hawaiian, and Maori)
-- watery: water-water
-- count: number-number ("tatau" is "count" in Maori while "tautau" is something else)
-
-### Compound Words
-
-- aircraft: air-boat
-- spacecraft: sky-boat
-- tool: work-thing
-- because: from-the-thing
-- pure: not-trash
 - village: house-place
 - city: big-house-place
-- together: with-all
-- harmony: one-together
+- tool: work-thing
+- aircraft: air-boat
+- spacecraft: sky-boat
 - computer: lightning-brain
 - program: computer-code
+- pure: not-trash
+
+### Misc
+
+| English    | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan    |
+| ---------- | -------- | --------- | ---------- | ---------- | --------- |
+| name       | igoa     | ingoa     | i'oa       | inoa       | igoa      |
+| sound      | tagi     | tangi     | ta'i       | kani       | tagi      |
+| correct    | pono     | pono      | pono       | pono       |           |
+| sacred     | tapu     | tapu      | tapu       | kapu       | sa        |
+| free       | noa      | noa       | noa        | noa        | noa       |
+| power      | mana     | mana      | mana       | mana       | mana      |
+| alive      | ola      | ora       | ora        | ola        | ola       |
+| reason     | take   ? | take      |            |            |           |
+| way        | ala      | ara       | ara        | ala        | ala       |
+| same       | lite     | rite      | rite       | like       | tutusa    |
+| other      | kehe     | ke        | 'e         | 'e         | ese       |
+| attention  | alo      | aro       | aro        | alo        |           |
 
 ### Synonyms
 
