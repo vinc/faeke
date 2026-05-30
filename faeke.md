@@ -471,7 +471,7 @@ Compound:
 - meadow: wild-grass-place
 - saltwater: coast-water
 
-### Flaura
+### Flora
 
 | English    | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan    |
 | ---------- | -------- | --------- | ---------- | ---------- | --------- |
