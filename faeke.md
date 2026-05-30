@@ -29,14 +29,14 @@ imagining how future spacefaring cultures might evolve practical shared
 languages shaped by migration, multicultural contact, ecological limits, and
 ubiquitous technology. Not to be taken too seriously.
 
-    au fia fakaalone (ma                I like to think (and
-    te aketatakesa te akepai!)          the sooner the better!)
-    o ta lototaligakitene matiesao      of a cybernetic meadow
-    fasahi tou kuli ma uilalolo         where mammals and computers
-    mau ola metou me                    live together in mutually
-    uilalolotohune tametou              programming harmony
-    pei kolepala sai                    like pure water
-    kilikitene tea lagi.                touching clear sky.
+    au fia fakaalone (ma                    I like to think (and
+    te aketatakesa te akepai!)              the sooner the better!)
+    o ta lototaligakitene saomatiesahi      of a cybernetic meadow
+    fasahi tou kuli ma uilalolo             where mammals and computers
+    mau ola metou me                        live together in mutually
+    uilalolotohune tametou                  programming harmony
+    pei kolepala sai                        like pure water
+    kilikitene tea lagi.                    touching clear sky.
 
 From "All Watched Over by Machines of Loving Grace" by Richard Brautigan (1967)
 
@@ -389,8 +389,8 @@ respectively.
 | swamp      | lepo   ? | repo      |            | lepo       |           |
 | soil       | kele     | kere      | repo       |            | 'ele'ele  |
 | sand       | one      | one       | one'one    | one        | oneone    |
-| mountain   | mauga    | maunga    | mou'a      | mauna      | mauga     |
-| wilderness | sao      | wao       | vao        | wao        | vao       |
+| hill       | mauga    | maunga    | mou'a      | mauna      | mauga     |
+| wild       | sao      | wao       | vao        | wao        | vao       |
 | plant      | tupu   ? | tupu      | tupu       | la'au      | la'au     |
 | grass      | matie  ? | patiti    | matie      | ma'au      | mutia     |
 | tree       | lakau    | rakau     | ra'au      | la'au      | la'au     |
@@ -559,13 +559,15 @@ it can be used in the compounds "sun-light", "fire-light", and
 - tool: work-thing
 - because: from-the-thing
 - pure: not-trash
-- forest: tree-wilderness
-- meadow: grass-wilderness
+- village: house-place
+- city: big-house-place
+- forest: tree-place
+- meadow: wild-grass-place
 - saltwater: coast-water
 - seal: ocean-dog
 - fox: fire-dog
 - bear: fat-dog
-- wolf: wilderness-dog
+- wolf: wild-dog
 - owl: night-bird
 - raven: big-dark-bird
 - blackbird: small-dark-bird

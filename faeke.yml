@@ -189,8 +189,8 @@
 "swamp": "lepo" # ?
 "soil": "kele"
 "sand": "one"
-"mountain": "mauga"
-"wilderness": "sao"
+"hill": "mauga"
+"wild": "sao"
 "plant": "tupu" # ?
 "grass": "matie" # ?
 "tree": "lakau"
@@ -331,13 +331,13 @@
 "tool": "<work-thing>"
 "because": "<from-the-thing>"
 "pure": "<not-trash>"
-"forest": "<tree-wilderness>"
-"meadow": "<grass-wilderness>"
+"forest": "<tree-place>"
+"meadow": "<wild-grass-place>"
 "saltwater": "<coast-water>"
 "seal": "<ocean-dog>"
 "fox": "<fire-dog>"
 "bear": "<fat-dog>"
-"wolf": "<wilderness-dog>"
+"wolf": "<wild-dog>"
 "owl": "<night-bird>"
 "raven": "<big-dark-bird>"
 "blackbird": "<small-dark-bird>"

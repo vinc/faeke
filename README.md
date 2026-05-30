@@ -40,7 +40,7 @@ display it in Katakana, Hiragana, Hangul, Devanagari, or Elder Futhark.
     > ruby faeke.rb < example.txt
     au fia faka-alo-ne ( ma
     te ake-tata-ke-sa te ake-pai ! )
-    o ta loto-taliga-kite-ne matie-sao
+    o ta loto-taliga-kite-ne sao-matie-sahi
     fa-sahi tou kuli ma uila-lolo
     mau ola me-tou me
     uila-lolo-tohu-ne ta-me-tou
@@ -50,7 +50,7 @@ display it in Katakana, Hiragana, Hangul, Devanagari, or Elder Futhark.
     > ruby faeke.rb katakana < example.txt
     アウ ジア ザカアロネ マ
     テ アケタタケサ テ アケダイ
-    オ タ ロトタリガキテネ マチエサオ
+    オ タ ロトタリガキテネ サオマチエサヒ
     ザサヒ トウ クリ マ ウイラロロ
     マウ オラ メトウ メ
     ウイラロロトフネ タメトウ
