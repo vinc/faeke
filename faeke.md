@@ -17,17 +17,11 @@ and [Maori][7]).
 [6]: https://www.farevanaa.pf/fra/dictionnaire
 [7]: https://maoridictionary.co.nz/
 
-It is an experimental creole designed for worldbuilding and storytelling around
-a solarpunk future where humanity lives across the solar system in deliberate
-balance with technology and nature. Inspired by Polynesian wayfinding, island
-ecology, and traditional concepts like rāhui and mana, the language tries to
-encode the values of simplicity, sustainability, stewardship, and coexistence
-with the living world.
-
-Faeke is intentionally minimal, compositional, and open to outside influences,
-imagining how future spacefaring cultures might evolve practical shared
-languages shaped by migration, multicultural contact, ecological limits, and
-ubiquitous technology. Not to be taken too seriously.
+It is an experimental creole for worldbuilding around a solarpunk future where
+humanity lives across the solar system in balance with technology and nature.
+Inspired by Polynesian wayfinding and concepts like rahui and mana, it tries to
+encode values of simplicity, sustainability, and coexistence with the living
+world.
 
     au fia fakaalone (ma                    I like to think (and
     te aketatakesa te akepai!)              the sooner the better!)
@@ -90,6 +84,7 @@ simplify learning and automatic machine translation.
 
 The lexicon is small and roughly based on the [Swadesh list][3] translated with
 the help of [Samoan][4], [Maori][5], [Tahitian][6], [Hawaiian][7] dictionaries.
+It contains 213 root and 104 compound words.
 
 Words in Faeke are generally chosen by picking the form that appears in most
 languages with a preference for Maori and Tahitian, transformed by the
@@ -139,7 +134,7 @@ Chosing one possession form over the other adds meaning to a sentence, for
 example "house of me" would be "the house where I live" while "house by me"
 would be "the house that I built".
 
-### Tense Aspect Mood
+### Tense/Aspect/Mood
 
 | English     | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan   |
 | ----------- | -------- | --------- | ---------- | ---------- | -------- |
@@ -174,6 +169,20 @@ Compounds:
 
 - because: from-the-thing
 
+### Interogation
+
+| English    | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan    |
+| ---------- | -------- | --------- | ---------- | ---------- | --------- |
+| what       | fa       | aha       | aha        | aha        | a         |
+
+Compounds:
+
+- when: what-period
+- where: what-place
+- who: what-person
+- why: what-reason
+- how: what-way
+
 ### Quantifiers
 
 | English    | Faeke    | Maori    | Tahitian   | Hawaiian   | Samoan    |
@@ -196,49 +205,25 @@ Compounds:
 - often: many-time
 - always: all-time
 
-### Interogation
-
-| English    | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan    |
-| ---------- | -------- | --------- | ---------- | ---------- | --------- |
-| what       | fa       | aha       | aha        | aha        | a         |
-
-Compounds:
-
-- when: what-period
-- where: what-place
-- who: what-person
-- why: what-reason
-- how: what-way
-
-### Comparison
-
-| English    | Faeke    | Maori       | Tahitian   | Hawaiian   | Samoan    |
-| ---------- | -------- | ----------- | ---------- | ---------- | --------- |
-| most       |          |             |            |            |           |
-| more       |          |             |            |            |           |
-| as         | pei    ? |             |            |            | pei       |
-| less       |          |             |            |            |           |
-| least      |          |             |            |            |           |
-
 ### Numbers
 
 The numbers have a strong influence from the Lojban language and zero was
 already loaned from English or French in post-contact Polynesia.
 
-| English | Faeke | Maori    | Tahitian    | Hawaiian | Samoan        | Lojban |
-| ------- | ----- | -------- | ----------- | -------- | ------------- | ------ |
-| number  | tau   | tau      | ta'u        | helu     | faitau        |        |
-| zero    | gu  ? | kore     | ero         | 'ole     | sero          | no     |
-| one     | ta    | tahi     | tahi        | kahi     | tasi          | pa     |
-| two     | le  ? | rua      | piti        | lua      | lua           | re     |
-| three   | ti  ? | toru     | toru        | kolu     | tolu          | ci     |
-| four    | ko  ? | wha      | maha        | ha       | fa            | vo     |
-| five    | mu  ? | rima     | pae         | lima     | lima          | mu     |
-| six     | na  ? | ono      | ono         | ono      | ono           | xa     |
-| seven   | pe  ? | whitu    | hitu        | hiku     | fitu          | ze     |
-| eight   | fi  ? | waru     | va'u        | walu     | valu          | bi     |
-| nine    | so  ? | iwa      | iva         | iwa      | iva           | so     |
-| point   | hi  ? | ira      |             | kiko     | i'a           | pi     |
+| English | Faeke | Maori | Tahitian | Hawaiian | Samoan | Lojban |
+| ------- | ----- | ----- | -------- | -------- | ------ | ------ |
+| number  | tau   | tau   | ta'u     | helu     | faitau |        |
+| zero    | gu  ? | kore  | ero      | 'ole     | sero   | no     |
+| one     | ta    | tahi  | tahi     | kahi     | tasi   | pa     |
+| two     | le  ? | rua   | piti     | lua      | lua    | re     |
+| three   | ti  ? | toru  | toru     | kolu     | tolu   | ci     |
+| four    | ko  ? | wha   | maha     | ha       | fa     | vo     |
+| five    | mu  ? | rima  | pae      | lima     | lima   | mu     |
+| six     | na  ? | ono   | ono      | ono      | ono    | xa     |
+| seven   | pe  ? | whitu | hitu     | hiku     | fitu   | ze     |
+| eight   | fi  ? | waru  | va'u     | walu     | valu   | bi     |
+| nine    | so  ? | iwa   | iva      | iwa      | iva    | so     |
+| point   | hi  ? | ira   |          | kiko     | i'a    | pi     |
 
 Numbers are prefixed with "tau", for example 42 is "tau-kole" and 1337 is
 "tau-tatitipe".
@@ -252,6 +237,16 @@ Fractional numbers use "i" (on) between the numerator and the denominator as in
 Compounds:
 
 - count: number-number ("tatau" is "count" in Maori while "tautau" is something else)
+
+### Comparison
+
+| English    | Faeke    | Maori       | Tahitian   | Hawaiian   | Samoan    |
+| ---------- | -------- | ----------- | ---------- | ---------- | --------- |
+| most       |          |             |            |            |           |
+| more       |          |             |            |            |           |
+| as         | pei    ? |             |            |            | pei       |
+| less       |          |             |            |            |           |
+| least      |          |             |            |            |           |
 
 ### Modifiers
 
@@ -282,6 +277,12 @@ when associated with "person" but not in Faeke.
 
 The new moon is "new-moon" but the full moon is "fruit-moon".
 
+Compounds:
+
+- shrink: cause-small
+- expand: cause-big
+- improve: cause-good
+
 ### Body
 
 | English    | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan    |
@@ -304,14 +305,13 @@ The new moon is "new-moon" but the full moon is "fruit-moon".
 | cloth      | kahu     | kahu      | ahu        | 'ahu       | ofu       |
 | breath     | ha       | ha        | ha         | ha         |           |
 | sick       | maki     | maki      | ma'i       | ma'i       | ma'i      |
-| stand      | tu       | tu        | tu         | ku         | tu        |
-| sit        | noho     | noho      | noho       | noho       | nofo      |
 | sleep      | moe      | moe       | moe        | moe        | moe       |
 | birth      | fanau    | whanau    | fanau      | hanau      | fanau     |
 | die        | mate     | mate      | mate       | make       | mate      |
 | voice      | leo      | reo       | reo        | leo        | leo       |
 | feel       | kite     | kite      | 'ite       | 'ike       |           |
 | know       | mohio  ? | mohio     | 'ite       | 'ike       | iloa      |
+| attention  | alo      | aro       | aro        | alo        |           |
 
 The word for "person" is genderless in Faeke even if it means "man" or "male"
 in Polynesian. The default gender is neutral. Likewise the word for "sibling"
@@ -423,7 +423,7 @@ Compounds:
 - orange: yellow-red
 - pink: clear-red
 
-### Position Direction
+### Position/Direction
 
 | English    | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan    |
 | ---------- | -------- | --------- | ---------- | ---------- | --------- |
@@ -587,7 +587,7 @@ Compounds:
 - raven: big-dark-bird
 - blackbird: small-dark-bird
 
-### Objects
+### Tech
 
 | English    | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan    |
 | ---------- | -------- | --------- | ---------- | ---------- | --------- |
@@ -608,12 +608,6 @@ Compounds:
 
 Compounds:
 
-- shrink: cause-small
-- expand: cause-big
-- improve: cause-good
-
-Compounds:
-
 - village: house-place
 - city: big-house-place
 - tool: work-thing
@@ -623,7 +617,7 @@ Compounds:
 - program: computer-code
 - pure: not-trash
 
-### Exchange
+### Action
 
 | English    | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan    |
 | ---------- | -------- | --------- | ---------- | ---------- | --------- |
@@ -631,25 +625,31 @@ Compounds:
 | trade      | hoko     | hoko      | ho'o       | kalepa     |           |
 | give       | foaki  ? | hoatu     | horo'a     | ha'awi     | foa'i     |
 | take       | lase   ? | tango     | rave       | lawe       | 'ave      |
+| talk       | lelo   ? | korero    | parau      | 'olelo     | tala      |
+| sit        | noho     | noho      | noho       | noho       | nofo      |
+| stand      | tu       | tu        | tu         | ku         | tu        |
+| become     | lilo     | riro      | riro       | lilo       | liu       |
+
+### Culture
+
+| English    | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan    |
+| ---------- | -------- | --------- | ---------- | ---------- | --------- |
+| correct    | pono     | pono      | pono       | pono       |           |
+| sacred     | tapu     | tapu      | tapu       | kapu       | sa        |
+| free       | noa      | noa       | noa        | noa        | noa       |
+| power      | mana     | mana      | mana       | mana       | mana      |
+| alive      | ola      | ora       | ora        | ola        | ola       |
+| way        | ala      | ara       | ara        | ala        | ala       |
 
 ### Misc
 
 | English    | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan    |
 | ---------- | -------- | --------- | ---------- | ---------- | --------- |
 | name       | igoa     | ingoa     | i'oa       | inoa       | igoa      |
-| talk       | lelo   ? | korero    | parau      | 'olelo     | tala      |
 | sound      | tagi     | tangi     | ta'i       | kani       | tagi      |
-| correct    | pono     | pono      | pono       | pono       |           |
-| sacred     | tapu     | tapu      | tapu       | kapu       | sa        |
-| free       | noa      | noa       | noa        | noa        | noa       |
-| power      | mana     | mana      | mana       | mana       | mana      |
-| alive      | ola      | ora       | ora        | ola        | ola       |
 | reason     | take   ? | take      |            |            |           |
-| way        | ala      | ara       | ara        | ala        | ala       |
 | same       | lite     | rite      | rite       | like       | tutusa    |
 | other      | kehe     | ke        | 'e         | 'e         | ese       |
-| attention  | alo      | aro       | aro        | alo        |           |
-| become     | lilo     | riro      | riro       | lilo       | liu       |
 
 ### Aliases
 

@@ -17,7 +17,7 @@
 "with": "me" # ?
 "the": "te" # ?
 
-# Tense
+# Tense/Aspect/Mood
 "ed": "ni"
 "ing": "ne"
 "will": "ka"
@@ -34,6 +34,14 @@
 "also": "hoki"
 "because": "<from-the-thing>"
 
+# Interogation
+"what": "fa"
+"when": "<what-period>"
+"where": "<what-place>"
+"who": "<what-person>"
+"why": "<what-reason>"
+"how": "<what-way>"
+
 # Quantifiers
 "every": "atoa" # ?
 "some": "ai"
@@ -49,17 +57,6 @@
 "often": "<many-time>"
 "always": "<all-time>"
 
-# Interogation
-"what": "fa"
-"when": "<what-period>"
-"where": "<what-place>"
-"who": "<what-person>"
-"why": "<what-reason>"
-"how": "<what-way>"
-
-# Comparison
-"as": "pei" # ?
-
 # Numbers
 "number": "tau"
 "zero": "gu" # ?
@@ -74,6 +71,9 @@
 "nine": "so" # ?
 "point": "hi" # ?
 "count": "<number-number>"
+
+# Comparison
+"as": "pei" # ?
 
 # Modifiers
 "cause": "faka"
@@ -95,6 +95,9 @@
 "slow": "gese" # ?
 "strong": "paka" # ?
 "weak": "palu" # ?
+"shrink": "<cause-small>"
+"expand": "<cause-big>"
+"improve": "<cause-good>"
 
 # Body
 "person": "tane"
@@ -115,14 +118,13 @@
 "cloth": "kahu"
 "breath": "ha"
 "sick": "maki"
-"stand": "tu"
-"sit": "noho"
 "sleep": "moe"
 "birth": "fanau"
 "die": "mate"
 "voice": "leo"
 "feel": "kite"
 "know": "mohio" # ?
+"attention": "alo"
 "see": "<eye-feel>"
 "hear": "<ear-feel>"
 "smell": "<nose-feel>"
@@ -192,7 +194,7 @@
 "orange": "<yellow-red>"
 "pink": "<clear-red>"
 
-# Position
+# Position/Direction
 "near": "tata"
 "far": "mamao"
 "above": "luga" # ?
@@ -314,7 +316,7 @@
 "raven": "<big-dark-bird>"
 "blackbird": "<small-dark-bird>"
 
-# Objects
+# Tech
 "thing": "mea"
 "house": "fale"
 "refuge": "malu"
@@ -329,9 +331,6 @@
 "break": "fati"
 "scrape": "salu"
 "code": "tohu"
-"shrink": "<cause-small>"
-"expand": "<cause-big>"
-"improve": "<cause-good>"
 "village": "<house-place>"
 "city": "<big-house-place>"
 "tool": "<work-thing>"
@@ -341,27 +340,30 @@
 "program": "<computer-code>"
 "pure": "<not-trash>"
 
-# Exchange
+# Action
 "have": "fai"
 "trade": "hoko"
 "give": "foaki" # ?
 "take": "lase" # ?
-
-# Misc
-"name": "igoa"
 "talk": "lelo" # ?
-"sound": "tagi"
+"sit": "noho"
+"stand": "tu"
+"become": "lilo"
+
+# Culture
 "correct": "pono"
 "sacred": "tapu"
 "free": "noa"
 "power": "mana"
 "alive": "ola"
-"reason": "take" # ?
 "way": "ala"
+
+# Misc
+"name": "igoa"
+"sound": "tagi"
+"reason": "take" # ?
 "same": "lite"
 "other": "kehe"
-"attention": "alo"
-"become": "lilo"
 
 # Aliases
 "hello": "<alive>"
