@@ -116,95 +116,6 @@ Plural pronouns are formed by adding "-all" to the singular form.
 - we: me-all (exclusive)
 - we+: you-me-all (inclusive)
 
-### Verbs
-
-| English    | Faeke    | Maori       | Tahitian   | Hawaiian   | Samoan    |
-| ---------- | -------- | ----------- | ---------- | ---------- | --------- |
-| feel       | kite     | kite        | 'ite       | 'ike       |           |
-| like       | fia    ? | pai         | au         | makemake   | fiafia    |
-| want       | hia    ? | hiahia      | hina'aro   | makemake   | mana'o    |
-| have       | fai      | whai        |            |            | fai       |
-| give       | foaki  ? | hoatu       | horo'a     | ha'awi     | foa'i     |
-| take       | lase   ? | tango       | rave       | lawe       | 'ave      |
-| know       | mohio  ? | mohio       | 'ite       | 'ike       | iloa      |
-| talk       | lelo   ? | korero      | parau      | 'olelo     | tala      |
-| work       | mahi     | mahi        | 'ohipa     | hana       | galue     |
-| search     | kimi     | kimi        | 'imi       | 'imi       |           |
-| become     | lilo     | riro        | riro       | lilo       | liu       |
-| trade      | hoko     | hoko        | ho'o       | kalepa     |           |
-| join       | hono     | hono        | hono       | hono       |           |
-| cut        | koti     | koti        | 'oti       | 'oki       | 'oti      |
-| break      | fati     | whati       | fati       | wahi       |           |
-| scrape     | salu     | waru        | varu       | walu       | valu      |
-| code       | tohu     |             |            |            |           |
-
-Compounds:
-
-- shrink: cause-small
-- expand: cause-big
-- improve: cause-good
-- learn: take-know
-- teach: give-know
-
-### Modifiers
-
-| English    | Faeke    | Maori       | Tahitian   | Hawaiian   | Samoan    |
-| ---------- | -------- | ----------- | ---------- | ---------- | --------- |
-| cause      | faka     | whaka       | fa'a       | ho'o/ha'a  | fa'a      |
-| calm       | malie  ? | marie       | hau        | malie      | malu      |
-| big        | nui      | nui         | rahi/nui   | nui        | tele      |
-| small      | iti      | iti         | iti        | iki        | laiti     |
-| long       | loa      | roa         | roa        | loa        |           |
-| short      | poto     | poto        | poto       | poko       | poto      |
-| good       | pai    ? | pai         | maita'i    | maika'i    | lelei     |
-| bad        | kino     | kino        | 'ino       | 'ino       | 'ino      |
-| hot        | sela   ? | wera        | ahuahu     | wela       | vevela    |
-| warm       | mahana   | mahana      | mahana     | mahana     | mafana    |
-| cold       | maka     | makariri    | mariri     | anuanu     | ma'alili  |
-| new        | hou      | hou         | hou        | hou        | fou       |
-| old        | tahito   | tahito      | tahito     | kahiko     | matua     |
-| wet        | maku     | maku        | ma'u       | ma'u       | susu      |
-| dry        | malo     | maroke      | maro       | malo'o     | mago      |
-| fast       | sase     | tere/wawe   | hiuao/vave | wiki/wawe  | tope/vave |
-| slow       | gese   ? | poturi      | ta'ere     | lohi       | gese      |
-| strong     | paka   ? | pakari      | pa'ari     | pa'a       | ma'a      |
-| weak       | palu   ? | ruhi        | paruparu   | palupalu   | vaivai    |
-
-The words for "old" have negative connotations in their respective languages
-when associated with "person" but not in Faeke.
-
-The new moon is "new-moon" but the full moon is "fruit-moon".
-
-### Comparison
-
-| English    | Faeke    | Maori       | Tahitian   | Hawaiian   | Samoan    |
-| ---------- | -------- | ----------- | ---------- | ---------- | --------- |
-| most       |          |             |            |            |           |
-| more       |          |             |            |            |           |
-| as         | pei    ? |             |            |            | pei       |
-| less       |          |             |            |            |           |
-| least      |          |             |            |            |           |
-
-### Tense Aspect Mood
-
-| English     | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan   |
-| ----------- | -------- | --------- | ---------- | ---------- | -------- |
-| ed          | ni       | i         | i          | i          | na/sa    |
-| ing         | ne       | e ... ana | te ... nei | ke ... nei | 'o lo'o  |
-| will        | ka       | ka        | e          | e          | 'o le 'a |
-| has         | kua      | kua       | 'ua        | ua         | 'ua      |
-| may         | kia      | kia       | 'ia        | e ... 'ana | 'ia      |
-| must        | e        | e         | a          | e          |          |
-
-- Past: "you eat-ed fruit" is "koe kai-ni hua"
-- Progressive: "you eat-ing fruit" is "koe kai-ne hua"
-- Habitual: "you eat fruit" is "koe kai hua"
-- Future: "you will eat fruit" is "koe ka kai hua"
-- Perfective: "you has eat fruit" is "koe kua kai hua"
-- Permissive: "you may eat fruit" is "koe kia kai hua"
-- Imperative: "you must eat fruit" is "koe e kai hua"
-- Prohibitive: "you must not eat fruit" is "koe e kole kai hua"
-
 ### Particles
 
 | English    | Faeke    | Maori    | Tahitian   | Hawaiian   | Samoan    |
@@ -227,6 +138,26 @@ is "matua o koe" which is inalienable because you didn't chose them, but
 Chosing one possession form over the other adds meaning to a sentence, for
 example "house of me" would be "the house where I live" while "house by me"
 would be "the house that I built".
+
+### Tense Aspect Mood
+
+| English     | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan   |
+| ----------- | -------- | --------- | ---------- | ---------- | -------- |
+| ed          | ni       | i         | i          | i          | na/sa    |
+| ing         | ne       | e ... ana | te ... nei | ke ... nei | 'o lo'o  |
+| will        | ka       | ka        | e          | e          | 'o le 'a |
+| has         | kua      | kua       | 'ua        | ua         | 'ua      |
+| may         | kia      | kia       | 'ia        | e ... 'ana | 'ia      |
+| must        | e        | e         | a          | e          |          |
+
+- Past: "you eat-ed fruit" is "koe kai-ni hua"
+- Progressive: "you eat-ing fruit" is "koe kai-ne hua"
+- Habitual: "you eat fruit" is "koe kai hua"
+- Future: "you will eat fruit" is "koe ka kai hua"
+- Perfective: "you has eat fruit" is "koe kua kai hua"
+- Permissive: "you may eat fruit" is "koe kia kai hua"
+- Imperative: "you must eat fruit" is "koe e kai hua"
+- Prohibitive: "you must not eat fruit" is "koe e kole kai hua"
 
 ### Conjunction
 
@@ -279,6 +210,16 @@ Compounds:
 - why: what-reason
 - how: what-way
 
+### Comparison
+
+| English    | Faeke    | Maori       | Tahitian   | Hawaiian   | Samoan    |
+| ---------- | -------- | ----------- | ---------- | ---------- | --------- |
+| most       |          |             |            |            |           |
+| more       |          |             |            |            |           |
+| as         | pei    ? |             |            |            | pei       |
+| less       |          |             |            |            |           |
+| least      |          |             |            |            |           |
+
 ### Numbers
 
 The numbers have a strong influence from the Lojban language and zero was
@@ -312,6 +253,150 @@ Compounds:
 
 - count: number-number ("tatau" is "count" in Maori while "tautau" is something else)
 
+### Modifiers
+
+| English    | Faeke    | Maori       | Tahitian   | Hawaiian   | Samoan    |
+| ---------- | -------- | ----------- | ---------- | ---------- | --------- |
+| cause      | faka     | whaka       | fa'a       | ho'o/ha'a  | fa'a      |
+| calm       | malie  ? | marie       | hau        | malie      | malu      |
+| big        | nui      | nui         | rahi/nui   | nui        | tele      |
+| small      | iti      | iti         | iti        | iki        | laiti     |
+| long       | loa      | roa         | roa        | loa        |           |
+| short      | poto     | poto        | poto       | poko       | poto      |
+| good       | pai    ? | pai         | maita'i    | maika'i    | lelei     |
+| bad        | kino     | kino        | 'ino       | 'ino       | 'ino      |
+| hot        | sela   ? | wera        | ahuahu     | wela       | vevela    |
+| warm       | mahana   | mahana      | mahana     | mahana     | mafana    |
+| cold       | maka     | makariri    | mariri     | anuanu     | ma'alili  |
+| new        | hou      | hou         | hou        | hou        | fou       |
+| old        | tahito   | tahito      | tahito     | kahiko     | matua     |
+| wet        | maku     | maku        | ma'u       | ma'u       | susu      |
+| dry        | malo     | maroke      | maro       | malo'o     | mago      |
+| fast       | sase     | tere/wawe   | hiuao/vave | wiki/wawe  | tope/vave |
+| slow       | gese   ? | poturi      | ta'ere     | lohi       | gese      |
+| strong     | paka   ? | pakari      | pa'ari     | pa'a       | ma'a      |
+| weak       | palu   ? | ruhi        | paruparu   | palupalu   | vaivai    |
+
+The words for "old" have negative connotations in their respective languages
+when associated with "person" but not in Faeke.
+
+The new moon is "new-moon" but the full moon is "fruit-moon".
+
+### Body
+
+| English    | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan    |
+| ---------- | -------- | --------- | ---------- | ---------- | --------- |
+| person     | tane     | tane      | tane       | kane       | tane      |
+| body       | tino     | tinana    | tino       | kino       | tino      |
+| foot       | sae      | wae       | 'avae      | wawae      | vae       |
+| eye        | mata     | karu      | mata       | maka       | mata      |
+| ear        | taliga   | taringa   | tari'a     | pepeiao    | taliga    |
+| nose       | ihu      | ihu       | ihu        | ihu        | isu       |
+| mouth      | saha     | waha      | vaha       | waha       | gutu      |
+| blood      | toto     | toto      | toto       | koko       | toto      |
+| meat       | kiko     | kiko      | 'i'o       | 'i'o       | 'i'o      |
+| bone       | isi      | iwi       | ivi        | iwi        | ivi       |
+| fat        | hinu     | hinu      | hinu       |            |           |
+| brain      | lolo     | roro      | roro       | lolo       |           |
+| head       | poko     | upoko     | upo'o      | po'o       |           |
+| hair       | hulu     | huru      | huruhuru   | hulu       | ulu       |
+| skin       | kili     | kiri      | 'iri       | 'ili       | pa'u      |
+| cloth      | kahu     | kahu      | ahu        | 'ahu       | ofu       |
+| breath     | ha       | ha        | ha         | ha         |           |
+| sick       | maki     | maki      | ma'i       | ma'i       | ma'i      |
+| stand      | tu       | tu        | tu         | ku         | tu        |
+| sit        | noho     | noho      | noho       | noho       | nofo      |
+| sleep      | moe      | moe       | moe        | moe        | moe       |
+| birth      | fanau    | whanau    | fanau      | hanau      | fanau     |
+| die        | mate     | mate      | mate       | make       | mate      |
+| voice      | leo      | reo       | reo        | leo        | leo       |
+| feel       | kite     | kite      | 'ite       | 'ike       |           |
+| know       | mohio  ? | mohio     | 'ite       | 'ike       | iloa      |
+
+The word for "person" is genderless in Faeke even if it means "man" or "male"
+in Polynesian. The default gender is neutral. Likewise the word for "sibling"
+mean all siblings and not just younger siblings of the same gender.
+
+Compounds:
+
+- see: eye-feel
+- hear: ear-feel
+- smell: nose-feel
+- taste: mouth-feel
+- touch: skin-feel
+- balance: inside-ear-feel
+- awareness: brain-feel
+- consciousness: inside-feel
+- mindfulness: long-attention
+- meditate: cause-long-attention
+- metacognition: cause-attention-attention
+- think: cause-attention
+- show: cause-feel
+- dream: sleep-sleep ("moemoea" is "dream" in Tahitian, Hawaiian, and Maori)
+- learn: take-know
+- teach: give-know
+
+### Relations
+
+| English    | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan    |
+| ---------- | -------- | --------- | ---------- | ---------- | --------- |
+| child      | tama     | tama      | tama       | kama       | tama      |
+| parent     | matua    | matua     | metua      | makua      | matua     |
+| sibling    | teina    | teina     | teina      | kaina      |           |
+| friend     | hoa      | hoa       | hoa        | hoa        | uo        |
+| chief      | aliki    | ariki     | ari'i      | ali'i      | ali'i     |
+
+Compounds:
+
+- together: with-all
+- harmony: one-together
+
+### Food
+
+| English    | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan    |
+| ---------- | -------- | --------- | ---------- | ---------- | --------- |
+| eat        | kai      | kai       | 'ai/'amu   | 'ai        | 'ai       |
+| cook       | tao      | tao       | tao        | kalua      | tao       |
+| ingest     | holo     | horo      | horo       | ale        | folo      |
+| bread      | fala     | paraoa    | faraoa     | palaoa     | falaoa    |
+| bitter     | kasa     | kawa      | 'ava       | 'awa       | 'ava      |
+
+Compounds:
+
+- meal: eat-period
+
+- breakfast: one-meal
+- lunch: two-meal
+- dinner: three-meal
+
+- recipe: cook-code
+
+### Emotions
+
+| English    | Faeke    | Maori        | Tahitian   | Hawaiian   | Samoan    |
+| ---------- | -------- | ------------ | ---------- | ---------- | --------- |
+| joy        | koa      | koakoa       | 'oa'oa     | 'oli       | 'oli'oli  |
+| sadness    | koto   ? | pouri        | 'oto       |            |           |
+| anger      | lili     | riri         | riri       | huhu       | ita       |
+| disgust    | liha   ? | rihariha     | ri'ari'a   | inaina     | 'ino'ino  |
+| fear       | mataku   | mataku       | mata'u     | maka'u     | mata'u    |
+| surprise   | oho      | oho          | maere      | pu'iwa     | ofo       |
+| desire     | manako   | manako       | mana'o     | mana'o     | mana'o    |
+| like       | fia    ? | pai          | au         | makemake   | fiafia    |
+| want       | hia    ? | hiahia       | hina'aro   | makemake   | mana'o    |
+
+Compounds:
+
+- trust: cause-correct
+- ecstasy: strong-joy
+- serenity: weak-joy
+- rage: strong-anger
+- annoyance: weak-anger
+- terror: strong-fear
+- apprehension: weak-fear
+- amazement: strong-surprise
+- distraction: weak-surprise
+
 ### Colors
 
 | English    | Faeke    | Maori        | Tahitian   | Hawaiian   | Samoan    |
@@ -337,30 +422,6 @@ Compounds:
 - blue: sky-color
 - orange: yellow-red
 - pink: clear-red
-
-### Emotions
-
-| English    | Faeke    | Maori        | Tahitian   | Hawaiian   | Samoan    |
-| ---------- | -------- | ------------ | ---------- | ---------- | --------- |
-| joy        | koa      | koakoa       | 'oa'oa     | 'oli       | 'oli'oli  |
-| sadness    | koto   ? | pouri        | 'oto       |            |           |
-| anger      | lili     | riri         | riri       | huhu       | ita       |
-| disgust    | liha   ? | rihariha     | ri'ari'a   | inaina     | 'ino'ino  |
-| desire     | manako   | manako       | mana'o     | mana'o     | mana'o    |
-| fear       | mataku   | mataku       | mata'u     | maka'u     | mata'u    |
-| surprise   | oho      | oho          | maere      | pu'iwa     | ofo       |
-
-Compounds:
-
-- trust: cause-correct
-- ecstasy: strong-joy
-- serenity: weak-joy
-- rage: strong-anger
-- annoyance: weak-anger
-- terror: strong-fear
-- apprehension: weak-fear
-- amazement: strong-surprise
-- distraction: weak-surprise
 
 ### Position Direction
 
@@ -430,6 +491,7 @@ Compounds:
 | wait       | tali     | taritari  | tatari     | kali       | tali      |
 | stay       | mau      | mau       | mau        | mau        | mau       |
 | drift      | pae      | pae       | pae        | pae        |           |
+| search     | kimi     | kimi      | 'imi       | 'imi       |           |
 
 Compounds:
 
@@ -525,91 +587,6 @@ Compounds:
 - raven: big-dark-bird
 - blackbird: small-dark-bird
 
-### Food
-
-| English    | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan    |
-| ---------- | -------- | --------- | ---------- | ---------- | --------- |
-| eat        | kai      | kai       | 'ai/'amu   | 'ai        | 'ai       |
-| cook       | tao      | tao       | tao        | kalua      | tao       |
-| ingest     | holo     | horo      | horo       | ale        | folo      |
-| bread      | fala     | paraoa    | faraoa     | palaoa     | falaoa    |
-| bitter     | kasa     | kawa      | 'ava       | 'awa       | 'ava      |
-
-Compounds:
-
-- meal: eat-period
-
-- breakfast: one-meal
-- lunch: two-meal
-- dinner: three-meal
-
-- recipe: cook-code
-
-### Relations
-
-| English    | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan    |
-| ---------- | -------- | --------- | ---------- | ---------- | --------- |
-| child      | tama     | tama      | tama       | kama       | tama      |
-| parent     | matua    | matua     | metua      | makua      | matua     |
-| sibling    | teina    | teina     | teina      | kaina      |           |
-| friend     | hoa      | hoa       | hoa        | hoa        | uo        |
-| chief      | aliki    | ariki     | ari'i      | ali'i      | ali'i     |
-
-Compounds:
-
-- together: with-all
-- harmony: one-together
-
-### Body
-
-| English    | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan    |
-| ---------- | -------- | --------- | ---------- | ---------- | --------- |
-| person     | tane     | tane      | tane       | kane       | tane      |
-| body       | tino     | tinana    | tino       | kino       | tino      |
-| foot       | sae      | wae       | 'avae      | wawae      | vae       |
-| eye        | mata     | karu      | mata       | maka       | mata      |
-| ear        | taliga   | taringa   | tari'a     | pepeiao    | taliga    |
-| nose       | ihu      | ihu       | ihu        | ihu        | isu       |
-| mouth      | saha     | waha      | vaha       | waha       | gutu      |
-| blood      | toto     | toto      | toto       | koko       | toto      |
-| meat       | kiko     | kiko      | 'i'o       | 'i'o       | 'i'o      |
-| bone       | isi      | iwi       | ivi        | iwi        | ivi       |
-| fat        | hinu     | hinu      | hinu       |            |           |
-| brain      | lolo     | roro      | roro       | lolo       |           |
-| head       | poko     | upoko     | upo'o      | po'o       |           |
-| hair       | hulu     | huru      | huruhuru   | hulu       | ulu       |
-| skin       | kili     | kiri      | 'iri       | 'ili       | pa'u      |
-| cloth      | kahu     | kahu      | ahu        | 'ahu       | ofu       |
-| breath     | ha       | ha        | ha         | ha         |           |
-| sick       | maki     | maki      | ma'i       | ma'i       | ma'i      |
-| stand      | tu       | tu        | tu         | ku         | tu        |
-| sit        | noho     | noho      | noho       | noho       | nofo      |
-| sleep      | moe      | moe       | moe        | moe        | moe       |
-| birth      | fanau    | whanau    | fanau      | hanau      | fanau     |
-| die        | mate     | mate      | mate       | make       | mate      |
-| voice      | leo      | reo       | reo        | leo        | leo       |
-
-The word for "person" is genderless in Faeke even if it means "man" or "male"
-in Polynesian. The default gender is neutral. Likewise the word for "sibling"
-mean all siblings and not just younger siblings of the same gender.
-
-Compounds:
-
-- see: eye-feel
-- hear: ear-feel
-- smell: nose-feel
-- taste: mouth-feel
-- touch: skin-feel
-- balance: inside-ear-feel
-- awareness: brain-feel
-- consciousness: inside-feel
-- mindfulness: long-attention
-- meditate: cause-long-attention
-- metacognition: cause-attention-attention
-- think: cause-attention
-- show: cause-feel
-- dream: sleep-sleep ("moemoea" is "dream" in Tahitian, Hawaiian, and Maori)
-
 ### Objects
 
 | English    | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan    |
@@ -622,6 +599,22 @@ Compounds:
 | bed        | moega    | moenga    | moea       | moena      | moega     |
 | net        | hao    ? | hao       | hao        |            |           |
 | trash      | pala     | para      |            | 'opala     |           |
+| have       | fai      | whai      |            |            | fai       |
+| give       | foaki  ? | hoatu     | horo'a     | ha'awi     | foa'i     |
+| take       | lase   ? | tango     | rave       | lawe       | 'ave      |
+| work       | mahi     | mahi      | 'ohipa     | hana       | galue     |
+| trade      | hoko     | hoko      | ho'o       | kalepa     |           |
+| join       | hono     | hono      | hono       | hono       |           |
+| cut        | koti     | koti      | 'oti       | 'oki       | 'oti      |
+| break      | fati     | whati     | fati       | wahi       |           |
+| scrape     | salu     | waru      | varu       | walu       | valu      |
+| code       | tohu     |           |            |            |           |
+
+Compounds:
+
+- shrink: cause-small
+- expand: cause-big
+- improve: cause-good
 
 Compounds:
 
@@ -638,6 +631,8 @@ Compounds:
 
 | English    | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan    |
 | ---------- | -------- | --------- | ---------- | ---------- | --------- |
+| talk       | lelo   ? | korero    | parau      | 'olelo     | tala      |
+| become     | lilo     | riro      | riro       | lilo       | liu       |
 | name       | igoa     | ingoa     | i'oa       | inoa       | igoa      |
 | sound      | tagi     | tangi     | ta'i       | kani       | tagi      |
 | correct    | pono     | pono      | pono       | pono       |           |
@@ -651,7 +646,7 @@ Compounds:
 | other      | kehe     | ke        | 'e         | 'e         | ese       |
 | attention  | alo      | aro       | aro        | alo        |           |
 
-### Synonyms
+### Aliases
 
 - hello: alive
 - food: eat
