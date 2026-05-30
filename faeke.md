@@ -599,11 +599,7 @@ Compounds:
 | bed        | moega    | moenga    | moea       | moena      | moega     |
 | net        | hao    ? | hao       | hao        |            |           |
 | trash      | pala     | para      |            | 'opala     |           |
-| have       | fai      | whai      |            |            | fai       |
-| give       | foaki  ? | hoatu     | horo'a     | ha'awi     | foa'i     |
-| take       | lase   ? | tango     | rave       | lawe       | 'ave      |
 | work       | mahi     | mahi      | 'ohipa     | hana       | galue     |
-| trade      | hoko     | hoko      | ho'o       | kalepa     |           |
 | join       | hono     | hono      | hono       | hono       |           |
 | cut        | koti     | koti      | 'oti       | 'oki       | 'oti      |
 | break      | fati     | whati     | fati       | wahi       |           |
@@ -627,13 +623,21 @@ Compounds:
 - program: computer-code
 - pure: not-trash
 
+### Exchange
+
+| English    | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan    |
+| ---------- | -------- | --------- | ---------- | ---------- | --------- |
+| have       | fai      | whai      |            |            | fai       |
+| trade      | hoko     | hoko      | ho'o       | kalepa     |           |
+| give       | foaki  ? | hoatu     | horo'a     | ha'awi     | foa'i     |
+| take       | lase   ? | tango     | rave       | lawe       | 'ave      |
+
 ### Misc
 
 | English    | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan    |
 | ---------- | -------- | --------- | ---------- | ---------- | --------- |
-| talk       | lelo   ? | korero    | parau      | 'olelo     | tala      |
-| become     | lilo     | riro      | riro       | lilo       | liu       |
 | name       | igoa     | ingoa     | i'oa       | inoa       | igoa      |
+| talk       | lelo   ? | korero    | parau      | 'olelo     | tala      |
 | sound      | tagi     | tangi     | ta'i       | kani       | tagi      |
 | correct    | pono     | pono      | pono       | pono       |           |
 | sacred     | tapu     | tapu      | tapu       | kapu       | sa        |
@@ -645,6 +649,7 @@ Compounds:
 | same       | lite     | rite      | rite       | like       | tutusa    |
 | other      | kehe     | ke        | 'e         | 'e         | ese       |
 | attention  | alo      | aro       | aro        | alo        |           |
+| become     | lilo     | riro      | riro       | lilo       | liu       |
 
 ### Aliases
 

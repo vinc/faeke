@@ -8,62 +8,6 @@
 "we": "<me-all>"
 "we+": "<you-me-all>"
 
-# Verbs
-"feel": "kite"
-"like": "fia" # ?
-"want": "hia" # ?
-"have": "fai"
-"give": "foaki" # ?
-"take": "lase" # ?
-"know": "mohio" # ?
-"talk": "lelo" # ?
-"work": "mahi"
-"search": "kimi"
-"become": "lilo"
-"trade": "hoko"
-"join": "hono"
-"cut": "koti"
-"break": "fati"
-"scrape": "salu"
-"code": "tohu"
-"shrink": "<cause-small>"
-"expand": "<cause-big>"
-"improve": "<cause-good>"
-"learn": "<take-know>"
-"teach": "<give-know>"
-
-# Modifiers
-"cause": "faka"
-"calm": "malie" # ?
-"big": "nui"
-"small": "iti"
-"long": "loa"
-"short": "poto"
-"good": "pai" # ?
-"bad": "kino"
-"hot": "sela" # ?
-"warm": "mahana"
-"cold": "maka"
-"new": "hou"
-"old": "tahito"
-"wet": "maku"
-"dry": "malo"
-"fast": "sase"
-"slow": "gese" # ?
-"strong": "paka" # ?
-"weak": "palu" # ?
-
-# Comparison
-"as": "pei" # ?
-
-# Tense
-"ed": "ni"
-"ing": "ne"
-"will": "ka"
-"has": "kua"
-"may": "kia"
-"must": "e"
-
 # Particles
 "on": "i"
 "by": "a"
@@ -72,6 +16,14 @@
 "for": "mo"
 "with": "me" # ?
 "the": "te" # ?
+
+# Tense
+"ed": "ni"
+"ing": "ne"
+"will": "ka"
+"has": "kua"
+"may": "kia"
+"must": "e"
 
 # Conjunction
 "not": "kole"
@@ -105,6 +57,9 @@
 "why": "<what-reason>"
 "how": "<what-way>"
 
+# Comparison
+"as": "pei" # ?
+
 # Numbers
 "number": "tau"
 "zero": "gu" # ?
@@ -120,6 +75,112 @@
 "point": "hi" # ?
 "count": "<number-number>"
 
+# Modifiers
+"cause": "faka"
+"calm": "malie" # ?
+"big": "nui"
+"small": "iti"
+"long": "loa"
+"short": "poto"
+"good": "pai" # ?
+"bad": "kino"
+"hot": "sela" # ?
+"warm": "mahana"
+"cold": "maka"
+"new": "hou"
+"old": "tahito"
+"wet": "maku"
+"dry": "malo"
+"fast": "sase"
+"slow": "gese" # ?
+"strong": "paka" # ?
+"weak": "palu" # ?
+
+# Body
+"person": "tane"
+"body": "tino"
+"foot": "sae"
+"eye": "mata"
+"ear": "taliga"
+"nose": "ihu"
+"mouth": "saha"
+"blood": "toto"
+"meat": "kiko"
+"bone": "isi"
+"fat": "hinu"
+"brain": "lolo"
+"head": "poko"
+"hair": "hulu"
+"skin": "kili"
+"cloth": "kahu"
+"breath": "ha"
+"sick": "maki"
+"stand": "tu"
+"sit": "noho"
+"sleep": "moe"
+"birth": "fanau"
+"die": "mate"
+"voice": "leo"
+"feel": "kite"
+"know": "mohio" # ?
+"see": "<eye-feel>"
+"hear": "<ear-feel>"
+"smell": "<nose-feel>"
+"taste": "<mouth-feel>"
+"touch": "<skin-feel>"
+"balance": "<inside-ear-feel>"
+"awareness": "<brain-feel>"
+"consciousness": "<inside-feel>"
+"mindfulness": "<long-attention>"
+"meditate": "<cause-long-attention>"
+"metacognition": "<cause-attention-attention>"
+"think": "<cause-attention>"
+"show": "<cause-feel>"
+"dream": "<sleep-sleep>"
+"learn": "<take-know>"
+"teach": "<give-know>"
+
+# Relations
+"child": "tama"
+"parent": "matua"
+"sibling": "teina"
+"friend": "hoa"
+"chief": "aliki"
+"together": "<with-all>"
+"harmony": "<one-together>"
+
+# Food
+"eat": "kai"
+"cook": "tao"
+"ingest": "holo"
+"bread": "fala"
+"bitter": "kasa"
+"meal": "<eat-period>"
+"breakfast": "<one-meal>"
+"lunch": "<two-meal>"
+"dinner": "<three-meal>"
+"recipe": "<cook-code>"
+
+# Emotions
+"joy": "koa"
+"sadness": "koto" # ?
+"anger": "lili"
+"disgust": "liha" # ?
+"fear": "mataku"
+"surprise": "oho"
+"desire": "manako"
+"like": "fia" # ?
+"want": "hia" # ?
+"trust": "<cause-correct>"
+"ecstasy": "<strong-joy>"
+"serenity": "<weak-joy>"
+"rage": "<strong-anger>"
+"annoyance": "<weak-anger>"
+"terror": "<strong-fear>"
+"apprehension": "<weak-fear>"
+"amazement": "<strong-surprise>"
+"distraction": "<weak-surprise>"
+
 # Colors
 "color": "tae"
 "clear": "tea"
@@ -130,24 +191,6 @@
 "blue": "<sky-color>"
 "orange": "<yellow-red>"
 "pink": "<clear-red>"
-
-# Emotions
-"joy": "koa"
-"sadness": "koto" # ?
-"anger": "lili"
-"disgust": "liha" # ?
-"desire": "manako"
-"fear": "mataku"
-"surprise": "oho"
-"trust": "<cause-correct>"
-"ecstasy": "<strong-joy>"
-"serenity": "<weak-joy>"
-"rage": "<strong-anger>"
-"annoyance": "<weak-anger>"
-"terror": "<strong-fear>"
-"apprehension": "<weak-fear>"
-"amazement": "<strong-surprise>"
-"distraction": "<weak-surprise>"
 
 # Position
 "near": "tata"
@@ -201,6 +244,7 @@
 "wait": "tali"
 "stay": "mau"
 "drift": "pae"
+"search": "kimi"
 "here": "<this-place>"
 "there": "<that-place>"
 "come": "<go-toward>"
@@ -270,67 +314,6 @@
 "raven": "<big-dark-bird>"
 "blackbird": "<small-dark-bird>"
 
-# Food
-"eat": "kai"
-"cook": "tao"
-"ingest": "holo"
-"bread": "fala"
-"bitter": "kasa"
-"meal": "<eat-period>"
-"breakfast": "<one-meal>"
-"lunch": "<two-meal>"
-"dinner": "<three-meal>"
-"recipe": "<cook-code>"
-
-# Relations
-"child": "tama"
-"parent": "matua"
-"sibling": "teina"
-"friend": "hoa"
-"chief": "aliki"
-"together": "<with-all>"
-"harmony": "<one-together>"
-
-# Body
-"person": "tane"
-"body": "tino"
-"foot": "sae"
-"eye": "mata"
-"ear": "taliga"
-"nose": "ihu"
-"mouth": "saha"
-"blood": "toto"
-"meat": "kiko"
-"bone": "isi"
-"fat": "hinu"
-"brain": "lolo"
-"head": "poko"
-"hair": "hulu"
-"skin": "kili"
-"cloth": "kahu"
-"breath": "ha"
-"sick": "maki"
-"stand": "tu"
-"sit": "noho"
-"sleep": "moe"
-"birth": "fanau"
-"die": "mate"
-"voice": "leo"
-"see": "<eye-feel>"
-"hear": "<ear-feel>"
-"smell": "<nose-feel>"
-"taste": "<mouth-feel>"
-"touch": "<skin-feel>"
-"balance": "<inside-ear-feel>"
-"awareness": "<brain-feel>"
-"consciousness": "<inside-feel>"
-"mindfulness": "<long-attention>"
-"meditate": "<cause-long-attention>"
-"metacognition": "<cause-attention-attention>"
-"think": "<cause-attention>"
-"show": "<cause-feel>"
-"dream": "<sleep-sleep>"
-
 # Objects
 "thing": "mea"
 "house": "fale"
@@ -340,6 +323,15 @@
 "bed": "moega"
 "net": "hao" # ?
 "trash": "pala"
+"work": "mahi"
+"join": "hono"
+"cut": "koti"
+"break": "fati"
+"scrape": "salu"
+"code": "tohu"
+"shrink": "<cause-small>"
+"expand": "<cause-big>"
+"improve": "<cause-good>"
 "village": "<house-place>"
 "city": "<big-house-place>"
 "tool": "<work-thing>"
@@ -349,8 +341,15 @@
 "program": "<computer-code>"
 "pure": "<not-trash>"
 
+# Exchange
+"have": "fai"
+"trade": "hoko"
+"give": "foaki" # ?
+"take": "lase" # ?
+
 # Misc
 "name": "igoa"
+"talk": "lelo" # ?
 "sound": "tagi"
 "correct": "pono"
 "sacred": "tapu"
@@ -362,6 +361,7 @@
 "same": "lite"
 "other": "kehe"
 "attention": "alo"
+"become": "lilo"
 
 # Aliases
 "hello": "<alive>"
