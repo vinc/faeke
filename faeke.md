@@ -143,6 +143,7 @@ would be "the house that I built".
 | will        | ka       | ka        | e          | e          | 'o le 'a |
 | has         | kua      | kua       | 'ua        | ua         | 'ua      |
 | may         | kia      | kia       | 'ia        | e ... 'ana | 'ia      |
+| can         | hiki     |           |            | hiki       |          |
 | must        | e        | e         | a          | e          |          |
 
 - Past: "you eat-ed fruit" is "koe kai-ni hua"
@@ -271,6 +272,8 @@ Compounds:
 | slow       | gese   ? | poturi      | ta'ere     | lohi       | gese      |
 | strong     | paka   ? | pakari      | pa'ari     | pa'a       | ma'a      |
 | weak       | palu   ? | ruhi        | paruparu   | palupalu   | vaivai    |
+| full       | piha   ? | ki          | 'i         | piha       | atoa      |
+| empty      | sese   ? | kau         | veve       | hakahaka   | gaogao    |
 
 The words for "old" have negative connotations in their respective languages
 when associated with "person" but not in Faeke.
@@ -308,6 +311,7 @@ Compounds:
 | sleep      | moe      | moe       | moe        | moe        | moe       |
 | birth      | fanau    | whanau    | fanau      | hanau      | fanau     |
 | die        | mate     | mate      | mate       | make       | mate      |
+| pain       | mamae    | mamae     | mamae      |            |           |
 | voice      | leo      | reo       | reo        | leo        | leo       |
 | feel       | kite     | kite      | 'ite       | 'ike       |           |
 | know       | mohio  ? | mohio     | 'ite       | 'ike       | iloa      |
@@ -540,6 +544,7 @@ Compound:
 
 - forest: tree-place
 - meadow: wild-grass-place
+- wilderness: wild-place
 - saltwater: coast-water
 
 ### Flora
@@ -597,6 +602,7 @@ Compounds:
 | pole       | toko     | toko      | to'o       | ko'o       | toko      |
 | boat       | saka     | waka      | va'a       | wa'a       | vaa       |
 | bed        | moega    | moenga    | moea       | moena      | moega     |
+| container  | ipu      | ipu       | ipu        | ipu        | ipu       |
 | net        | hao    ? | hao       | hao        |            |           |
 | trash      | pala     | para      |            | 'opala     |           |
 | work       | mahi     | mahi      | 'ohipa     | hana       | galue     |
@@ -666,6 +672,7 @@ justice: correct-power
 - language: voice
 - tribe: bone
 - exist: stand
+- dwell: sit
 - walk: move
 - num: number
 - 0: zero

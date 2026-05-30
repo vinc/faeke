@@ -23,6 +23,7 @@
 "will": "ka"
 "has": "kua"
 "may": "kia"
+"can": "hiki"
 "must": "e"
 
 # Conjunction
@@ -95,6 +96,8 @@
 "slow": "gese" # ?
 "strong": "paka" # ?
 "weak": "palu" # ?
+"full": "piha" # ?
+"empty": "sese" # ?
 "shrink": "<cause-small>"
 "expand": "<cause-big>"
 "improve": "<cause-good>"
@@ -121,6 +124,7 @@
 "sleep": "moe"
 "birth": "fanau"
 "die": "mate"
+"pain": "mamae"
 "voice": "leo"
 "feel": "kite"
 "know": "mohio" # ?
@@ -281,6 +285,7 @@
 "reserve": "lahui"
 "forest": "<tree-place>"
 "meadow": "<wild-grass-place>"
+"wilderness": "<wild-place>"
 "saltwater": "<coast-water>"
 
 # Flora
@@ -323,6 +328,7 @@
 "pole": "toko"
 "boat": "saka"
 "bed": "moega"
+"container": "ipu"
 "net": "hao" # ?
 "trash": "pala"
 "work": "mahi"
@@ -375,6 +381,7 @@
 "language": "<voice>"
 "tribe": "<bone>"
 "exist": "<stand>"
+"dwell": "<sit>"
 "walk": "<move>"
 "num": "<number>"
 "0": "<zero>"
