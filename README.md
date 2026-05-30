@@ -16,8 +16,8 @@ and [Maori][7]).
 It is an experimental creole for worldbuilding around a solarpunk future where
 humanity lives across the solar system in balance with technology and nature.
 Inspired by Polynesian wayfinding and concepts like rahui and mana, it tries to
-encode values of simplicity, sustainability, and coexistence with the living
-world.
+encode values of simplicity, sustainability, and coexistence with the
+environment.
 
 Read the complete [language documentation](faeke.md).
 

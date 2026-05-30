@@ -331,6 +331,8 @@
 "break": "fati"
 "scrape": "salu"
 "code": "tohu"
+"energy": "gao" # ?
+"garden": "mala"
 "village": "<house-place>"
 "city": "<big-house-place>"
 "tool": "<work-thing>"
@@ -339,6 +341,7 @@
 "computer": "<lightning-brain>"
 "program": "<computer-code>"
 "pure": "<not-trash>"
+"renewable": "<cause-new>"
 
 # Action
 "have": "fai"

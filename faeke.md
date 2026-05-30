@@ -20,8 +20,8 @@ and [Maori][7]).
 It is an experimental creole for worldbuilding around a solarpunk future where
 humanity lives across the solar system in balance with technology and nature.
 Inspired by Polynesian wayfinding and concepts like rahui and mana, it tries to
-encode values of simplicity, sustainability, and coexistence with the living
-world.
+encode values of simplicity, sustainability, and coexistence with the
+environment.
 
     au fia fakaalone (ma                    I like to think (and
     te aketatakesa te akepai!)              the sooner the better!)
@@ -605,6 +605,8 @@ Compounds:
 | break      | fati     | whati     | fati       | wahi       |           |
 | scrape     | salu     | waru      | varu       | walu       | valu      |
 | code       | tohu     |           |            |            |           |
+| energy     | gao    ? | ngao      | ito        | ikehu      |           |
+| garden     | mala     | mara      | 'aua       | mala       |           |
 
 Compounds:
 
@@ -616,6 +618,7 @@ Compounds:
 - computer: lightning-brain
 - program: computer-code
 - pure: not-trash
+- renewable: cause-new
 
 ### Action
 
@@ -640,6 +643,10 @@ Compounds:
 | power      | mana     | mana      | mana       | mana       | mana      |
 | alive      | ola      | ora       | ora        | ola        | ola       |
 | way        | ala      | ara       | ara        | ala        | ala       |
+
+Compound:
+
+justice: correct-power
 
 ### Misc
 
