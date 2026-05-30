@@ -440,6 +440,13 @@ respectively.
 | fowl       | moa      | moa       | moa        | moa        | moa       |
 | pig        | puaka    | poaka     | pua'a      | pua'a      | pua'a     |
 | dog        | kuli     | kuri      | 'uri       | 'ilio      | maile     |
+| cat        | feli   ? | ngeru     | pusi       | popoki     | pusi      |
+| cow        | posi   ? | kau       | puaatoro   | pipi       | povi      |
+| deer       | sesi   ? | tia       |            |            |           |
+| rabbit     | lepu   ? | rapeti    |            | lapaki     | lapiti    |
+| rat        | kiole    | kiore     | 'iore      | 'iole      |           |
+| snake      | gata   ? | neke      |            |            | gata      |
+| lizard     | moko     | moko      | mo'o       | mo'o       | mo'o      |
 | bitter     | kasa     | kawa      | 'ava       | 'awa       | 'ava      |
 | sick       | maki     | maki      | ma'i       | ma'i       | ma'i      |
 | bed        | moega    | moenga    | moea       | moena      | moega     |
@@ -555,7 +562,13 @@ it can be used in the compounds "sun-light", "fire-light", and
 - forest: tree-wilderness
 - meadow: grass-wilderness
 - saltwater: coast-water
+- seal: ocean-dog
 - fox: fire-dog
+- bear: fat-dog
+- wolf: wilderness-dog
+- owl: night-bird
+- raven: big-dark-bird
+- blackbird: small-dark-bird
 - together: with-all
 - harmony: one-together
 - soon: near-now

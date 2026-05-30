@@ -237,6 +237,13 @@
 "fowl": "moa"
 "pig": "puaka"
 "dog": "kuli"
+"cat": "feli" # ?
+"cow": "posi" # ?
+"deer": "sesi" # ?
+"rabbit": "lepu" # ?
+"rat": "kiole"
+"snake": "gata" # ?
+"lizard": "moko"
 "bitter": "kasa"
 "sick": "maki"
 "bed": "moega"
@@ -327,7 +334,13 @@
 "forest": "<tree-wilderness>"
 "meadow": "<grass-wilderness>"
 "saltwater": "<coast-water>"
+"seal": "<ocean-dog>"
 "fox": "<fire-dog>"
+"bear": "<fat-dog>"
+"wolf": "<wilderness-dog>"
+"owl": "<night-bird>"
+"raven": "<big-dark-bird>"
+"blackbird": "<small-dark-bird>"
 "together": "<with-all>"
 "harmony": "<one-together>"
 "soon": "<near-now>"
