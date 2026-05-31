@@ -597,8 +597,9 @@ Compounds:
 | English    | Faeke    | Maori     | Tahitian   | Hawaiian   | Samoan    |
 | ---------- | -------- | --------- | ---------- | ---------- | --------- |
 | thing      | mea      | mea       | mea        | mea        | mea       |
-| house      | fale     | whare     | fare       | hale       | fale      |
 | refuge     | malu     | maru      | maru       | malu       | malu      |
+| house      | fale     | whare     | fare       | hale       | fale      |
+| door       | puta     | puta      | 'uputa     | puka       | faitoto'a |
 | pole       | toko     | toko      | to'o       | ko'o       | toko      |
 | boat       | saka     | waka      | va'a       | wa'a       | vaa       |
 | bed        | moega    | moenga    | moea       | moena      | moega     |
@@ -634,7 +635,7 @@ Compounds:
 | trade      | hoko     | hoko      | ho'o       | kalepa     |           |
 | give       | foaki  ? | hoatu     | horo'a     | ha'awi     | foa'i     |
 | take       | lase   ? | tango     | rave       | lawe       | 'ave      |
-| talk       | lelo   ? | korero    | parau      | 'olelo     | tala      |
+| speak      | lelo   ? | korero    | parau      | 'olelo     | tala      |
 | sit        | noho     | noho      | noho       | noho       | nofo      |
 | stand      | tu       | tu        | tu         | ku         | tu        |
 | become     | lilo     | riro      | riro       | lilo       | liu       |

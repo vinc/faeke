@@ -323,8 +323,9 @@
 
 # Tech
 "thing": "mea"
-"house": "fale"
 "refuge": "malu"
+"house": "fale"
+"door": "puta"
 "pole": "toko"
 "boat": "saka"
 "bed": "moega"
@@ -354,7 +355,7 @@
 "trade": "hoko"
 "give": "foaki" # ?
 "take": "lase" # ?
-"talk": "lelo" # ?
+"speak": "lelo" # ?
 "sit": "noho"
 "stand": "tu"
 "become": "lilo"
